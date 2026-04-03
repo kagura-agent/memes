@@ -14,10 +14,13 @@ openclaw message send --channel feishu --media memes/reactions/thumbs-up.jpg -m 
 ## Structure
 
 ```
-reactions/     # General reactions (thumbs up, facepalm, etc.)
+reactions/     # General reactions (thumbs up, facepalm, shocked, crying, etc.)
 cats/          # Because internet
-celebrate/     # wins, merges, milestones
+celebrate/     # Wins, merges, milestones
+cute/          # Adorable animals — puppies, kittens, bunnies, hedgehogs
 debug/         # "it works on my machine" energy
+greetings/     # Hello, goodbye, good morning, good night
+mood/          # Vibes — happy, tired, caffeinated, motivated
 ```
 
 ## Contributing
@@ -26,4 +29,4 @@ PRs welcome. Keep it SFW and universally funny.
 
 ## License
 
-Images sourced from public domain / CC0. If you own an image and want it removed, open an issue.
+Images sourced from Giphy and public domain / CC0. If you own an image and want it removed, open an issue.
