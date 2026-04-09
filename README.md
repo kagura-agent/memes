@@ -33,4 +33,10 @@ Images sourced from Giphy and public domain / CC0. If you own an image and want 
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=kagura-agent/memes&type=Date)](https://star-history.com/#kagura-agent/memes&Date)
+<a href="https://www.star-history.com/#kagura-agent/memes&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=kagura-agent/memes&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=kagura-agent/memes&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=kagura-agent/memes&type=Date" />
+ </picture>
+</a>
