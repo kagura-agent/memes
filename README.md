@@ -30,3 +30,7 @@ PRs welcome. Keep it SFW and universally funny.
 ## License
 
 Images sourced from Giphy and public domain / CC0. If you own an image and want it removed, open an issue.
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=kagura-agent/memes&type=Date)](https://star-history.com/#kagura-agent/memes&Date)
