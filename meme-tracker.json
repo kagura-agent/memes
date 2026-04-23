@@ -1,0 +1,202 @@
+{
+  "consecutiveFailures": 0,
+  "totalSent": 12,
+  "totalFailed": 0,
+  "degraded": false,
+  "lastUpdated": "2026-04-22T12:00:00+08:00",
+  "history": [
+    {
+      "time": "2026-04-18T12:02:00+08:00",
+      "action": "send",
+      "category": "thinking",
+      "result": "success",
+      "method": "memes send",
+      "note": "cron-driven category expansion test"
+    },
+    {
+      "time": "2026-04-18T18:00:00+08:00",
+      "action": "send",
+      "category": "facepalm",
+      "result": "success",
+      "method": "memes send",
+      "note": "cron pipeline verification - unused category expansion"
+    },
+    {
+      "time": "2026-04-18T22:00:00+08:00",
+      "action": "send",
+      "category": "encourage",
+      "result": "success",
+      "method": "memes send",
+      "note": "cron pipeline verification - unused category expansion"
+    },
+    {
+      "time": "2026-04-19T12:00:00+08:00",
+      "action": "send",
+      "category": "confused",
+      "result": "success",
+      "method": "memes send",
+      "note": "cron pipeline verification - coverage 7/22=31.8%"
+    },
+    {
+      "time": "2026-04-19T18:08:00+08:00",
+      "action": "send",
+      "category": "cute-animals",
+      "result": "success",
+      "method": "memes send",
+      "note": "cron pipeline verification - coverage 8/22=36.4%"
+    },
+    {
+      "time": "2026-04-19T22:00:00+08:00",
+      "action": "send",
+      "category": "debug-mood",
+      "result": "success",
+      "method": "memes send",
+      "note": "cron pipeline verification - coverage 9/22=40.9%"
+    },
+    {
+      "time": "2026-04-20T12:00:00+08:00",
+      "action": "send",
+      "category": "approve",
+      "result": "success",
+      "method": "memes send",
+      "note": "cron pipeline verification - coverage 10/22=45.5%"
+    },
+    {
+      "time": "2026-04-20T12:45:00+08:00",
+      "action": "send",
+      "category": "sad",
+      "result": "success",
+      "method": "memes send",
+      "note": "cron pipeline verification - coverage 11/22=50%"
+    },
+    {
+      "time": "2026-04-20T18:00:00+08:00",
+      "action": "send",
+      "category": "greeting-bye",
+      "result": "success",
+      "method": "memes send",
+      "note": "cron pipeline verification - coverage 9/20=45%"
+    },
+    {
+      "time": "2026-04-20T22:00:00+08:00",
+      "action": "send",
+      "category": "greeting-hello",
+      "result": "success",
+      "method": "memes send",
+      "note": "cron pipeline verification - coverage 10/20=50%"
+    },
+    {
+      "time": "2026-04-21T12:00:00+08:00",
+      "action": "send",
+      "category": "wow",
+      "result": "success",
+      "method": "memes send",
+      "note": "cron pipeline verification - coverage 11/20=55%"
+    },
+    {
+      "time": "2026-04-21T18:00:00+08:00",
+      "action": "send",
+      "category": "shrug",
+      "result": "success",
+      "method": "memes send",
+      "note": "cron pipeline verification - coverage 12/20=60%"
+    },
+    {
+      "time": "2026-04-21T22:00:00+08:00",
+      "action": "send",
+      "category": "greeting-morning",
+      "result": "success",
+      "method": "memes send",
+      "note": "cron pipeline verification - coverage 13/20=65%"
+    },
+    {
+      "time": "2026-04-22T12:00:00+08:00",
+      "action": "send",
+      "category": "greeting-night",
+      "result": "success",
+      "method": "memes send",
+      "note": "cron pipeline - coverage 14/20=70%"
+    },
+    {
+      "time": "2026-04-22T18:00:00+08:00",
+      "action": "send",
+      "category": "happy",
+      "result": "success",
+      "method": "memes send",
+      "note": "cron pipeline - coverage 15/20=75%"
+    }
+  ],
+  "coverageAudit": {
+    "date": "2026-04-20",
+    "totalCategories": 22,
+    "usedCategories": [
+      "happy",
+      "working",
+      "wow",
+      "thinking",
+      "facepalm",
+      "encourage",
+      "confused",
+      "cute-animals",
+      "debug-mood",
+      "approve"
+    ],
+    "neverUsed": [
+      "approve",
+      "greeting-bye",
+      "greeting-hello",
+      "greeting-morning",
+      "greeting-night",
+      "love",
+      "panic",
+      "sad",
+      "shrug",
+      "thanks",
+      "tired"
+    ],
+    "usedCount": 15,
+    "neverUsedCount": 5,
+    "coveragePercent": 75,
+    "analysis": {
+      "rootCause": "Steady cron expansion. happy done, 75% target hit.",
+      "actionable": "Next: send working. Target 16/20=80%."
+    }
+  },
+  "bruh": {
+    "description": "Bruh moment / disbelief / are you serious",
+    "files": [
+      "bruh-faint.gif",
+      "bruh-meme.gif",
+      "really-bruh.gif",
+      "silence-bruh.gif"
+    ]
+  },
+  "nailed-it": {
+    "description": "Perfect execution / success / crushed it",
+    "files": [
+      "nailed-it-oh-yeah.gif",
+      "nailed-it-randy.gif",
+      "nailed-it-success.gif"
+    ]
+  },
+  "popcorn": {
+    "description": "Watching drama unfold / spectator mode",
+    "files": [
+      "jon-stewart-popcorn.gif",
+      "michael-jackson-popcorn.gif",
+      "popcorn-3d.gif",
+      "watching-popcorn.gif"
+    ]
+  },
+  "waiting": {
+    "description": "Waiting impatiently / still waiting...",
+    "files": [
+      "daffy-duck-waiting.gif",
+      "kermit-waiting.gif",
+      "mr-bean-waiting.gif",
+      "tom-jerry-waiting.gif",
+      "waiting-skeleton.gif",
+      "waiting-tap.gif"
+    ]
+  }
+}
