@@ -65,6 +65,22 @@ openclaw message send --channel discord --media memes/happy/party-parrot.gif -m 
 
 **187 images** across **26 categories**. Mostly GIFs because motion hits harder.
 
+## Semantic Tags (`tags.json`)
+
+Each image has semantic tags for emotion/context-based selection beyond just category names:
+
+```json
+"panic/sweating.gif": ["panic", "sweating", "nervous", "anxious", "tense", "worried"]
+```
+
+This enables fuzzy matching — search for "nervous" and get `panic/sweating.gif` even though the category is `panic`. Tags cover:
+- **Emotions**: happy, sad, anxious, smug, confused, etc.
+- **Contexts**: coding, morning, celebration, drama, etc.
+- **Characters**: pikachu, gojo, frieren, kermit, etc.
+- **Vibes**: iconic, classic, cute, sarcastic, etc.
+
+Tools can load `tags.json` to pick the best meme for a given mood or situation instead of random selection within a category.
+
 ## Contributing
 
 PRs welcome. Keep it SFW and universally funny.
