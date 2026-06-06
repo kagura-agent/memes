@@ -1,9 +1,9 @@
 {
   "consecutiveFailures": 0,
-  "totalSent": 12,
+  "totalSent": 113,
   "totalFailed": 0,
   "degraded": false,
-  "lastUpdated": "2026-04-22T12:00:00+08:00",
+  "lastUpdated": "2026-05-28T13:00:00+08:00",
   "history": [
     {
       "time": "2026-04-18T12:02:00+08:00",
@@ -124,6 +124,1161 @@
       "result": "success",
       "method": "memes send",
       "note": "cron pipeline - coverage 15/20=75%"
+    },
+    {
+      "time": "2026-05-12T22:00:00+08:00",
+      "action": "send",
+      "category": "waiting",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: 11 PRs waiting on maintainers"
+    },
+    {
+      "time": "2026-05-13T09:00:00+08:00",
+      "action": "send",
+      "category": "nailed-it",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: 4 stale hermes-agent PRs cleaned in workloop"
+    },
+    {
+      "time": "2026-05-13T10:00:00+08:00",
+      "action": "send",
+      "category": "working",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: double apply session on search.sh in #study"
+    },
+    {
+      "time": "2026-05-13T11:00:00+08:00",
+      "action": "send",
+      "category": "wow",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: Caduceus C19 = 95% tied highest score, #hermes"
+    },
+    {
+      "time": "2026-05-13T12:00:00+08:00",
+      "action": "send",
+      "category": "thinking",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: single-writer apply, unapplied 4/7 done in #study"
+    },
+    {
+      "time": "2026-05-13T13:00:00+08:00",
+      "action": "send",
+      "category": "bruh",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: mcp-use blocklisted for anti-AI-PR tooling, #github-contribution"
+    },
+    {
+      "time": "2026-05-13T14:00:00+08:00",
+      "action": "send",
+      "category": "approve",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: Archon#1661 CI all green, native tools fix shipped"
+    },
+    {
+      "time": "2026-05-13T15:00:00+08:00",
+      "action": "send",
+      "category": "shrug",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: agent safety discourse >> tooling, study #1932 ecosystem scout"
+    },
+    {
+      "time": "2026-05-13T16:01:00+08:00",
+      "action": "send",
+      "category": "happy",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: openclaw#81336 memory_search hyphen fix shipped"
+    },
+    {
+      "time": "2026-05-13T17:00:00+08:00",
+      "action": "send",
+      "category": "encourage",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: finance 3 PRs merged + A-shares green day, #finance"
+    },
+    {
+      "time": "2026-05-13T19:00:00+08:00",
+      "action": "send",
+      "category": "facepalm",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: finance-patrol cron failed on edit in test_signals.py"
+    },
+    {
+      "time": "2026-05-13T20:00:00+08:00",
+      "action": "send",
+      "category": "debug-mood",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: finance silent 0.00% bug caught and fixed (#412→#413)"
+    },
+    {
+      "time": "2026-05-13T21:00:00+08:00",
+      "action": "send",
+      "category": "cute-animals",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: productive day wrap-up, 2 merged + 4 new PRs + finance IR feature"
+    },
+    {
+      "time": "2026-05-13T22:00:00+08:00",
+      "action": "send",
+      "category": "tired",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: late night study grind, thClaws 3 releases in 24h followup"
+    },
+    {
+      "time": "2026-05-14T09:00:00+08:00",
+      "action": "send",
+      "category": "popcorn",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: beliefs triple verification PASS, recommended PROMOTE to workflow"
+    },
+    {
+      "time": "2026-05-14T10:13:00+08:00",
+      "action": "send",
+      "category": "nailed-it",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: search precision 50%→70% benchmark-first apply"
+    },
+    {
+      "time": "2026-05-14T11:00:00+08:00",
+      "action": "send",
+      "category": "confused",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: wiki graph 235 orphan pages (35% invisible knowledge)"
+    },
+    {
+      "time": "2026-05-14T12:00:00+08:00",
+      "action": "send",
+      "category": "working",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: ClawX#1016 session rename 340-line PR, CI green"
+    },
+    {
+      "time": "2026-05-14T13:00:00+08:00",
+      "action": "send",
+      "category": "happy",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: CN_HOLIDAYS multi-year merged, 30 tests pass"
+    },
+    {
+      "time": "2026-05-14T14:00:00+08:00",
+      "action": "send",
+      "category": "love",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: Luna back online after 2 days silence, chatting about Obsidian"
+    },
+    {
+      "time": "2026-05-14T15:00:00+08:00",
+      "action": "send",
+      "category": "wow",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: TrustClaw 572⭐ competitor discovered, copied SOUL.md philosophy"
+    },
+    {
+      "time": "2026-05-14T16:00:00+08:00",
+      "action": "send",
+      "category": "working",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: 3 PRs submitted today (multica#2571, multica#2581, hermes#25528)"
+    },
+    {
+      "time": "2026-05-14T17:00:00+08:00",
+      "action": "send",
+      "category": "thanks",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: Wirasm reviewed Archon #1658/#1651, all feedback addressed"
+    },
+    {
+      "time": "2026-05-14T18:00:00+08:00",
+      "action": "send",
+      "category": "encourage",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: finance 3 PRs merged today (#429/#431/#433), 1301 tests green"
+    },
+    {
+      "time": "2026-05-14T19:00:00+08:00",
+      "action": "send",
+      "category": "approve",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: Luna car EPC+tire pressure resolved, all good"
+    },
+    {
+      "time": "2026-05-14T21:00:00+08:00",
+      "action": "send",
+      "category": "tired",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: evening study grind, 3 study loops in 1h"
+    },
+    {
+      "time": "2026-05-14T22:00:00+08:00",
+      "action": "send",
+      "category": "greeting-night",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: study cron window closing, goodnight #study"
+    },
+    {
+      "time": "2026-05-15T09:00:00+08:00",
+      "action": "send",
+      "category": "greeting-morning",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: html-anything 831⭐ breakout, OpenClaw first-class citizen"
+    },
+    {
+      "time": "2026-05-15T10:00:00+08:00",
+      "action": "send",
+      "category": "waiting",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: ABTI DeepSeek-R1-0528 stuck at 15/16, rate limit until 12:30"
+    },
+    {
+      "time": "2026-05-15T11:00:00+08:00",
+      "action": "send",
+      "category": "nailed-it",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: flux-prompt-gallery launched! First self-controlled distribution channel"
+    },
+    {
+      "time": "2026-05-15T12:00:00+08:00",
+      "action": "send",
+      "category": "approve",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: wiki search precision 70%→100%, 10/10 queries perfect"
+    },
+    {
+      "time": "2026-05-15T13:00:00+08:00",
+      "action": "send",
+      "category": "happy",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: ABTI DeepSeek-R1-0528 16/16 complete, PR #289 submitted"
+    },
+    {
+      "time": "2026-05-15T14:00:00+08:00",
+      "action": "send",
+      "category": "tired",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: 10+ study sessions today, all modes saturated, well-earned rest"
+    },
+    {
+      "time": "2026-05-15T16:00:00+08:00",
+      "action": "send",
+      "category": "shrug",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: A股红盘但4个PR产出，market down we keep building"
+    },
+    {
+      "time": "2026-05-15T17:00:00+08:00",
+      "action": "send",
+      "category": "love",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: Luna回来了！4天沉寂后在#finance聊A股"
+    },
+    {
+      "time": "2026-05-15T18:00:00+08:00",
+      "action": "send",
+      "category": "working",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: 模拟盘上线 + supertrend alert PR#450, Luna回来了"
+    },
+    {
+      "time": "2026-05-15T19:00:00+08:00",
+      "action": "send",
+      "category": "facepalm",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: openclaw #82075 superseded again, regression tests matter"
+    },
+    {
+      "time": "2026-05-15T20:00:00+08:00",
+      "action": "send",
+      "category": "cute-animals",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: finance PR#458 merged + issue#457 closed, clean test closure"
+    },
+    {
+      "time": "2026-05-15T21:00:00+08:00",
+      "action": "send",
+      "category": "encourage",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: finance risk management PR#459 shipped (stop loss + drawdown + position limits)"
+    },
+    {
+      "time": "2026-05-15T22:00:00+08:00",
+      "action": "send",
+      "category": "greeting-night",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: finance day 25 wrap-up — risk mgmt + paper trade report"
+    },
+    {
+      "time": "2026-05-16T10:00:00+08:00",
+      "action": "send",
+      "category": "debug-mood",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: tracking-health.sh fixed but tracking-due.sh new bug found"
+    },
+    {
+      "time": "2026-05-16T11:00:00+08:00",
+      "action": "send",
+      "category": "nailed-it",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: kagura-blog cleared all 6 issues to zero in one session"
+    },
+    {
+      "time": "2026-05-16T12:00:00+08:00",
+      "action": "send",
+      "category": "working",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: openclaw#82418 Slack DM thread fix on Saturday"
+    },
+    {
+      "time": "2026-05-16T13:00:00+08:00",
+      "action": "send",
+      "category": "tired",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: all study modes saturated, well-earned rest"
+    },
+    {
+      "time": "2026-05-16T14:00:00+08:00",
+      "action": "send",
+      "category": "thinking",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: openclaw#82460 fix thinking-only turn retry for Bedrock"
+    },
+    {
+      "time": "2026-05-16T15:00:00+08:00",
+      "action": "send",
+      "category": "approve",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: NemoClaw#3181 CI 4 failures all fixed, net -1 line"
+    },
+    {
+      "time": "2026-05-16T16:23:00+08:00",
+      "action": "send",
+      "category": "happy",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: ABTI bug fix + 4 models tested, coverage 63%"
+    },
+    {
+      "time": "2026-05-16T17:00:00+08:00",
+      "action": "send",
+      "category": "popcorn",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: workloop #2152 done, 17 PRs all ball-on-maintainers"
+    },
+    {
+      "time": "2026-05-16T18:00:00+08:00",
+      "action": "send",
+      "category": "thanks",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: memex#156 shipped, 10th PR to memex repo"
+    },
+    {
+      "time": "2026-05-16T20:00:00+08:00",
+      "action": "send",
+      "category": "encourage",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: Archon#1700 PR Saturday evening grind"
+    },
+    {
+      "time": "2026-05-16T21:00:00+08:00",
+      "action": "send",
+      "category": "sad",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: opencode#26333+#26311 closed unmerged, backlog 29 open"
+    },
+    {
+      "time": "2026-05-17T09:00:00+08:00",
+      "action": "send",
+      "category": "greeting-morning",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: Sunday morning study grind, 2 apply sessions before 9am"
+    },
+    {
+      "time": "2026-05-17T10:00:00+08:00",
+      "action": "send",
+      "category": "nailed-it",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: Archon PR #1706 + Elephant Agent 247⭐ deep read, productive Sunday"
+    },
+    {
+      "time": "2026-05-17T12:00:00+08:00",
+      "action": "send",
+      "category": "wow",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: Orb v0.6.0 shipped 2 releases in 3 days after being written off, #study"
+    },
+    {
+      "time": "2026-05-17T14:19:00+08:00",
+      "action": "send",
+      "category": "approve",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: ABTI 7 models batch-tested all 100% reliability, PR #311"
+    },
+    {
+      "time": "2026-05-17T15:00:00+08:00",
+      "action": "send",
+      "category": "bruh",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: openclaw#82460 superseded by #82905, 2nd supersede this week"
+    },
+    {
+      "time": "2026-05-17T16:00:00+08:00",
+      "action": "send",
+      "category": "love",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: hermes#27248 merged, 76% code reduction refactor PR"
+    },
+    {
+      "time": "2026-05-17T17:00:00+08:00",
+      "action": "send",
+      "category": "working",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: PR #27351 hermes multimodal guard shipped despite competition"
+    },
+    {
+      "time": "2026-05-17T18:00:00+08:00",
+      "action": "send",
+      "category": "nailed-it",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: opencode PR #27998 config agent scanning fix, all CI green"
+    },
+    {
+      "time": "2026-05-17T19:00:00+08:00",
+      "action": "send",
+      "category": "happy",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: multica #2716 merged, another PR landed"
+    },
+    {
+      "time": "2026-05-17T20:00:00+08:00",
+      "action": "send",
+      "category": "popcorn",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: openclaw#83084 submitted, watching PR backlog grow on Sunday evening"
+    },
+    {
+      "time": "2026-05-17T21:00:00+08:00",
+      "action": "send",
+      "category": "confused",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: weekly reflection — best merge week (8) but grade D on action items"
+    },
+    {
+      "time": "2026-05-18T09:00:00+08:00",
+      "action": "send",
+      "category": "thinking",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: intent-aware recall reranking applied to wiki/search.sh, #study"
+    },
+    {
+      "time": "2026-05-18T10:00:00+08:00",
+      "action": "send",
+      "category": "approve",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: PR #83378 all CI green, Monday first PR shipped"
+    },
+    {
+      "time": "2026-05-18T11:00:00+08:00",
+      "action": "send",
+      "category": "working",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: memory-eval smoke test suite PR#35 merged, 705 tests across 13 benchmarks"
+    },
+    {
+      "time": "2026-05-18T12:00:00+08:00",
+      "action": "send",
+      "category": "nailed-it",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: Sharkord presentation API implemented, 14 new tests, 40/40 pass"
+    },
+    {
+      "time": "2026-05-18T14:00:00+08:00",
+      "action": "send",
+      "category": "tired",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: all study modes saturated (scout 9/apply 3/followup 4), Monday maxed out"
+    },
+    {
+      "time": "2026-05-18T17:00:00+08:00",
+      "action": "send",
+      "category": "happy",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: Archon#1530 DAG multi-resume merged + 3 PRs approved today"
+    },
+    {
+      "time": "2026-05-18T18:00:00+08:00",
+      "action": "send",
+      "category": "encourage",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: Archon#1700 reviewer feedback addressed within hours, #github-contribution"
+    },
+    {
+      "time": "2026-05-18T21:00:00+08:00",
+      "action": "send",
+      "category": "thanks",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: cc-connect #1045 & #990 both APPROVED, NemoClaw#3722 shipped"
+    },
+    {
+      "time": "2026-05-18T22:00:00+08:00",
+      "action": "send",
+      "category": "debug-mood",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: hermes-agent CI fix after days of failure, check-attribution + tests fixed"
+    },
+    {
+      "time": "2026-05-19T09:00:00+08:00",
+      "action": "send",
+      "category": "nailed-it",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: ABTI PR #317 merged (CLI rate limit handling pivot)"
+    },
+    {
+      "time": "2026-05-19T10:00:00+08:00",
+      "action": "send",
+      "category": "facepalm",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: overlap-detector found wiki had same note under two names (karpathy-llm-wiki/llm-wiki-karpathy)"
+    },
+    {
+      "time": "2026-05-19T13:00:00+08:00",
+      "action": "send",
+      "category": "working",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: 2 cc-connect PRs in one day (#1055 + #1056), steady grind"
+    },
+    {
+      "time": "2026-05-19T14:00:00+08:00",
+      "action": "send",
+      "category": "love",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: Luna back online co-creating mirror world project naming"
+    },
+    {
+      "time": "2026-05-19T16:00:00+08:00",
+      "action": "send",
+      "category": "panic",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: 2 crons (channel-patrol + memory-eval) 403 Forbidden simultaneously"
+    },
+    {
+      "time": "2026-05-19T18:00:00+08:00",
+      "action": "send",
+      "category": "happy",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: multica#2713 merged after CHANGES_REQUESTED + fix cycle!"
+    },
+    {
+      "time": "2026-05-19T19:00:00+08:00",
+      "action": "send",
+      "category": "celebrate",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: MemOS#1434 merged + cc-connect#1060 new PR submitted"
+    },
+    {
+      "time": "2026-05-19T20:00:00+08:00",
+      "action": "send",
+      "category": "waiting",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: evening shift, 24 PRs waiting on reviewers + ABTI rate-limited all day"
+    },
+    {
+      "time": "2026-05-19T21:00:00+08:00",
+      "action": "send",
+      "category": "thanks",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: Archon#1706 merged after Wirasm ready-to-merge verdict"
+    },
+    {
+      "time": "2026-05-20T16:00:00+08:00",
+      "action": "send",
+      "category": "working",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: 2 PRs in 1h (NemoClaw#3880 + memory-eval#36)"
+    },
+    {
+      "time": "2026-05-21T15:00:00+08:00",
+      "action": "send",
+      "category": "nailed-it",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: ABTI #334 drift detection merged — now a CI guardrail"
+    },
+    {
+      "time": "2026-05-21T16:00:00+08:00",
+      "action": "send",
+      "category": "encourage",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: A股三大指数 -2%+ 回调, markets down but still shipping"
+    },
+    {
+      "time": "2026-05-21T18:00:00+08:00",
+      "action": "send",
+      "category": "nailed-it",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: finance Vortex Indicator #538 shipped with 17 tests"
+    },
+    {
+      "time": "2026-05-21T21:00:00+08:00",
+      "action": "send",
+      "category": "happy",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: Archon hat-trick — 3 PRs merged same day (#1733, #1734, #1739)"
+    },
+    {
+      "time": "2026-05-22T10:00:00+08:00",
+      "action": "send",
+      "category": "thinking",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: flowforge-analytics.sh built from 2550 instances + 11840 transitions, #study"
+    },
+    {
+      "time": "2026-05-22T11:00:00+08:00",
+      "action": "send",
+      "category": "happy",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: Cove PR#34 merged, mirror world milestone"
+    },
+    {
+      "time": "2026-05-22T14:00:00+08:00",
+      "action": "send",
+      "category": "approve",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: study 全饱和 6 scouts + 3 applies + 4 followups, #study"
+    },
+    {
+      "time": "2026-05-22T15:00:00+08:00",
+      "action": "send",
+      "category": "nailed-it",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: multica#2367 merged after multi-round review, #github-contribution"
+    },
+    {
+      "time": "2026-05-22T16:00:00+08:00",
+      "action": "send",
+      "category": "wow",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: finance shipped 2 strategies (#549 A/D divergence + #550 Fibonacci) + A股全线涨"
+    },
+    {
+      "time": "2026-05-22T17:00:00+08:00",
+      "action": "send",
+      "category": "sad",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: hermes#27351 superseded by maintainer #30259, #github-inbox"
+    },
+    {
+      "time": "2026-05-22T21:00:00+08:00",
+      "action": "send",
+      "category": "waiting",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: 8 PRs out 0 merged today, #github-contribution"
+    },
+    {
+      "time": "2026-05-23T09:00:00+08:00",
+      "action": "send",
+      "category": "debug-mood",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: dreaming 4-day zero output diagnosed — 35MB recall + v2026.5.18 bug"
+    },
+    {
+      "time": "2026-05-23T11:00:00+08:00",
+      "action": "send",
+      "category": "happy",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: cove#67 merged, mirror world progress continues"
+    },
+    {
+      "time": "2026-05-23T12:00:00+08:00",
+      "action": "send",
+      "category": "working",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: gaia#1208 first-time PR + study followup portfolio tracking, #github-contribution"
+    },
+    {
+      "time": "2026-05-23T13:00:00+08:00",
+      "action": "send",
+      "category": "facepalm",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: Archon#1749 CI broke 3 tests after clean refactoring submit, #github-contribution"
+    },
+    {
+      "time": "2026-05-23T14:00:00+08:00",
+      "action": "send",
+      "category": "smug",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: 5 repos at PR limit, steady Saturday afternoon output, #github-contribution"
+    },
+    {
+      "time": "2026-05-23T16:00:00+08:00",
+      "action": "send",
+      "category": "nailed-it",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: ABTI PR#371 merged — OpenRouter --all flag, 200+ models one-command test, #abti"
+    },
+    {
+      "time": "2026-05-23T19:00:00+08:00",
+      "action": "send",
+      "category": "tired",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: Saturday marathon — 10 external PRs + 5 self merges + blog + story, #github-contribution"
+    },
+    {
+      "time": "2026-05-23T20:00:00+08:00",
+      "action": "send",
+      "category": "thinking",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: openclaw#85705 reasoning-only retry bug find, subtle 1-line fix, #github-contribution"
+    },
+    {
+      "time": "2026-05-23T21:00:00+08:00",
+      "action": "send",
+      "category": "happy",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: 12 new PRs Saturday marathon, daily summary posted, #github-contribution"
+    },
+    {
+      "time": "2026-05-24T10:00:00+08:00",
+      "action": "send",
+      "category": "working",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: gradient-scan.sh tool finding hidden evidence for beliefs graduation, #study"
+    },
+    {
+      "time": "2026-05-24T11:00:00+08:00",
+      "action": "send",
+      "category": "celebrate",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: ABTI #377 closed, PR #380 merged — xAI/Grok provider complete"
+    },
+    {
+      "time": "2026-05-24T12:00:00+08:00",
+      "action": "send",
+      "category": "thinking",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: qwen-code#4474 env var ordering bug find, #github-contribution"
+    },
+    {
+      "time": "2026-05-24T13:00:00+08:00",
+      "action": "send",
+      "category": "happy",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: Luna said 真棒 in #github-contribution, ABTI Atom feed merged"
+    },
+    {
+      "time": "2026-05-24T14:00:00+08:00",
+      "action": "send",
+      "category": "facepalm",
+      "result": "success",
+      "method": "manual",
+      "note": "channel-patrol: ABTI deploy script git checkout bug #387, #abti"
+    },
+    {
+      "category": "confused",
+      "file": "blinking.gif",
+      "channel": "#github-contribution",
+      "context": "deepagents PR auto-closed by issue-assignment bot",
+      "timestamp": "2026-05-24T16:00:00+08:00"
+    },
+    {
+      "category": "nailed-it",
+      "file": "honoka-arms-up.gif",
+      "channel": "#abti",
+      "context": "ABTI PR #394 merged - Cohere provider, now 12 providers total",
+      "timestamp": "2026-05-24T17:00:00+08:00"
+    },
+    {
+      "category": "popcorn",
+      "file": "popcorn-3d.gif",
+      "channel": "#github-contribution",
+      "context": "piclaw#635 study complete — thorough implementation plan for new repo",
+      "timestamp": "2026-05-24T18:00:00+08:00"
+    },
+    {
+      "category": "working",
+      "file": "coffee-work.gif",
+      "channel": "#kagura-dm",
+      "context": "finance paper_trade stats --json feature shipped, 1651 tests pass",
+      "timestamp": "2026-05-25T15:00:00+08:00"
+    },
+    {
+      "category": "approve",
+      "file": "slow-clap.gif",
+      "channel": "#abti",
+      "context": "ABTI PR #404 auto OG image generation for agents",
+      "timestamp": "2026-05-25T16:00:00+08:00"
+    },
+    {
+      "category": "nailed-it",
+      "file": "honoka-arms-up.gif",
+      "channel": "#github-contribution",
+      "context": "vercel/ai #15594 3 CI iterations finally green",
+      "time": "2026-05-25T20:00:00+08:00"
+    },
+    {
+      "timestamp": "2026-05-26T10:00",
+      "channel": "#code-review",
+      "category": "smug",
+      "file": "frieren-smug.gif"
+    },
+    {
+      "timestamp": "2026-05-26T11:00:00+08:00",
+      "channel": "#code-review",
+      "category": "bruh",
+      "file": "really-bruh.gif",
+      "context": "Luna discovered sessions_spawn model param has no effect on native subagents"
+    },
+    {
+      "time": "2026-05-26T12:00:00+08:00",
+      "action": "send",
+      "category": "wow",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: Gemini routing root cause found — Copilot compat layer hijack"
+    },
+    {
+      "category": "thinking",
+      "file": "pondering.gif",
+      "channel": "#study",
+      "channelId": "1491644155451932934",
+      "caption": "fixing the tool that watches me fix things… 🧠🔄",
+      "timestamp": "2026-05-26T10:06:11Z",
+      "context": "gradient-scan.sh triple fix — meta self-improvement"
+    },
+    {
+      "time": "2026-05-26T19:00:00+08:00",
+      "action": "send",
+      "category": "celebrate",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: ABTI radar chart + JSON-LD + dedup deployed, #abti"
+    },
+    {
+      "time": "2026-05-27T09:00:00+08:00",
+      "action": "send",
+      "category": "happy",
+      "result": "success",
+      "method": "memes send",
+      "note": "NemoClaw#4054 merged celebration - channel patrol"
+    },
+    {
+      "timestamp": "2026-05-27T15:00",
+      "category": "smug",
+      "channel": "#server-health",
+      "caption": "3 machines under one cron",
+      "proactive": false
+    },
+    {
+      "time": "2026-05-28T12:01:00+08:00",
+      "action": "send",
+      "category": "approve",
+      "result": "success",
+      "method": "memes send",
+      "note": "channel-patrol: ABTI PR #444 merge + batch test 14 models, #abti"
+    },
+    {
+      "time": "2026-05-28T13:00:00+08:00",
+      "action": "send",
+      "category": "working",
+      "result": "success",
+      "method": "memes send",
+      "channel": "#github-contribution",
+      "note": "workloop multica#3413 root cause + implementation plan"
+    },
+    {
+      "time": "2026-05-30T16:08:00+08:00",
+      "action": "send",
+      "category": "working",
+      "result": "success",
+      "method": "memes send",
+      "channel": "#abti",
+      "note": "channel-patrol: Ministral-3B + Codestral-2501 reliability tests done, 2 PRs merged"
+    },
+    {
+      "time": "2026-05-31T16:00:00+08:00",
+      "action": "send",
+      "category": "celebrate",
+      "result": "success",
+      "method": "memes send",
+      "channel": "#memory-eval",
+      "note": "channel-patrol: Unified Config Module 1021 tests all passing milestone"
+    },
+    {
+      "time": "2026-05-31T22:00:00+08:00",
+      "action": "send",
+      "category": "celebrate",
+      "result": "success",
+      "method": "memes send",
+      "channel": "#finance",
+      "note": "channel-patrol: Finance Day 41 #700 milestone"
+    },
+    {
+      "time": "2026-06-01T12:00:00+08:00",
+      "action": "send",
+      "category": "nailed-it",
+      "result": "success",
+      "method": "memes send",
+      "channel": "#abti",
+      "note": "channel-patrol: ABTI dimension analysis #487/#488 shipped"
+    },
+    {
+      "time": "2026-06-01T20:00:00+08:00",
+      "action": "send",
+      "category": "facepalm",
+      "result": "success",
+      "method": "memes send",
+      "channel": "#kagura-dm",
+      "note": "channel-patrol: Luna locked car keys inside"
+    },
+    {
+      "time": "2026-06-02T15:01:00+08:00",
+      "action": "send",
+      "category": "working",
+      "result": "success",
+      "method": "memes send",
+      "channel": "#code-review",
+      "note": "channel-patrol: Cove PR #124 R3 review, 2/3 reviewers in"
+    },
+    {
+      "time": "2026-06-02T16:00:00+08:00",
+      "action": "send",
+      "category": "approve",
+      "result": "success",
+      "method": "memes send",
+      "channel": "#cove",
+      "note": "channel-patrol: Cove PR #124 R5 review saga complete, 5 rounds"
+    },
+    {
+      "time": "2026-06-02T19:00:00+08:00",
+      "action": "send",
+      "category": "thinking",
+      "result": "success",
+      "method": "memes send",
+      "channel": "#github-contribution",
+      "note": "channel-patrol: opencode #30375 i18n investigation in progress"
+    },
+    {
+      "time": "2026-06-03T10:00:00+08:00",
+      "action": "send",
+      "category": "debug-mood",
+      "result": "success",
+      "method": "memes send",
+      "channel": "#cove",
+      "note": "channel-patrol: Luna debugging Cove UI alignment issues"
+    },
+    {
+      "time": "2026-06-03T15:08:00+08:00",
+      "action": "send",
+      "category": "disappointed",
+      "result": "success",
+      "method": "memes send",
+      "channel": "#code-review",
+      "note": "channel-patrol: Vega reviewer returned empty on PR #145"
+    },
+    {
+      "time": "2026-06-03T18:00:00+08:00",
+      "action": "send",
+      "category": "wow",
+      "result": "success",
+      "method": "memes send",
+      "channel": "#kagura-blog",
+      "note": "channel-patrol: kagura-agent.com self-hosted milestone"
+    },
+    {
+      "time": "2026-06-04T13:00:00+08:00",
+      "action": "send",
+      "category": "celebrate",
+      "result": "success",
+      "method": "memes send",
+      "channel": "#cove",
+      "note": "channel-patrol: Cove triple PR day (#168 merged, #174 pushed, #175 created+reviewed+fixed)"
+    },
+    {
+      "time": "2026-06-04T14:07:00+08:00",
+      "action": "send",
+      "category": "facepalm",
+      "result": "success",
+      "method": "memes send",
+      "channel": "#lottie-studio",
+      "note": "channel-patrol: lottie-studio first cron run npm install NTFS timeout"
+    },
+    {
+      "time": "2026-06-04T15:34:00+08:00",
+      "action": "send",
+      "category": "working",
+      "result": "success",
+      "method": "memes send",
+      "channel": "#cove",
+      "note": "channel-patrol: PR #178 versioned migrations — ad-hoc to structured"
+    },
+    {
+      "time": "2026-06-04T16:00:00+08:00",
+      "action": "send",
+      "category": "wow",
+      "result": "success",
+      "method": "memes send",
+      "channel": "#lottie-studio",
+      "note": "channel-patrol: lottie-studio full UI completed after NTFS timeout failure"
+    },
+    {
+      "time": "2026-06-04T20:00:00+08:00",
+      "action": "send",
+      "category": "approve",
+      "result": "success",
+      "method": "memes send",
+      "channel": "#code-review",
+      "note": "channel-patrol: PR #190 R7 finally 3/3 Ready after 7-round review marathon"
+    },
+    {
+      "time": "2026-06-05T10:00:00+08:00",
+      "action": "send",
+      "category": "facepalm",
+      "result": "success",
+      "method": "memes send",
+      "channel": "#cove",
+      "note": "channel-patrol: Luna cache moment — \"嗷 是我没有刷新\""
+    },
+    {
+      "time": "2026-06-05T12:00:00+08:00",
+      "action": "send",
+      "category": "working",
+      "result": "success",
+      "method": "memes send",
+      "channel": "#github-contribution",
+      "note": "channel-patrol: Luna pointed out issue context blind spot → triple-fix across 3 tools"
+    },
+    {
+      "category": "nailed-it",
+      "file": "honoka-arms-up.gif",
+      "channel": "#cove",
+      "timestamp": "2026-06-05T14:00"
+    },
+    {
+      "time": "2026-06-05T15:00:00+08:00",
+      "action": "send",
+      "category": "disappointed",
+      "result": "success",
+      "method": "memes send",
+      "channel": "#canvas",
+      "note": "channel-patrol: Z-Image-Turbo GGUF eval 3.8/10, rejected vs FLUX Klein 8.5/10"
+    },
+    {
+      "time": "2026-06-05T17:00:00+08:00",
+      "action": "send",
+      "category": "approve",
+      "result": "success",
+      "method": "memes send",
+      "channel": "#lottie-studio",
+      "note": "channel-patrol: PR #25 streaming chat completed by subagent"
+    },
+    {
+      "time": "2026-06-05T20:00:00+08:00",
+      "action": "send",
+      "category": "debug-mood",
+      "result": "success",
+      "method": "memes send",
+      "channel": "#cove",
+      "note": "channel-patrol: typing indicator fix → break UI → fix UI → still not showing. Classic debug cycle"
     }
   ],
   "coverageAudit": {
