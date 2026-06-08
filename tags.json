@@ -1,219 +1,1530 @@
 {
   "_meta": {
-    "version": 1,
+    "version": 2,
     "description": "Semantic tags for meme selection. Each image has tags describing emotions, contexts, and use cases.",
-    "updated": "2026-04-30"
+    "updated": "2026-06-08",
+    "categoryCounts": {
+      "approve": 8,
+      "bruh": 4,
+      "confused": 6,
+      "cute-animals": 30,
+      "debug-mood": 9,
+      "disappointed": 6,
+      "encourage": 8,
+      "facepalm": 10,
+      "greeting-bye": 6,
+      "greeting-hello": 7,
+      "greeting-morning": 4,
+      "greeting-night": 5,
+      "happy": 12,
+      "love": 5,
+      "nailed-it": 8,
+      "panic": 8,
+      "popcorn": 4,
+      "sad": 5,
+      "shrug": 6,
+      "smug": 7,
+      "thanks": 5,
+      "thinking": 5,
+      "tired": 5,
+      "waiting": 6,
+      "working": 6,
+      "wow": 8
+    },
+    "totalFiles": 193
   },
-  "approve/clap.gif": ["approval", "clapping", "well-done", "applause", "great-job", "celebration"],
-  "approve/nod.gif": ["approval", "nodding", "agree", "yes", "acknowledgment"],
-  "approve/ok-snoopy.gif": ["approval", "ok", "fine", "snoopy", "cute", "thumbs-up"],
-  "approve/salute.gif": ["approval", "salute", "respect", "honor", "yes-sir"],
-  "approve/slow-clap.gif": ["approval", "sarcastic", "slow-clap", "impressed", "ironic"],
-  "approve/thumbs-up-cat.gif": ["approval", "thumbs-up", "cat", "cute", "ok", "agree"],
-  "approve/thumbs-up-chipmunk.gif": ["approval", "thumbs-up", "chipmunk", "cute", "ok"],
-  "approve/thumbs-up.gif": ["approval", "thumbs-up", "ok", "agree", "lgtm", "good"],
-
-  "bruh/bruh-faint.gif": ["bruh", "disbelief", "faint", "shock", "dramatic", "wtf"],
-  "bruh/bruh-meme.gif": ["bruh", "disbelief", "really", "seriously", "deadpan"],
-  "bruh/really-bruh.gif": ["bruh", "disbelief", "really", "annoyed", "unimpressed"],
-  "bruh/silence-bruh.gif": ["bruh", "silence", "speechless", "no-words", "stunned"],
-
-  "confused/blinking.gif": ["confused", "blinking", "processing", "huh", "bewildered"],
-  "confused/head-tilt.gif": ["confused", "head-tilt", "curious", "what", "puzzled"],
-  "confused/huh.gif": ["confused", "huh", "what", "puzzled", "lost"],
-  "confused/math.gif": ["confused", "math", "calculating", "complex", "overthinking", "numbers"],
-  "confused/squint.gif": ["confused", "squint", "suspicious", "skeptical", "doubt"],
-  "confused/what.gif": ["confused", "what", "shocked", "surprised", "bewildered"],
-
-  "cute-animals/bunny-excited.gif": ["cute", "bunny", "rabbit", "excited", "happy", "adorable", "bouncy"],
-  "cute-animals/bunny-pair.gif": ["cute", "bunny", "rabbit", "pair", "couple", "sweet", "together"],
-  "cute-animals/bunny-sniffing.gif": ["cute", "bunny", "rabbit", "sniffing", "curious", "adorable"],
-  "cute-animals/cat-box.gif": ["cute", "cat", "box", "hiding", "cozy", "funny"],
-  "cute-animals/cat-curious.gif": ["cute", "cat", "curious", "looking", "interested", "peeking"],
-  "cute-animals/cat-nap.gif": ["cute", "cat", "nap", "sleeping", "cozy", "relaxed", "tired"],
-  "cute-animals/cat-paw.gif": ["cute", "cat", "paw", "reaching", "grabby", "want"],
-  "cute-animals/cat-peek.gif": ["cute", "cat", "peeking", "shy", "hiding", "curious"],
-  "cute-animals/cat-roll.gif": ["cute", "cat", "rolling", "playful", "silly", "derpy"],
-  "cute-animals/cat-stare.gif": ["cute", "cat", "staring", "judging", "intense", "watching"],
-  "cute-animals/cat-stretch.gif": ["cute", "cat", "stretching", "morning", "waking-up", "relaxed"],
-  "cute-animals/cat-surprise.gif": ["cute", "cat", "surprised", "shocked", "startled", "reaction"],
-  "cute-animals/cat-typing.gif": ["cute", "cat", "typing", "working", "busy", "keyboard", "coding"],
-  "cute-animals/grumpy-cat.gif": ["cute", "cat", "grumpy", "annoyed", "displeased", "iconic"],
-  "cute-animals/hamster-eating.gif": ["cute", "hamster", "eating", "nom", "food", "happy"],
-  "cute-animals/hamster-flower.gif": ["cute", "hamster", "flower", "sweet", "gentle", "adorable"],
-  "cute-animals/hamster-swing.gif": ["cute", "hamster", "swinging", "playful", "fun", "happy"],
-  "cute-animals/hamster-teddy.gif": ["cute", "hamster", "teddy", "cuddling", "cozy", "sweet"],
-  "cute-animals/hedgehog-bath.gif": ["cute", "hedgehog", "bath", "water", "adorable", "relaxed"],
-  "cute-animals/hedgehog-cute.gif": ["cute", "hedgehog", "adorable", "small", "sweet"],
-  "cute-animals/hedgehog-goodnight.gif": ["cute", "hedgehog", "goodnight", "sleeping", "cozy", "night"],
-  "cute-animals/keyboard-cat.gif": ["cute", "cat", "keyboard", "music", "playing", "classic", "iconic"],
-  "cute-animals/kitten-playing.gif": ["cute", "kitten", "playing", "playful", "energetic", "fun"],
-  "cute-animals/kitten-sleepy.gif": ["cute", "kitten", "sleepy", "tired", "nap", "yawn"],
-  "cute-animals/kitten-stare.gif": ["cute", "kitten", "staring", "big-eyes", "innocent", "adorable"],
-  "cute-animals/nyan-cat.gif": ["cute", "cat", "nyan", "rainbow", "classic", "internet", "iconic", "happy"],
-  "cute-animals/panda-rolling.gif": ["cute", "panda", "rolling", "playful", "silly", "tumble"],
-  "cute-animals/penguin-run.gif": ["cute", "penguin", "running", "waddle", "hurry", "energetic"],
-  "cute-animals/puppy-eyes.gif": ["cute", "puppy", "dog", "puppy-eyes", "pleading", "innocent", "sad"],
-  "cute-animals/puppy-tail-wag.gif": ["cute", "puppy", "dog", "tail-wag", "happy", "excited"],
-
-  "debug-mood/404.gif": ["debug", "404", "not-found", "error", "missing", "coding"],
-  "debug-mood/close-tabs-stackoverflow.gif": ["debug", "stackoverflow", "tabs", "coding", "relief", "finally"],
-  "debug-mood/code-bug.gif": ["debug", "bug", "coding", "frustration", "error", "programming"],
-  "debug-mood/deploy-friday.gif": ["debug", "deploy", "friday", "risky", "yolo", "danger", "bad-idea"],
-  "debug-mood/fixing-bugs.gif": ["debug", "fixing", "bugs", "patching", "struggle", "coding"],
-  "debug-mood/rubber-duck.gif": ["debug", "rubber-duck", "debugging", "thinking", "method", "coding"],
-  "debug-mood/stack-overflow.gif": ["debug", "stackoverflow", "copy-paste", "coding", "classic"],
-  "debug-mood/this-is-fine.gif": ["debug", "this-is-fine", "fire", "calm", "chaos", "denial", "everything-broken"],
-  "debug-mood/works-on-my-machine.gif": ["debug", "works-on-my-machine", "classic", "excuse", "coding", "meme"],
-
-  "disappointed/anime-no.gif": ["disappointed", "no", "anime", "rejection", "refuse", "disapproval"],
-  "disappointed/anime-really.gif": ["disappointed", "really", "anime", "unimpressed", "sigh"],
-  "disappointed/gojo-annoyed.gif": ["disappointed", "annoyed", "gojo", "jjk", "anime", "irritated"],
-  "disappointed/jjk-facepalm.gif": ["disappointed", "facepalm", "jjk", "anime", "cringe"],
-  "disappointed/levi-disappointed.gif": ["disappointed", "levi", "attack-on-titan", "anime", "cold", "stern"],
-  "disappointed/vanitas-sigh.gif": ["disappointed", "sigh", "vanitas", "anime", "tired", "exasperated"],
-
-  "encourage/cheer.gif": ["encourage", "cheer", "support", "motivation", "yay", "go"],
-  "encourage/gogo.gif": ["encourage", "go", "motivation", "energy", "push", "do-it"],
-  "encourage/labubu.gif": ["encourage", "labubu", "cute", "support", "cheerful"],
-  "encourage/pat-anime.gif": ["encourage", "pat", "comfort", "anime", "gentle", "there-there"],
-  "encourage/pat-head.gif": ["encourage", "pat", "head-pat", "comfort", "good-job", "affection"],
-  "encourage/pat-there.gif": ["encourage", "pat", "comfort", "consolation", "it-will-be-ok"],
-  "encourage/you-can-do-it.gif": ["encourage", "motivation", "you-can-do-it", "believe", "support"],
-  "encourage/you-got-this.gif": ["encourage", "motivation", "you-got-this", "confidence", "support"],
-
-  "facepalm/disapprove.gif": ["facepalm", "disapprove", "no", "bad", "shaking-head"],
-  "facepalm/eye-roll.gif": ["facepalm", "eye-roll", "annoyed", "exasperated", "really"],
-  "facepalm/facepalm.gif": ["facepalm", "classic", "disbelief", "embarrassment", "cringe"],
-  "facepalm/frieren-cringe.gif": ["facepalm", "cringe", "frieren", "anime", "uncomfortable"],
-  "facepalm/gojo-cringe.gif": ["facepalm", "cringe", "gojo", "jjk", "anime", "embarrassed"],
-  "facepalm/higuruma-facepalm.gif": ["facepalm", "higuruma", "jjk", "anime", "disappointed"],
-  "facepalm/oh-no.gif": ["facepalm", "oh-no", "mistake", "regret", "oops"],
-  "facepalm/picard.gif": ["facepalm", "picard", "star-trek", "classic", "iconic", "disappointed"],
-  "facepalm/shrug.gif": ["facepalm", "shrug", "whatever", "give-up", "done"],
-  "facepalm/why.gif": ["facepalm", "why", "despair", "exasperated", "frustrated"],
-
-  "greeting-bye/goodbye.gif": ["greeting", "bye", "goodbye", "farewell", "leaving", "see-ya"],
-  "greeting-bye/peace.gif": ["greeting", "bye", "peace", "peace-sign", "chill", "later"],
-  "greeting-bye/salute.gif": ["greeting", "bye", "salute", "respect", "farewell"],
-  "greeting-bye/wave.gif": ["greeting", "bye", "wave", "waving", "see-you"],
-
-  "greeting-hello/emoji.gif": ["greeting", "hello", "hi", "emoji", "friendly", "wave"],
-  "greeting-hello/hi-there.gif": ["greeting", "hello", "hi", "friendly", "wave", "hey"],
-  "greeting-hello/penguin2.gif": ["greeting", "hello", "penguin", "cute", "wave", "hi"],
-  "greeting-hello/penguin.gif": ["greeting", "hello", "penguin", "cute", "wave"],
-  "greeting-hello/wave.gif": ["greeting", "hello", "wave", "hi", "waving", "hey"],
-
-  "greeting-morning/coffee.gif": ["greeting", "morning", "coffee", "wake-up", "start-day"],
-  "greeting-morning/morning.gif": ["greeting", "morning", "good-morning", "sunrise", "new-day"],
-  "greeting-morning/stretch.gif": ["greeting", "morning", "stretch", "waking-up", "yawn"],
-  "greeting-morning/sunrise.gif": ["greeting", "morning", "sunrise", "beautiful", "dawn"],
-
-  "greeting-night/cozy.gif": ["greeting", "night", "cozy", "warm", "blanket", "sleep"],
-  "greeting-night/fox.gif": ["greeting", "night", "fox", "cute", "sleepy", "goodnight"],
-  "greeting-night/kitty.gif": ["greeting", "night", "kitty", "cat", "sleepy", "goodnight"],
-  "greeting-night/night.gif": ["greeting", "night", "goodnight", "stars", "moon", "sleep"],
-  "greeting-night/penguin.gif": ["greeting", "night", "penguin", "cute", "sleepy", "goodnight"],
-
-  "happy/anime.gif": ["happy", "anime", "joy", "celebration", "excited", "yay"],
-  "happy/cat-vibing.gif": ["happy", "cat", "vibing", "groovy", "music", "chill", "mood"],
-  "happy/champagne.gif": ["happy", "champagne", "celebration", "toast", "cheers", "party"],
-  "happy/confetti.gif": ["happy", "confetti", "celebration", "party", "hooray", "success"],
-  "happy/dance.gif": ["happy", "dance", "dancing", "celebration", "joy", "moves"],
-  "happy/excited.gif": ["happy", "excited", "thrilled", "pumped", "hyped", "energy"],
-  "happy/fireworks.gif": ["happy", "fireworks", "celebration", "spectacular", "wow", "festive"],
-  "happy/high-five.gif": ["happy", "high-five", "teamwork", "celebrate", "nice", "good-job"],
-  "happy/joy.gif": ["happy", "joy", "pure-happiness", "bliss", "content", "smile"],
-  "happy/laughing.gif": ["happy", "laughing", "lol", "funny", "hilarious", "haha"],
-  "happy/party.gif": ["happy", "party", "celebration", "fun", "festive", "let-go"],
-  "happy/yay.gif": ["happy", "yay", "excited", "celebration", "woohoo", "success"],
-
-  "love/heart.gif": ["love", "heart", "affection", "sweet", "romantic", "care"],
-  "love/patrick.gif": ["love", "patrick", "spongebob", "heart-eyes", "cute", "adore"],
-  "love/penguin-hearts.gif": ["love", "penguin", "hearts", "cute", "adorable", "sweet"],
-  "love/penguin-love.gif": ["love", "penguin", "couple", "sweet", "together", "affection"],
-  "love/puppy-heart.gif": ["love", "puppy", "heart", "cute", "adorable", "wholesome"],
-
-  "nailed-it/anime-celebrate.gif": ["nailed-it", "celebrate", "anime", "success", "victory", "win"],
-  "nailed-it/boom-boyle.gif": ["nailed-it", "boom", "boyle", "brooklyn99", "excited", "yes"],
-  "nailed-it/dwight-nailedit.gif": ["nailed-it", "dwight", "the-office", "fist-pump", "victory"],
-  "nailed-it/honoka-arms-up.gif": ["nailed-it", "honoka", "anime", "arms-up", "triumph", "joy"],
-  "nailed-it/nailed-it-oh-yeah.gif": ["nailed-it", "oh-yeah", "success", "confident", "smug"],
-  "nailed-it/nailed-it-randy.gif": ["nailed-it", "randy", "south-park", "victory", "celebration"],
-  "nailed-it/nailed-it-success.gif": ["nailed-it", "success", "perfect", "achievement", "yes"],
-  "nailed-it/nichijou-party.gif": ["nailed-it", "nichijou", "anime", "party", "wild", "celebration"],
-
-  "panic/alarm.gif": ["panic", "alarm", "alert", "emergency", "urgent", "red-alert"],
-  "panic/fire.gif": ["panic", "fire", "burning", "emergency", "disaster", "help"],
-  "panic/panic.gif": ["panic", "freaking-out", "anxiety", "stress", "overwhelmed"],
-  "panic/running.gif": ["panic", "running", "escape", "flee", "nope", "get-out"],
-  "panic/screaming.gif": ["panic", "screaming", "horror", "terrified", "ahhh"],
-  "panic/sweating.gif": ["panic", "sweating", "nervous", "anxious", "tense", "worried"],
-
-  "popcorn/jon-stewart-popcorn.gif": ["popcorn", "watching", "drama", "spectator", "entertainment", "jon-stewart"],
-  "popcorn/michael-jackson-popcorn.gif": ["popcorn", "watching", "drama", "thriller", "classic", "michael-jackson"],
-  "popcorn/popcorn-3d.gif": ["popcorn", "watching", "drama", "3d", "snack", "entertainment"],
-  "popcorn/watching-popcorn.gif": ["popcorn", "watching", "drama", "spectator", "observing", "tea"],
-
-  "sad/crying.gif": ["sad", "crying", "tears", "upset", "emotional", "heartbroken"],
-  "sad/emotional-tears.gif": ["sad", "emotional", "tears", "moved", "touched", "bittersweet"],
-  "sad/hamster-cry.gif": ["sad", "hamster", "crying", "cute", "adorable", "upset"],
-  "sad/puppy-eyes.gif": ["sad", "puppy", "eyes", "pleading", "sorry", "forgive-me"],
-  "sad/rain.gif": ["sad", "rain", "gloomy", "melancholy", "depressed", "mood"],
-
-  "shrug/cant-help.gif": ["shrug", "cant-help", "helpless", "sorry", "nothing-I-can-do"],
-  "shrug/dunno.gif": ["shrug", "dunno", "dont-know", "clueless", "uncertain"],
-  "shrug/idk.gif": ["shrug", "idk", "no-idea", "beats-me", "who-knows"],
-  "shrug/meh.gif": ["shrug", "meh", "indifferent", "whatever", "dont-care"],
-  "shrug/oh-well.gif": ["shrug", "oh-well", "accept", "move-on", "it-is-what-it-is"],
-  "shrug/whatever.gif": ["shrug", "whatever", "dont-care", "indifferent", "dismissive"],
-
-  "smug/anime-smirk.gif": ["smug", "smirk", "anime", "confident", "sly", "knowing"],
-  "smug/anya-forger.gif": ["smug", "anya", "spy-x-family", "anime", "heh", "cute-smug"],
-  "smug/blue-box-smug.gif": ["smug", "blue-box", "anime", "confident", "grin"],
-  "smug/bocchi-smug.gif": ["smug", "bocchi", "anime", "satisfied", "sneaky"],
-  "smug/frieren-smug.gif": ["smug", "frieren", "anime", "subtle", "knowing", "wise"],
-  "smug/kuzco-emperor.gif": ["smug", "kuzco", "disney", "emperor", "fabulous", "iconic"],
-  "smug/smug-anime-girl.gif": ["smug", "anime", "girl", "confident", "teasing", "playful"],
-
-  "thanks/bear.gif": ["thanks", "bear", "grateful", "cute", "appreciation", "thank-you"],
-  "thanks/bow.gif": ["thanks", "bow", "grateful", "respect", "formal", "appreciation"],
-  "thanks/hug.gif": ["thanks", "hug", "grateful", "warmth", "affection", "appreciate"],
-  "thanks/penguin.gif": ["thanks", "penguin", "cute", "grateful", "sweet", "appreciation"],
-  "thanks/thumbsup.gif": ["thanks", "thumbs-up", "good", "appreciate", "cheers"],
-
-  "thinking/cat.gif": ["thinking", "cat", "pondering", "hmm", "considering", "cute"],
-  "thinking/chin-rest.gif": ["thinking", "chin-rest", "pondering", "deep-thought", "contemplating"],
-  "thinking/hmm.gif": ["thinking", "hmm", "considering", "evaluating", "uncertain"],
-  "thinking/pondering.gif": ["thinking", "pondering", "deep-thought", "philosophical", "wondering"],
-  "thinking/thinking.gif": ["thinking", "classic", "emoji", "hmm", "processing"],
-
-  "tired/bored.gif": ["tired", "bored", "uninterested", "sleepy", "dull", "meh"],
-  "tired/coffee.gif": ["tired", "coffee", "need-caffeine", "morning", "exhausted", "fuel"],
-  "tired/sleepy.gif": ["tired", "sleepy", "drowsy", "nap", "zzz", "exhausted"],
-  "tired/tired.gif": ["tired", "exhausted", "drained", "done", "no-energy"],
-  "tired/yawn.gif": ["tired", "yawn", "sleepy", "boring", "drowsy"],
-
-  "waiting/daffy-duck-waiting.gif": ["waiting", "daffy-duck", "impatient", "tapping", "bored"],
-  "waiting/kermit-waiting.gif": ["waiting", "kermit", "patient", "sitting", "tea"],
-  "waiting/mr-bean-waiting.gif": ["waiting", "mr-bean", "checking-watch", "impatient", "time"],
-  "waiting/tom-jerry-waiting.gif": ["waiting", "tom-jerry", "classic", "anticipation", "suspense"],
-  "waiting/waiting-skeleton.gif": ["waiting", "skeleton", "forever", "died-waiting", "eternal", "long-wait"],
-  "waiting/waiting-tap.gif": ["waiting", "tapping", "impatient", "fingers", "hurry-up"],
-
-  "working/busy.gif": ["working", "busy", "occupied", "hustle", "grind", "focused"],
-  "working/cat-typing.gif": ["working", "cat", "typing", "keyboard", "coding", "cute", "busy"],
-  "working/coding.gif": ["working", "coding", "programming", "hacking", "dev", "matrix"],
-  "working/coffee-work.gif": ["working", "coffee", "grind", "late-night", "hustle", "fuel"],
-  "working/focus.gif": ["working", "focus", "concentration", "intense", "locked-in", "zone"],
-  "working/typing.gif": ["working", "typing", "fast", "keyboard", "busy", "writing"],
-
-  "wow/cat-shocked.gif": ["wow", "cat", "shocked", "surprised", "startled", "omg"],
-  "wow/impressed.gif": ["wow", "impressed", "amazed", "respect", "damn", "nice"],
-  "wow/mind-blown.gif": ["wow", "mind-blown", "amazed", "explode", "whoa", "incredible"],
-  "wow/mindblown.gif": ["wow", "mind-blown", "shocked", "revelation", "no-way"],
-  "wow/pikachu.gif": ["wow", "pikachu", "surprised", "shocked", "classic", "iconic", "meme"],
-  "wow/shocked.gif": ["wow", "shocked", "surprised", "gasp", "omg", "jaw-drop"],
-  "wow/surprised.gif": ["wow", "surprised", "unexpected", "whoa", "reaction"],
-  "wow/whoa.gif": ["wow", "whoa", "amazed", "impressed", "slow-down", "hold-up"]
+  "approve/clap.gif": [
+    "approval",
+    "clapping",
+    "well-done",
+    "applause",
+    "great-job",
+    "celebration"
+  ],
+  "approve/nod.gif": [
+    "approval",
+    "nodding",
+    "agree",
+    "yes",
+    "acknowledgment"
+  ],
+  "approve/ok-snoopy.gif": [
+    "approval",
+    "ok",
+    "fine",
+    "snoopy",
+    "cute",
+    "thumbs-up"
+  ],
+  "approve/salute.gif": [
+    "approval",
+    "salute",
+    "respect",
+    "honor",
+    "yes-sir"
+  ],
+  "approve/slow-clap.gif": [
+    "approval",
+    "sarcastic",
+    "slow-clap",
+    "impressed",
+    "ironic"
+  ],
+  "approve/thumbs-up-cat.gif": [
+    "approval",
+    "thumbs-up",
+    "cat",
+    "cute",
+    "ok",
+    "agree"
+  ],
+  "approve/thumbs-up-chipmunk.gif": [
+    "approval",
+    "thumbs-up",
+    "chipmunk",
+    "cute",
+    "ok"
+  ],
+  "approve/thumbs-up.gif": [
+    "approval",
+    "thumbs-up",
+    "ok",
+    "agree",
+    "lgtm",
+    "good"
+  ],
+  "bruh/bruh-faint.gif": [
+    "bruh",
+    "disbelief",
+    "faint",
+    "shock",
+    "dramatic",
+    "wtf"
+  ],
+  "bruh/bruh-meme.gif": [
+    "bruh",
+    "disbelief",
+    "really",
+    "seriously",
+    "deadpan"
+  ],
+  "bruh/really-bruh.gif": [
+    "bruh",
+    "disbelief",
+    "really",
+    "annoyed",
+    "unimpressed"
+  ],
+  "bruh/silence-bruh.gif": [
+    "bruh",
+    "silence",
+    "speechless",
+    "no-words",
+    "stunned"
+  ],
+  "confused/blinking.gif": [
+    "confused",
+    "blinking",
+    "processing",
+    "huh",
+    "bewildered"
+  ],
+  "confused/head-tilt.gif": [
+    "confused",
+    "head-tilt",
+    "curious",
+    "what",
+    "puzzled"
+  ],
+  "confused/huh.gif": [
+    "confused",
+    "huh",
+    "what",
+    "puzzled",
+    "lost"
+  ],
+  "confused/math.gif": [
+    "confused",
+    "math",
+    "calculating",
+    "complex",
+    "overthinking",
+    "numbers"
+  ],
+  "confused/squint.gif": [
+    "confused",
+    "squint",
+    "suspicious",
+    "skeptical",
+    "doubt"
+  ],
+  "confused/what.gif": [
+    "confused",
+    "what",
+    "shocked",
+    "surprised",
+    "bewildered"
+  ],
+  "cute-animals/bunny-excited.gif": [
+    "cute",
+    "bunny",
+    "rabbit",
+    "excited",
+    "happy",
+    "adorable",
+    "bouncy"
+  ],
+  "cute-animals/bunny-pair.gif": [
+    "cute",
+    "bunny",
+    "rabbit",
+    "pair",
+    "couple",
+    "sweet",
+    "together"
+  ],
+  "cute-animals/bunny-sniffing.gif": [
+    "cute",
+    "bunny",
+    "rabbit",
+    "sniffing",
+    "curious",
+    "adorable"
+  ],
+  "cute-animals/cat-box.gif": [
+    "cute",
+    "cat",
+    "box",
+    "hiding",
+    "cozy",
+    "funny"
+  ],
+  "cute-animals/cat-curious.gif": [
+    "cute",
+    "cat",
+    "curious",
+    "looking",
+    "interested",
+    "peeking"
+  ],
+  "cute-animals/cat-nap.gif": [
+    "cute",
+    "cat",
+    "nap",
+    "sleeping",
+    "cozy",
+    "relaxed",
+    "tired"
+  ],
+  "cute-animals/cat-paw.gif": [
+    "cute",
+    "cat",
+    "paw",
+    "reaching",
+    "grabby",
+    "want"
+  ],
+  "cute-animals/cat-peek.gif": [
+    "cute",
+    "cat",
+    "peeking",
+    "shy",
+    "hiding",
+    "curious"
+  ],
+  "cute-animals/cat-roll.gif": [
+    "cute",
+    "cat",
+    "rolling",
+    "playful",
+    "silly",
+    "derpy"
+  ],
+  "cute-animals/cat-stare.gif": [
+    "cute",
+    "cat",
+    "staring",
+    "judging",
+    "intense",
+    "watching"
+  ],
+  "cute-animals/cat-stretch.gif": [
+    "cute",
+    "cat",
+    "stretching",
+    "morning",
+    "waking-up",
+    "relaxed"
+  ],
+  "cute-animals/cat-surprise.gif": [
+    "cute",
+    "cat",
+    "surprised",
+    "shocked",
+    "startled",
+    "reaction"
+  ],
+  "cute-animals/cat-typing.gif": [
+    "cute",
+    "cat",
+    "typing",
+    "working",
+    "busy",
+    "keyboard",
+    "coding"
+  ],
+  "cute-animals/grumpy-cat.gif": [
+    "cute",
+    "cat",
+    "grumpy",
+    "annoyed",
+    "displeased",
+    "iconic"
+  ],
+  "cute-animals/hamster-eating.gif": [
+    "cute",
+    "hamster",
+    "eating",
+    "nom",
+    "food",
+    "happy"
+  ],
+  "cute-animals/hamster-flower.gif": [
+    "cute",
+    "hamster",
+    "flower",
+    "sweet",
+    "gentle",
+    "adorable"
+  ],
+  "cute-animals/hamster-swing.gif": [
+    "cute",
+    "hamster",
+    "swinging",
+    "playful",
+    "fun",
+    "happy"
+  ],
+  "cute-animals/hamster-teddy.gif": [
+    "cute",
+    "hamster",
+    "teddy",
+    "cuddling",
+    "cozy",
+    "sweet"
+  ],
+  "cute-animals/hedgehog-bath.gif": [
+    "cute",
+    "hedgehog",
+    "bath",
+    "water",
+    "adorable",
+    "relaxed"
+  ],
+  "cute-animals/hedgehog-cute.gif": [
+    "cute",
+    "hedgehog",
+    "adorable",
+    "small",
+    "sweet"
+  ],
+  "cute-animals/hedgehog-goodnight.gif": [
+    "cute",
+    "hedgehog",
+    "goodnight",
+    "sleeping",
+    "cozy",
+    "night"
+  ],
+  "cute-animals/keyboard-cat.gif": [
+    "cute",
+    "cat",
+    "keyboard",
+    "music",
+    "playing",
+    "classic",
+    "iconic"
+  ],
+  "cute-animals/kitten-playing.gif": [
+    "cute",
+    "kitten",
+    "playing",
+    "playful",
+    "energetic",
+    "fun"
+  ],
+  "cute-animals/kitten-sleepy.gif": [
+    "cute",
+    "kitten",
+    "sleepy",
+    "tired",
+    "nap",
+    "yawn"
+  ],
+  "cute-animals/kitten-stare.gif": [
+    "cute",
+    "kitten",
+    "staring",
+    "big-eyes",
+    "innocent",
+    "adorable"
+  ],
+  "cute-animals/nyan-cat.gif": [
+    "cute",
+    "cat",
+    "nyan",
+    "rainbow",
+    "classic",
+    "internet",
+    "iconic",
+    "happy"
+  ],
+  "cute-animals/panda-rolling.gif": [
+    "cute",
+    "panda",
+    "rolling",
+    "playful",
+    "silly",
+    "tumble"
+  ],
+  "cute-animals/penguin-run.gif": [
+    "cute",
+    "penguin",
+    "running",
+    "waddle",
+    "hurry",
+    "energetic"
+  ],
+  "cute-animals/puppy-eyes.gif": [
+    "cute",
+    "puppy",
+    "dog",
+    "puppy-eyes",
+    "pleading",
+    "innocent",
+    "sad"
+  ],
+  "cute-animals/puppy-tail-wag.gif": [
+    "cute",
+    "puppy",
+    "dog",
+    "tail-wag",
+    "happy",
+    "excited"
+  ],
+  "debug-mood/404.gif": [
+    "debug",
+    "404",
+    "not-found",
+    "error",
+    "missing",
+    "coding"
+  ],
+  "debug-mood/close-tabs-stackoverflow.gif": [
+    "debug",
+    "stackoverflow",
+    "tabs",
+    "coding",
+    "relief",
+    "finally"
+  ],
+  "debug-mood/code-bug.gif": [
+    "debug",
+    "bug",
+    "coding",
+    "frustration",
+    "error",
+    "programming"
+  ],
+  "debug-mood/deploy-friday.gif": [
+    "debug",
+    "deploy",
+    "friday",
+    "risky",
+    "yolo",
+    "danger",
+    "bad-idea"
+  ],
+  "debug-mood/fixing-bugs.gif": [
+    "debug",
+    "fixing",
+    "bugs",
+    "patching",
+    "struggle",
+    "coding"
+  ],
+  "debug-mood/rubber-duck.gif": [
+    "debug",
+    "rubber-duck",
+    "debugging",
+    "thinking",
+    "method",
+    "coding"
+  ],
+  "debug-mood/stack-overflow.gif": [
+    "debug",
+    "stackoverflow",
+    "copy-paste",
+    "coding",
+    "classic"
+  ],
+  "debug-mood/this-is-fine.gif": [
+    "debug",
+    "this-is-fine",
+    "fire",
+    "calm",
+    "chaos",
+    "denial",
+    "everything-broken"
+  ],
+  "debug-mood/works-on-my-machine.gif": [
+    "debug",
+    "works-on-my-machine",
+    "classic",
+    "excuse",
+    "coding",
+    "meme"
+  ],
+  "disappointed/anime-no.gif": [
+    "disappointed",
+    "no",
+    "anime",
+    "rejection",
+    "refuse",
+    "disapproval"
+  ],
+  "disappointed/anime-really.gif": [
+    "disappointed",
+    "really",
+    "anime",
+    "unimpressed",
+    "sigh"
+  ],
+  "disappointed/gojo-annoyed.gif": [
+    "disappointed",
+    "annoyed",
+    "gojo",
+    "jjk",
+    "anime",
+    "irritated"
+  ],
+  "disappointed/jjk-facepalm.gif": [
+    "disappointed",
+    "facepalm",
+    "jjk",
+    "anime",
+    "cringe"
+  ],
+  "disappointed/levi-disappointed.gif": [
+    "disappointed",
+    "levi",
+    "attack-on-titan",
+    "anime",
+    "cold",
+    "stern"
+  ],
+  "disappointed/vanitas-sigh.gif": [
+    "disappointed",
+    "sigh",
+    "vanitas",
+    "anime",
+    "tired",
+    "exasperated"
+  ],
+  "encourage/cheer.gif": [
+    "encourage",
+    "cheer",
+    "support",
+    "motivation",
+    "yay",
+    "go"
+  ],
+  "encourage/gogo.gif": [
+    "encourage",
+    "go",
+    "motivation",
+    "energy",
+    "push",
+    "do-it"
+  ],
+  "encourage/labubu.gif": [
+    "encourage",
+    "labubu",
+    "cute",
+    "support",
+    "cheerful"
+  ],
+  "encourage/pat-anime.gif": [
+    "encourage",
+    "pat",
+    "comfort",
+    "anime",
+    "gentle",
+    "there-there"
+  ],
+  "encourage/pat-head.gif": [
+    "encourage",
+    "pat",
+    "head-pat",
+    "comfort",
+    "good-job",
+    "affection"
+  ],
+  "encourage/pat-there.gif": [
+    "encourage",
+    "pat",
+    "comfort",
+    "consolation",
+    "it-will-be-ok"
+  ],
+  "encourage/you-can-do-it.gif": [
+    "encourage",
+    "motivation",
+    "you-can-do-it",
+    "believe",
+    "support"
+  ],
+  "encourage/you-got-this.gif": [
+    "encourage",
+    "motivation",
+    "you-got-this",
+    "confidence",
+    "support"
+  ],
+  "facepalm/disapprove.gif": [
+    "facepalm",
+    "disapprove",
+    "no",
+    "bad",
+    "shaking-head"
+  ],
+  "facepalm/eye-roll.gif": [
+    "facepalm",
+    "eye-roll",
+    "annoyed",
+    "exasperated",
+    "really"
+  ],
+  "facepalm/facepalm.gif": [
+    "facepalm",
+    "classic",
+    "disbelief",
+    "embarrassment",
+    "cringe"
+  ],
+  "facepalm/frieren-cringe.gif": [
+    "facepalm",
+    "cringe",
+    "frieren",
+    "anime",
+    "uncomfortable"
+  ],
+  "facepalm/gojo-cringe.gif": [
+    "facepalm",
+    "cringe",
+    "gojo",
+    "jjk",
+    "anime",
+    "embarrassed"
+  ],
+  "facepalm/higuruma-facepalm.gif": [
+    "facepalm",
+    "higuruma",
+    "jjk",
+    "anime",
+    "disappointed"
+  ],
+  "facepalm/oh-no.gif": [
+    "facepalm",
+    "oh-no",
+    "mistake",
+    "regret",
+    "oops"
+  ],
+  "facepalm/picard.gif": [
+    "facepalm",
+    "picard",
+    "star-trek",
+    "classic",
+    "iconic",
+    "disappointed"
+  ],
+  "facepalm/shrug.gif": [
+    "facepalm",
+    "shrug",
+    "whatever",
+    "give-up",
+    "done"
+  ],
+  "facepalm/why.gif": [
+    "facepalm",
+    "why",
+    "despair",
+    "exasperated",
+    "frustrated"
+  ],
+  "greeting-bye/goodbye.gif": [
+    "greeting",
+    "bye",
+    "goodbye",
+    "farewell",
+    "leaving",
+    "see-ya"
+  ],
+  "greeting-bye/peace.gif": [
+    "greeting",
+    "bye",
+    "peace",
+    "peace-sign",
+    "chill",
+    "later"
+  ],
+  "greeting-bye/salute.gif": [
+    "greeting",
+    "bye",
+    "salute",
+    "respect",
+    "farewell"
+  ],
+  "greeting-bye/wave.gif": [
+    "greeting",
+    "bye",
+    "wave",
+    "waving",
+    "see-you"
+  ],
+  "greeting-hello/emoji.gif": [
+    "greeting",
+    "hello",
+    "hi",
+    "emoji",
+    "friendly",
+    "wave"
+  ],
+  "greeting-hello/hi-there.gif": [
+    "greeting",
+    "hello",
+    "hi",
+    "friendly",
+    "wave",
+    "hey"
+  ],
+  "greeting-hello/penguin2.gif": [
+    "greeting",
+    "hello",
+    "penguin",
+    "cute",
+    "wave",
+    "hi"
+  ],
+  "greeting-hello/penguin.gif": [
+    "greeting",
+    "hello",
+    "penguin",
+    "cute",
+    "wave"
+  ],
+  "greeting-hello/wave.gif": [
+    "greeting",
+    "hello",
+    "wave",
+    "hi",
+    "waving",
+    "hey"
+  ],
+  "greeting-morning/coffee.gif": [
+    "greeting",
+    "morning",
+    "coffee",
+    "wake-up",
+    "start-day"
+  ],
+  "greeting-morning/morning.gif": [
+    "greeting",
+    "morning",
+    "good-morning",
+    "sunrise",
+    "new-day"
+  ],
+  "greeting-morning/stretch.gif": [
+    "greeting",
+    "morning",
+    "stretch",
+    "waking-up",
+    "yawn"
+  ],
+  "greeting-morning/sunrise.gif": [
+    "greeting",
+    "morning",
+    "sunrise",
+    "beautiful",
+    "dawn"
+  ],
+  "greeting-night/cozy.gif": [
+    "greeting",
+    "night",
+    "cozy",
+    "warm",
+    "blanket",
+    "sleep"
+  ],
+  "greeting-night/fox.gif": [
+    "greeting",
+    "night",
+    "fox",
+    "cute",
+    "sleepy",
+    "goodnight"
+  ],
+  "greeting-night/kitty.gif": [
+    "greeting",
+    "night",
+    "kitty",
+    "cat",
+    "sleepy",
+    "goodnight"
+  ],
+  "greeting-night/night.gif": [
+    "greeting",
+    "night",
+    "goodnight",
+    "stars",
+    "moon",
+    "sleep"
+  ],
+  "greeting-night/penguin.gif": [
+    "greeting",
+    "night",
+    "penguin",
+    "cute",
+    "sleepy",
+    "goodnight"
+  ],
+  "happy/anime.gif": [
+    "happy",
+    "anime",
+    "joy",
+    "celebration",
+    "excited",
+    "yay"
+  ],
+  "happy/cat-vibing.gif": [
+    "happy",
+    "cat",
+    "vibing",
+    "groovy",
+    "music",
+    "chill",
+    "mood"
+  ],
+  "happy/champagne.gif": [
+    "happy",
+    "champagne",
+    "celebration",
+    "toast",
+    "cheers",
+    "party"
+  ],
+  "happy/confetti.gif": [
+    "happy",
+    "confetti",
+    "celebration",
+    "party",
+    "hooray",
+    "success"
+  ],
+  "happy/dance.gif": [
+    "happy",
+    "dance",
+    "dancing",
+    "celebration",
+    "joy",
+    "moves"
+  ],
+  "happy/excited.gif": [
+    "happy",
+    "excited",
+    "thrilled",
+    "pumped",
+    "hyped",
+    "energy"
+  ],
+  "happy/fireworks.gif": [
+    "happy",
+    "fireworks",
+    "celebration",
+    "spectacular",
+    "wow",
+    "festive"
+  ],
+  "happy/high-five.gif": [
+    "happy",
+    "high-five",
+    "teamwork",
+    "celebrate",
+    "nice",
+    "good-job"
+  ],
+  "happy/joy.gif": [
+    "happy",
+    "joy",
+    "pure-happiness",
+    "bliss",
+    "content",
+    "smile"
+  ],
+  "happy/laughing.gif": [
+    "happy",
+    "laughing",
+    "lol",
+    "funny",
+    "hilarious",
+    "haha"
+  ],
+  "happy/party.gif": [
+    "happy",
+    "party",
+    "celebration",
+    "fun",
+    "festive",
+    "let-go"
+  ],
+  "happy/yay.gif": [
+    "happy",
+    "yay",
+    "excited",
+    "celebration",
+    "woohoo",
+    "success"
+  ],
+  "love/heart.gif": [
+    "love",
+    "heart",
+    "affection",
+    "sweet",
+    "romantic",
+    "care"
+  ],
+  "love/patrick.gif": [
+    "love",
+    "patrick",
+    "spongebob",
+    "heart-eyes",
+    "cute",
+    "adore"
+  ],
+  "love/penguin-hearts.gif": [
+    "love",
+    "penguin",
+    "hearts",
+    "cute",
+    "adorable",
+    "sweet"
+  ],
+  "love/penguin-love.gif": [
+    "love",
+    "penguin",
+    "couple",
+    "sweet",
+    "together",
+    "affection"
+  ],
+  "love/puppy-heart.gif": [
+    "love",
+    "puppy",
+    "heart",
+    "cute",
+    "adorable",
+    "wholesome"
+  ],
+  "nailed-it/anime-celebrate.gif": [
+    "nailed-it",
+    "celebrate",
+    "anime",
+    "success",
+    "victory",
+    "win"
+  ],
+  "nailed-it/boom-boyle.gif": [
+    "nailed-it",
+    "boom",
+    "boyle",
+    "brooklyn99",
+    "excited",
+    "yes"
+  ],
+  "nailed-it/dwight-nailedit.gif": [
+    "nailed-it",
+    "dwight",
+    "the-office",
+    "fist-pump",
+    "victory"
+  ],
+  "nailed-it/honoka-arms-up.gif": [
+    "nailed-it",
+    "honoka",
+    "anime",
+    "arms-up",
+    "triumph",
+    "joy"
+  ],
+  "nailed-it/nailed-it-oh-yeah.gif": [
+    "nailed-it",
+    "oh-yeah",
+    "success",
+    "confident",
+    "smug"
+  ],
+  "nailed-it/nailed-it-randy.gif": [
+    "nailed-it",
+    "randy",
+    "south-park",
+    "victory",
+    "celebration"
+  ],
+  "nailed-it/nailed-it-success.gif": [
+    "nailed-it",
+    "success",
+    "perfect",
+    "achievement",
+    "yes"
+  ],
+  "nailed-it/nichijou-party.gif": [
+    "nailed-it",
+    "nichijou",
+    "anime",
+    "party",
+    "wild",
+    "celebration"
+  ],
+  "panic/alarm.gif": [
+    "panic",
+    "alarm",
+    "alert",
+    "emergency",
+    "urgent",
+    "red-alert"
+  ],
+  "panic/fire.gif": [
+    "panic",
+    "fire",
+    "burning",
+    "emergency",
+    "disaster",
+    "help"
+  ],
+  "panic/panic.gif": [
+    "panic",
+    "freaking-out",
+    "anxiety",
+    "stress",
+    "overwhelmed"
+  ],
+  "panic/running.gif": [
+    "panic",
+    "running",
+    "escape",
+    "flee",
+    "nope",
+    "get-out"
+  ],
+  "panic/screaming.gif": [
+    "panic",
+    "screaming",
+    "horror",
+    "terrified",
+    "ahhh"
+  ],
+  "panic/sweating.gif": [
+    "panic",
+    "sweating",
+    "nervous",
+    "anxious",
+    "tense",
+    "worried"
+  ],
+  "popcorn/jon-stewart-popcorn.gif": [
+    "popcorn",
+    "watching",
+    "drama",
+    "spectator",
+    "entertainment",
+    "jon-stewart"
+  ],
+  "popcorn/michael-jackson-popcorn.gif": [
+    "popcorn",
+    "watching",
+    "drama",
+    "thriller",
+    "classic",
+    "michael-jackson"
+  ],
+  "popcorn/popcorn-3d.gif": [
+    "popcorn",
+    "watching",
+    "drama",
+    "3d",
+    "snack",
+    "entertainment"
+  ],
+  "popcorn/watching-popcorn.gif": [
+    "popcorn",
+    "watching",
+    "drama",
+    "spectator",
+    "observing",
+    "tea"
+  ],
+  "sad/crying.gif": [
+    "sad",
+    "crying",
+    "tears",
+    "upset",
+    "emotional",
+    "heartbroken"
+  ],
+  "sad/emotional-tears.gif": [
+    "sad",
+    "emotional",
+    "tears",
+    "moved",
+    "touched",
+    "bittersweet"
+  ],
+  "sad/hamster-cry.gif": [
+    "sad",
+    "hamster",
+    "crying",
+    "cute",
+    "adorable",
+    "upset"
+  ],
+  "sad/puppy-eyes.gif": [
+    "sad",
+    "puppy",
+    "eyes",
+    "pleading",
+    "sorry",
+    "forgive-me"
+  ],
+  "sad/rain.gif": [
+    "sad",
+    "rain",
+    "gloomy",
+    "melancholy",
+    "depressed",
+    "mood"
+  ],
+  "shrug/cant-help.gif": [
+    "shrug",
+    "cant-help",
+    "helpless",
+    "sorry",
+    "nothing-I-can-do"
+  ],
+  "shrug/dunno.gif": [
+    "shrug",
+    "dunno",
+    "dont-know",
+    "clueless",
+    "uncertain"
+  ],
+  "shrug/idk.gif": [
+    "shrug",
+    "idk",
+    "no-idea",
+    "beats-me",
+    "who-knows"
+  ],
+  "shrug/meh.gif": [
+    "shrug",
+    "meh",
+    "indifferent",
+    "whatever",
+    "dont-care"
+  ],
+  "shrug/oh-well.gif": [
+    "shrug",
+    "oh-well",
+    "accept",
+    "move-on",
+    "it-is-what-it-is"
+  ],
+  "shrug/whatever.gif": [
+    "shrug",
+    "whatever",
+    "dont-care",
+    "indifferent",
+    "dismissive"
+  ],
+  "smug/anime-smirk.gif": [
+    "smug",
+    "smirk",
+    "anime",
+    "confident",
+    "sly",
+    "knowing"
+  ],
+  "smug/anya-forger.gif": [
+    "smug",
+    "anya",
+    "spy-x-family",
+    "anime",
+    "heh",
+    "cute-smug"
+  ],
+  "smug/blue-box-smug.gif": [
+    "smug",
+    "blue-box",
+    "anime",
+    "confident",
+    "grin"
+  ],
+  "smug/bocchi-smug.gif": [
+    "smug",
+    "bocchi",
+    "anime",
+    "satisfied",
+    "sneaky"
+  ],
+  "smug/frieren-smug.gif": [
+    "smug",
+    "frieren",
+    "anime",
+    "subtle",
+    "knowing",
+    "wise"
+  ],
+  "smug/kuzco-emperor.gif": [
+    "smug",
+    "kuzco",
+    "disney",
+    "emperor",
+    "fabulous",
+    "iconic"
+  ],
+  "smug/smug-anime-girl.gif": [
+    "smug",
+    "anime",
+    "girl",
+    "confident",
+    "teasing",
+    "playful"
+  ],
+  "thanks/bear.gif": [
+    "thanks",
+    "bear",
+    "grateful",
+    "cute",
+    "appreciation",
+    "thank-you"
+  ],
+  "thanks/bow.gif": [
+    "thanks",
+    "bow",
+    "grateful",
+    "respect",
+    "formal",
+    "appreciation"
+  ],
+  "thanks/hug.gif": [
+    "thanks",
+    "hug",
+    "grateful",
+    "warmth",
+    "affection",
+    "appreciate"
+  ],
+  "thanks/penguin.gif": [
+    "thanks",
+    "penguin",
+    "cute",
+    "grateful",
+    "sweet",
+    "appreciation"
+  ],
+  "thanks/thumbsup.gif": [
+    "thanks",
+    "thumbs-up",
+    "good",
+    "appreciate",
+    "cheers"
+  ],
+  "thinking/cat.gif": [
+    "thinking",
+    "cat",
+    "pondering",
+    "hmm",
+    "considering",
+    "cute"
+  ],
+  "thinking/chin-rest.gif": [
+    "thinking",
+    "chin-rest",
+    "pondering",
+    "deep-thought",
+    "contemplating"
+  ],
+  "thinking/hmm.gif": [
+    "thinking",
+    "hmm",
+    "considering",
+    "evaluating",
+    "uncertain"
+  ],
+  "thinking/pondering.gif": [
+    "thinking",
+    "pondering",
+    "deep-thought",
+    "philosophical",
+    "wondering"
+  ],
+  "thinking/thinking.gif": [
+    "thinking",
+    "classic",
+    "emoji",
+    "hmm",
+    "processing"
+  ],
+  "tired/bored.gif": [
+    "tired",
+    "bored",
+    "uninterested",
+    "sleepy",
+    "dull",
+    "meh"
+  ],
+  "tired/coffee.gif": [
+    "tired",
+    "coffee",
+    "need-caffeine",
+    "morning",
+    "exhausted",
+    "fuel"
+  ],
+  "tired/sleepy.gif": [
+    "tired",
+    "sleepy",
+    "drowsy",
+    "nap",
+    "zzz",
+    "exhausted"
+  ],
+  "tired/tired.gif": [
+    "tired",
+    "exhausted",
+    "drained",
+    "done",
+    "no-energy"
+  ],
+  "tired/yawn.gif": [
+    "tired",
+    "yawn",
+    "sleepy",
+    "boring",
+    "drowsy"
+  ],
+  "waiting/daffy-duck-waiting.gif": [
+    "waiting",
+    "daffy-duck",
+    "impatient",
+    "tapping",
+    "bored"
+  ],
+  "waiting/kermit-waiting.gif": [
+    "waiting",
+    "kermit",
+    "patient",
+    "sitting",
+    "tea"
+  ],
+  "waiting/mr-bean-waiting.gif": [
+    "waiting",
+    "mr-bean",
+    "checking-watch",
+    "impatient",
+    "time"
+  ],
+  "waiting/tom-jerry-waiting.gif": [
+    "waiting",
+    "tom-jerry",
+    "classic",
+    "anticipation",
+    "suspense"
+  ],
+  "waiting/waiting-skeleton.gif": [
+    "waiting",
+    "skeleton",
+    "forever",
+    "died-waiting",
+    "eternal",
+    "long-wait"
+  ],
+  "waiting/waiting-tap.gif": [
+    "waiting",
+    "tapping",
+    "impatient",
+    "fingers",
+    "hurry-up"
+  ],
+  "working/busy.gif": [
+    "working",
+    "busy",
+    "occupied",
+    "hustle",
+    "grind",
+    "focused"
+  ],
+  "working/cat-typing.gif": [
+    "working",
+    "cat",
+    "typing",
+    "keyboard",
+    "coding",
+    "cute",
+    "busy"
+  ],
+  "working/coding.gif": [
+    "working",
+    "coding",
+    "programming",
+    "hacking",
+    "dev",
+    "matrix"
+  ],
+  "working/coffee-work.gif": [
+    "working",
+    "coffee",
+    "grind",
+    "late-night",
+    "hustle",
+    "fuel"
+  ],
+  "working/focus.gif": [
+    "working",
+    "focus",
+    "concentration",
+    "intense",
+    "locked-in",
+    "zone"
+  ],
+  "working/typing.gif": [
+    "working",
+    "typing",
+    "fast",
+    "keyboard",
+    "busy",
+    "writing"
+  ],
+  "wow/cat-shocked.gif": [
+    "wow",
+    "cat",
+    "shocked",
+    "surprised",
+    "startled",
+    "omg"
+  ],
+  "wow/impressed.gif": [
+    "wow",
+    "impressed",
+    "amazed",
+    "respect",
+    "damn",
+    "nice"
+  ],
+  "wow/mind-blown.gif": [
+    "wow",
+    "mind-blown",
+    "amazed",
+    "explode",
+    "whoa",
+    "incredible"
+  ],
+  "wow/mindblown.gif": [
+    "wow",
+    "mind-blown",
+    "shocked",
+    "revelation",
+    "no-way"
+  ],
+  "wow/pikachu.gif": [
+    "wow",
+    "pikachu",
+    "surprised",
+    "shocked",
+    "classic",
+    "iconic",
+    "meme"
+  ],
+  "wow/shocked.gif": [
+    "wow",
+    "shocked",
+    "surprised",
+    "gasp",
+    "omg",
+    "jaw-drop"
+  ],
+  "wow/surprised.gif": [
+    "wow",
+    "surprised",
+    "unexpected",
+    "whoa",
+    "reaction"
+  ],
+  "wow/whoa.gif": [
+    "wow",
+    "whoa",
+    "amazed",
+    "impressed",
+    "slow-down",
+    "hold-up"
+  ],
+  "greeting-bye/bye-bye-wave.gif": [
+    "goodbye",
+    "bye-bye",
+    "wave",
+    "farewell",
+    "see-you",
+    "animated"
+  ],
+  "greeting-bye/peace-out.gif": [
+    "goodbye",
+    "peace",
+    "leaving",
+    "cool-exit",
+    "deuces",
+    "peace-sign"
+  ],
+  "greeting-hello/hey-there.gif": [
+    "hello",
+    "hey",
+    "greeting",
+    "friendly",
+    "wave",
+    "casual"
+  ],
+  "greeting-hello/hello-wave.gif": [
+    "hello",
+    "wave",
+    "greeting",
+    "friendly",
+    "hi",
+    "welcome"
+  ],
+  "panic/this-is-fine.gif": [
+    "panic",
+    "fire",
+    "denial",
+    "everything-fine",
+    "classic-meme",
+    "calm-chaos"
+  ],
+  "panic/panicking.gif": [
+    "panic",
+    "freakout",
+    "stressed",
+    "alarm",
+    "overwhelmed",
+    "running-around"
+  ]
 }
