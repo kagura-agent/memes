@@ -1526,5 +1526,54 @@
     "alarm",
     "overwhelmed",
     "running-around"
-  ]
+  ],
+  "bruh/confused-dog-bruh.gif": [
+    "bruh",
+    "confused",
+    "dog",
+    "disbelief",
+    "what",
+    "stare"
+  ],
+  "bruh/monkey-bruh.gif": [
+    "bruh",
+    "monkey",
+    "side-eye",
+    "disbelief",
+    "really",
+    "suspicious"
+  ],
+  "popcorn/dis-gonna-be-good.gif": [
+    "popcorn",
+    "watching",
+    "dis-gonna-be-good",
+    "excited",
+    "anticipation",
+    "drama"
+  ],
+  "popcorn/spongebob-popcorn.gif": [
+    "popcorn",
+    "spongebob",
+    "watching",
+    "drama",
+    "riveted",
+    "excited"
+  ],
+  "love/cat-heart-eyes.gif": [
+    "love",
+    "cat",
+    "heart-eyes",
+    "adore",
+    "cute",
+    "smitten"
+  ],
+  "love/sending-love.gif": [
+    "love",
+    "sending",
+    "hearts",
+    "affection",
+    "sweet",
+    "care"
+  ],
+  "totalFiles": 199
 }
