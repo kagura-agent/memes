@@ -1575,5 +1575,50 @@
     "sweet",
     "care"
   ],
-  "totalFiles": 199
+  "totalFiles": 199,
+  "greeting-morning/lucky-star-yawn.gif": [
+    "greeting",
+    "morning",
+    "anime",
+    "yawn",
+    "sleepy",
+    "waking-up",
+    "lucky-star"
+  ],
+  "greeting-morning/anime-wave-morning.gif": [
+    "greeting",
+    "morning",
+    "anime",
+    "wave",
+    "hello",
+    "cute",
+    "hat"
+  ],
+  "greeting-morning/kitten-waking-up.gif": [
+    "greeting",
+    "morning",
+    "kitten",
+    "cat",
+    "cute",
+    "waking-up",
+    "stretch"
+  ],
+  "greeting-night/frieren-sleep.gif": [
+    "greeting",
+    "night",
+    "frieren",
+    "anime",
+    "sleep",
+    "blanket",
+    "cozy"
+  ],
+  "greeting-night/blanket-goodnight.gif": [
+    "greeting",
+    "night",
+    "anime",
+    "blanket",
+    "goodnight",
+    "sleep",
+    "cute"
+  ]
 }
