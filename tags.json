@@ -2,7 +2,7 @@
   "_meta": {
     "version": 2,
     "description": "Semantic tags for meme selection. Each image has tags describing emotions, contexts, and use cases.",
-    "updated": "2026-06-08",
+    "updated": "2026-06-14",
     "categoryCounts": {
       "approve": 8,
       "bruh": 4,
@@ -21,12 +21,12 @@
       "nailed-it": 8,
       "panic": 8,
       "popcorn": 4,
-      "sad": 5,
+      "sad": 7,
       "shrug": 6,
       "smug": 7,
-      "thanks": 5,
-      "thinking": 5,
-      "tired": 5,
+      "thanks": 7,
+      "thinking": 7,
+      "tired": 7,
       "waiting": 6,
       "working": 6,
       "wow": 8
@@ -1575,7 +1575,7 @@
     "sweet",
     "care"
   ],
-  "totalFiles": 204,
+  "totalFiles": 212,
   "greeting-morning/lucky-star-yawn.gif": [
     "greeting",
     "morning",
@@ -1620,5 +1620,74 @@
     "goodnight",
     "sleep",
     "cute"
+  ],
+  "sad/sad-puppy.gif": [
+    "sad",
+    "puppy",
+    "crying",
+    "heartbroken",
+    "emotional",
+    "cute-sad",
+    "dog"
+  ],
+  "sad/sad-pikachu.gif": [
+    "sad",
+    "pikachu",
+    "pokemon",
+    "disappointed",
+    "dejected",
+    "meme",
+    "let-down"
+  ],
+  "thanks/anime-thanks.gif": [
+    "thanks",
+    "grateful",
+    "appreciation",
+    "anime",
+    "bow",
+    "thank-you"
+  ],
+  "thanks/grateful-heart.gif": [
+    "thanks",
+    "grateful",
+    "hearts",
+    "appreciation",
+    "love",
+    "thankful"
+  ],
+  "thinking/anime-thinking.gif": [
+    "thinking",
+    "pondering",
+    "considering",
+    "anime",
+    "hmm",
+    "deep-thought"
+  ],
+  "thinking/math-lady.gif": [
+    "thinking",
+    "confused",
+    "calculating",
+    "math",
+    "meme",
+    "trying-to-figure-out",
+    "numbers"
+  ],
+  "tired/exhausted-cat.gif": [
+    "tired",
+    "exhausted",
+    "cat",
+    "sleepy",
+    "done",
+    "burnt-out",
+    "cute"
+  ],
+  "tired/face-desk.gif": [
+    "tired",
+    "frustrated",
+    "facedesk",
+    "done",
+    "give-up",
+    "exhausted",
+    "over-it"
   ]
 }
