@@ -5,33 +5,33 @@
     "updated": "2026-06-14",
     "categoryCounts": {
       "approve": 8,
-      "bruh": 4,
-      "confused": 6,
+      "bruh": 7,
+      "confused": 7,
       "cute-animals": 30,
       "debug-mood": 9,
-      "disappointed": 6,
+      "disappointed": 7,
       "encourage": 8,
       "facepalm": 10,
-      "greeting-bye": 6,
+      "greeting-bye": 7,
       "greeting-hello": 7,
-      "greeting-morning": 4,
-      "greeting-night": 5,
+      "greeting-morning": 7,
+      "greeting-night": 7,
       "happy": 12,
-      "love": 5,
+      "love": 7,
       "nailed-it": 8,
       "panic": 8,
-      "popcorn": 4,
+      "popcorn": 7,
       "sad": 7,
-      "shrug": 6,
+      "shrug": 7,
       "smug": 7,
       "thanks": 7,
       "thinking": 7,
       "tired": 7,
-      "waiting": 6,
-      "working": 6,
+      "waiting": 7,
+      "working": 7,
       "wow": 8
     },
-    "totalFiles": 193
+    "totalFiles": 220
   },
   "approve/clap.gif": [
     "approval",
@@ -1575,7 +1575,7 @@
     "sweet",
     "care"
   ],
-  "totalFiles": 212,
+  "totalFiles": 223,
   "greeting-morning/lucky-star-yawn.gif": [
     "greeting",
     "morning",
@@ -1689,5 +1689,102 @@
     "give-up",
     "exhausted",
     "over-it"
-  ]
+  ],
+  "bruh/anime-bruh.gif": [
+    "bruh",
+    "anime",
+    "disbelief",
+    "seriously",
+    "done"
+  ],
+  "confused/anime-confused.gif": [
+    "confused",
+    "anime",
+    "huh",
+    "puzzled",
+    "thinking"
+  ],
+  "disappointed/anime-sigh.gif": [
+    "disappointed",
+    "anime",
+    "sigh",
+    "let-down",
+    "sad"
+  ],
+  "greeting-bye/wave-bye.gif": [
+    "goodbye",
+    "bye",
+    "wave",
+    "farewell",
+    "see-ya"
+  ],
+  "popcorn/anime-popcorn.gif": [
+    "popcorn",
+    "anime",
+    "watching",
+    "drama",
+    "spectating"
+  ],
+  "shrug/anime-shrug.gif": [
+    "shrug",
+    "anime",
+    "idk",
+    "whatever",
+    "who-knows"
+  ],
+  "waiting/anime-waiting.gif": [
+    "waiting",
+    "anime",
+    "patient",
+    "bored",
+    "expecting"
+  ],
+  "working/keyboard-smash.gif": [
+    "working",
+    "typing",
+    "keyboard",
+    "coding",
+    "intense"
+  ],
+  "disappointed/disappointed-suit.gif": {
+    "tags": [
+      "disappointed",
+      "dismay",
+      "suit",
+      "live-action",
+      "office",
+      "reaction",
+      "disapproval",
+      "no"
+    ],
+    "style": "live-action"
+  },
+  "smug/smug-glasses-man.gif": {
+    "tags": [
+      "smug",
+      "glasses",
+      "smirk",
+      "live-action",
+      "confident",
+      "reaction",
+      "sly",
+      "knowing"
+    ],
+    "style": "live-action"
+  },
+  "love/anime-love-blush.gif": {
+    "tags": [
+      "love",
+      "anime",
+      "blush",
+      "cute",
+      "chibi",
+      "cat-ears",
+      "hearts",
+      "crush",
+      "affection",
+      "shy"
+    ],
+    "style": "anime"
+  }
 }
