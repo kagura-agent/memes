@@ -1575,7 +1575,7 @@
     "sweet",
     "care"
   ],
-  "totalFiles": 223,
+  "totalFiles": 226,
   "greeting-morning/lucky-star-yawn.gif": [
     "greeting",
     "morning",
@@ -2007,6 +2007,52 @@
     "popcorn/anime-popcorn.gif": "anime",
     "shrug/anime-shrug.gif": "anime",
     "waiting/anime-waiting.gif": "anime",
-    "working/keyboard-smash.gif": "meme"
-  }
+    "working/keyboard-smash.gif": "meme",
+    "disappointed/picard-facepalm.gif": "live-action",
+    "disappointed/disappointed-suit.gif": "live-action",
+    "happy/carlton-dance.gif": "live-action",
+    "happy/snoopy-dance.gif": "cartoon",
+    "working/anime-typing.gif": "anime",
+    "working/office-hustle.gif": "live-action"
+  },
+  "disappointed/picard-facepalm.gif": [
+    "disappointed",
+    "facepalm",
+    "picard",
+    "star trek",
+    "reaction",
+    "captain"
+  ],
+  "happy/carlton-dance.gif": [
+    "happy",
+    "dance",
+    "carlton",
+    "fresh prince",
+    "celebration",
+    "joy"
+  ],
+  "happy/snoopy-dance.gif": [
+    "happy",
+    "snoopy",
+    "dance",
+    "peanuts",
+    "cartoon",
+    "celebration"
+  ],
+  "working/anime-typing.gif": [
+    "working",
+    "typing",
+    "anime",
+    "computer",
+    "coding",
+    "keyboard"
+  ],
+  "working/office-hustle.gif": [
+    "working",
+    "typing",
+    "office",
+    "hustle",
+    "busy",
+    "live-action"
+  ]
 }
