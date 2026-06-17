@@ -2,36 +2,36 @@
   "_meta": {
     "version": 2,
     "description": "Semantic tags for meme selection. Each image has tags describing emotions, contexts, and use cases.",
-    "updated": "2026-06-14",
+    "updated": "2026-06-17",
     "categoryCounts": {
       "approve": 8,
       "bruh": 7,
       "confused": 7,
       "cute-animals": 30,
       "debug-mood": 9,
-      "disappointed": 7,
+      "disappointed": 9,
       "encourage": 8,
       "facepalm": 10,
-      "greeting-bye": 7,
+      "greeting-bye": 8,
       "greeting-hello": 7,
       "greeting-morning": 7,
       "greeting-night": 7,
-      "happy": 12,
-      "love": 7,
+      "happy": 14,
+      "love": 8,
       "nailed-it": 8,
-      "panic": 8,
+      "panic": 9,
       "popcorn": 7,
       "sad": 7,
-      "shrug": 7,
-      "smug": 7,
+      "shrug": 8,
+      "smug": 9,
       "thanks": 7,
       "thinking": 7,
-      "tired": 7,
+      "tired": 9,
       "waiting": 7,
-      "working": 7,
+      "working": 9,
       "wow": 8
     },
-    "totalFiles": 220
+    "totalFiles": 234
   },
   "approve/clap.gif": [
     "approval",
@@ -1575,7 +1575,6 @@
     "sweet",
     "care"
   ],
-  "totalFiles": 226,
   "greeting-morning/lucky-star-yawn.gif": [
     "greeting",
     "morning",
@@ -2013,7 +2012,13 @@
     "happy/carlton-dance.gif": "live-action",
     "happy/snoopy-dance.gif": "cartoon",
     "working/anime-typing.gif": "anime",
-    "working/office-hustle.gif": "live-action"
+    "working/office-hustle.gif": "live-action",
+    "panic/kermit-panic.gif": "cartoon",
+    "greeting-bye/farewell-wave.gif": "live-action",
+    "shrug/shrug-liveaction.gif": "live-action",
+    "smug/smug-cat-live.gif": "animal",
+    "tired/tired-sloth.gif": "animal",
+    "tired/tired-anime-yawn.gif": "anime"
   },
   "disappointed/picard-facepalm.gif": [
     "disappointed",
@@ -2054,5 +2059,52 @@
     "hustle",
     "busy",
     "live-action"
+  ],
+  "panic/kermit-panic.gif": [
+    "panic",
+    "alarm",
+    "nervous",
+    "anxious",
+    "kermit"
+  ],
+  "greeting-bye/farewell-wave.gif": [
+    "goodbye",
+    "farewell",
+    "wave",
+    "bye",
+    "sad-goodbye"
+  ],
+  "shrug/shrug-liveaction.gif": [
+    "shrug",
+    "idk",
+    "whatever",
+    "resignation",
+    "dont-know"
+  ],
+  "smug/smug-cat-live.gif": [
+    "smug",
+    "cat",
+    "live-action",
+    "squint",
+    "judging",
+    "knowing-look"
+  ],
+  "tired/tired-sloth.gif": [
+    "tired",
+    "exhausted",
+    "sloth",
+    "yawn",
+    "drained",
+    "slow",
+    "animal"
+  ],
+  "tired/tired-anime-yawn.gif": [
+    "tired",
+    "anime",
+    "yawn",
+    "sleepy",
+    "drowsy",
+    "studying",
+    "doze"
   ]
 }
