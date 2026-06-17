@@ -9,7 +9,7 @@
       "confused": 7,
       "cute-animals": 30,
       "debug-mood": 9,
-      "disappointed": 9,
+      "disappointed": 10,
       "encourage": 8,
       "facepalm": 10,
       "greeting-bye": 8,
@@ -31,7 +31,7 @@
       "working": 9,
       "wow": 8
     },
-    "totalFiles": 234
+    "totalFiles": 235
   },
   "approve/clap.gif": [
     "approval",
@@ -2018,7 +2018,8 @@
     "shrug/shrug-liveaction.gif": "live-action",
     "smug/smug-cat-live.gif": "animal",
     "tired/tired-sloth.gif": "animal",
-    "tired/tired-anime-yawn.gif": "anime"
+    "tired/tired-anime-yawn.gif": "anime",
+    "disappointed/disappointed-tina.gif": "live-action"
   },
   "disappointed/picard-facepalm.gif": [
     "disappointed",
@@ -2106,5 +2107,19 @@
     "drowsy",
     "studying",
     "doze"
-  ]
+  ],
+  "disappointed/disappointed-tina.gif": {
+    "tags": [
+      "disappointed",
+      "sigh",
+      "woman",
+      "live-action",
+      "reaction",
+      "exhausted",
+      "fed-up",
+      "tired-of-this",
+      "phone"
+    ],
+    "style": "live-action"
+  }
 }
