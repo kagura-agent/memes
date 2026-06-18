@@ -2,13 +2,13 @@
   "_meta": {
     "version": 2,
     "description": "Semantic tags for meme selection. Each image has tags describing emotions, contexts, and use cases.",
-    "updated": "2026-06-17",
+    "updated": "2026-06-18",
     "categoryCounts": {
       "approve": 8,
       "bruh": 7,
       "confused": 7,
       "cute-animals": 30,
-      "debug-mood": 9,
+      "debug-mood": 10,
       "disappointed": 10,
       "encourage": 8,
       "facepalm": 10,
@@ -31,7 +31,7 @@
       "working": 9,
       "wow": 8
     },
-    "totalFiles": 235
+    "totalFiles": 236
   },
   "approve/clap.gif": [
     "approval",
@@ -2019,7 +2019,8 @@
     "smug/smug-cat-live.gif": "animal",
     "tired/tired-sloth.gif": "animal",
     "tired/tired-anime-yawn.gif": "anime",
-    "disappointed/disappointed-tina.gif": "live-action"
+    "disappointed/disappointed-tina.gif": "live-action",
+    "debug-mood/angry-typing.gif": "live-action"
   },
   "disappointed/picard-facepalm.gif": [
     "disappointed",
@@ -2121,5 +2122,16 @@
       "phone"
     ],
     "style": "live-action"
-  }
+  },
+  "debug-mood/angry-typing.gif": [
+    "angry",
+    "typing",
+    "frustrated",
+    "coding",
+    "debugging",
+    "keyboard",
+    "rage",
+    "live-action",
+    "bruce-almighty"
+  ]
 }
