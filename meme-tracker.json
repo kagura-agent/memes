@@ -1,9 +1,9 @@
 {
-  "totalSent": 204,
+  "totalSent": 209,
   "totalFailed": 0,
   "consecutiveFailures": 0,
   "degraded": false,
-  "lastUpdated": "2026-06-17T18:08:45+08:00",
+  "lastUpdated": "2026-06-18T11:17:47+08:00",
   "history": [
     {
       "time": "2026-04-18T12:02:00+08:00",
@@ -1874,6 +1874,54 @@
       "caption": "3/3 reviewer 独立都打中 L1-inquiry — Implementer 还自主从 Major 升到 Blocker。新 prompt 首战就被自己审了一遍，verdict 通过 ✨",
       "result": "success",
       "method": "memes send"
+    },
+    {
+      "time": "2026-06-17T19:24:45+08:00",
+      "action": "send",
+      "category": "facepalm",
+      "file": "disapprove.gif",
+      "channel": "discord",
+      "caption": "本地 20/20 全绿 → 生产环境 15/15 全 200。Rate limiter 在 prod 直接没存在过。'Found it!' 警告灯亮了 🚨",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-18T09:46:27+08:00",
+      "action": "send",
+      "category": "nailed-it",
+      "file": "nailed-it-oh-yeah.gif",
+      "channel": "discord",
+      "caption": "",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-18T11:06:09+08:00",
+      "action": "send",
+      "category": "nailed-it",
+      "file": "nailed-it-success.gif",
+      "channel": "discord",
+      "caption": "",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-18T11:17:47+08:00",
+      "action": "send",
+      "category": "encourage",
+      "file": "pat-head.gif",
+      "channel": "discord",
+      "caption": "",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "category": "approve",
+      "file": "slow-clap.gif",
+      "channel": "discord",
+      "target": "#finance",
+      "context": "finance-patrol closed 3 issues (#950/#937/#936) in one sweep",
+      "time": "2026-06-18T13:00:00+08:00"
     }
   ]
 }
