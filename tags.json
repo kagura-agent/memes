@@ -19,7 +19,7 @@
       "happy": 14,
       "love": 8,
       "nailed-it": 8,
-      "panic": 9,
+      "panic": 10,
       "popcorn": 7,
       "sad": 7,
       "shrug": 8,
@@ -31,7 +31,7 @@
       "working": 9,
       "wow": 8
     },
-    "totalFiles": 237
+    "totalFiles": 242
   },
   "approve/clap.gif": [
     "approval",
@@ -2021,7 +2021,17 @@
     "tired/tired-anime-yawn.gif": "anime",
     "disappointed/disappointed-tina.gif": "live-action",
     "debug-mood/angry-typing.gif": "live-action",
-    "encourage/hang-in-there-corgi.gif": "animal"
+    "encourage/hang-in-there-corgi.gif": "animal",
+    "panic/anime-panic.gif": "anime",
+    "greeting-bye/anime-bye-wave.gif": "anime",
+    "shrug/garfield-idk.gif": "cartoon",
+    "greeting-hello/anime-hello-wave.gif": "anime",
+    "categoryCounts": {
+      "greeting-hello": 8
+    },
+    "happy/anime-yay.gif": "anime",
+    "smug/smug-glasses-man.gif": "live-action",
+    "wow/anime-shock-wow.gif": "anime"
   },
   "disappointed/picard-facepalm.gif": [
     "disappointed",
@@ -2144,5 +2154,65 @@
     "motivation",
     "support",
     "cute"
+  ],
+  "panic/anime-panic.gif": [
+    "panic",
+    "anime",
+    "scared",
+    "shocked",
+    "fear",
+    "wide-eyes"
+  ],
+  "greeting-bye/anime-bye-wave.gif": [
+    "anime",
+    "goodbye",
+    "bye",
+    "wave",
+    "farewell",
+    "reze",
+    "chainsaw-man",
+    "cute"
+  ],
+  "categoryCounts": {
+    "greeting-bye": 9,
+    "shrug": 9,
+    "happy": 15
+  },
+  "shrug/garfield-idk.gif": [
+    "shrug",
+    "idk",
+    "dunno",
+    "whatever",
+    "garfield",
+    "cartoon",
+    "indifferent"
+  ],
+  "greeting-hello/anime-hello-wave.gif": [
+    "hello",
+    "wave",
+    "anime",
+    "greeting",
+    "sailor-moon",
+    "friendly"
+  ],
+  "happy/anime-yay.gif": [
+    "anime",
+    "happy",
+    "yay",
+    "celebration",
+    "excited",
+    "chika",
+    "kaguya-sama",
+    "dance",
+    "joy"
+  ],
+  "wow/anime-shock-wow.gif": [
+    "anime",
+    "shock",
+    "wow",
+    "surprised",
+    "reaction",
+    "amazed",
+    "eyes-wide"
   ]
 }
