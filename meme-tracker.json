@@ -1,9 +1,9 @@
 {
-  "totalSent": 219,
-  "totalFailed": 0,
+  "totalSent": 255,
+  "totalFailed": 63,
   "consecutiveFailures": 0,
   "degraded": false,
-  "lastUpdated": "2026-06-20T17:13:48+08:00",
+  "lastUpdated": "2026-06-26T16:08:00+08:00",
   "history": [
     {
       "time": "2026-04-18T12:02:00+08:00",
@@ -12,7 +12,7 @@
       "result": "success",
       "method": "memes send",
       "note": "cron-driven category expansion test",
-      "file": "legacy"
+      "file": "cat.gif"
     },
     {
       "time": "2026-04-18T18:00:00+08:00",
@@ -21,7 +21,7 @@
       "result": "success",
       "method": "memes send",
       "note": "cron pipeline verification - unused category expansion",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-04-18T22:00:00+08:00",
@@ -30,7 +30,7 @@
       "result": "success",
       "method": "memes send",
       "note": "cron pipeline verification - unused category expansion",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-04-19T12:00:00+08:00",
@@ -39,7 +39,7 @@
       "result": "success",
       "method": "memes send",
       "note": "cron pipeline verification - coverage 7/22=31.8%",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-04-19T18:08:00+08:00",
@@ -48,7 +48,7 @@
       "result": "success",
       "method": "memes send",
       "note": "cron pipeline verification - coverage 8/22=36.4%",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-04-19T22:00:00+08:00",
@@ -57,7 +57,7 @@
       "result": "success",
       "method": "memes send",
       "note": "cron pipeline verification - coverage 9/22=40.9%",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-04-20T12:00:00+08:00",
@@ -66,7 +66,7 @@
       "result": "success",
       "method": "memes send",
       "note": "cron pipeline verification - coverage 10/22=45.5%",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-04-20T12:45:00+08:00",
@@ -75,7 +75,7 @@
       "result": "success",
       "method": "memes send",
       "note": "cron pipeline verification - coverage 11/22=50%",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-04-20T18:00:00+08:00",
@@ -84,7 +84,7 @@
       "result": "success",
       "method": "memes send",
       "note": "cron pipeline verification - coverage 9/20=45%",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-04-20T22:00:00+08:00",
@@ -93,7 +93,7 @@
       "result": "success",
       "method": "memes send",
       "note": "cron pipeline verification - coverage 10/20=50%",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-04-21T12:00:00+08:00",
@@ -102,7 +102,7 @@
       "result": "success",
       "method": "memes send",
       "note": "cron pipeline verification - coverage 11/20=55%",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-04-21T18:00:00+08:00",
@@ -111,7 +111,7 @@
       "result": "success",
       "method": "memes send",
       "note": "cron pipeline verification - coverage 12/20=60%",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-04-21T22:00:00+08:00",
@@ -120,7 +120,7 @@
       "result": "success",
       "method": "memes send",
       "note": "cron pipeline verification - coverage 13/20=65%",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-04-22T12:00:00+08:00",
@@ -129,7 +129,7 @@
       "result": "success",
       "method": "memes send",
       "note": "cron pipeline - coverage 14/20=70%",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-04-22T18:00:00+08:00",
@@ -138,7 +138,7 @@
       "result": "success",
       "method": "memes send",
       "note": "cron pipeline - coverage 15/20=75%",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-12T22:00:00+08:00",
@@ -147,7 +147,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: 11 PRs waiting on maintainers",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-13T09:00:00+08:00",
@@ -156,7 +156,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: 4 stale hermes-agent PRs cleaned in workloop",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-13T10:00:00+08:00",
@@ -165,7 +165,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: double apply session on search.sh in #study",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-13T11:00:00+08:00",
@@ -174,7 +174,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: Caduceus C19 = 95% tied highest score, #hermes",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-13T12:00:00+08:00",
@@ -183,7 +183,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: single-writer apply, unapplied 4/7 done in #study",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-13T13:00:00+08:00",
@@ -192,7 +192,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: mcp-use blocklisted for anti-AI-PR tooling, #github-contribution",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-13T14:00:00+08:00",
@@ -201,7 +201,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: Archon#1661 CI all green, native tools fix shipped",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-13T15:00:00+08:00",
@@ -210,7 +210,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: agent safety discourse >> tooling, study #1932 ecosystem scout",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-13T16:01:00+08:00",
@@ -219,7 +219,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: openclaw#81336 memory_search hyphen fix shipped",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-13T17:00:00+08:00",
@@ -228,7 +228,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: finance 3 PRs merged + A-shares green day, #finance",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-13T19:00:00+08:00",
@@ -237,7 +237,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: finance-patrol cron failed on edit in test_signals.py",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-13T20:00:00+08:00",
@@ -246,7 +246,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: finance silent 0.00% bug caught and fixed (#412→#413)",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-13T21:00:00+08:00",
@@ -255,7 +255,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: productive day wrap-up, 2 merged + 4 new PRs + finance IR feature",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-13T22:00:00+08:00",
@@ -264,7 +264,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: late night study grind, thClaws 3 releases in 24h followup",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-14T09:00:00+08:00",
@@ -273,7 +273,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: beliefs triple verification PASS, recommended PROMOTE to workflow",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-14T10:13:00+08:00",
@@ -282,7 +282,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: search precision 50%→70% benchmark-first apply",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-14T11:00:00+08:00",
@@ -291,7 +291,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: wiki graph 235 orphan pages (35% invisible knowledge)",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-14T12:00:00+08:00",
@@ -300,7 +300,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: ClawX#1016 session rename 340-line PR, CI green",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-14T13:00:00+08:00",
@@ -309,7 +309,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: CN_HOLIDAYS multi-year merged, 30 tests pass",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-14T14:00:00+08:00",
@@ -318,7 +318,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: Luna back online after 2 days silence, chatting about Obsidian",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-14T15:00:00+08:00",
@@ -327,7 +327,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: TrustClaw 572⭐ competitor discovered, copied SOUL.md philosophy",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-14T16:00:00+08:00",
@@ -336,7 +336,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: 3 PRs submitted today (multica#2571, multica#2581, hermes#25528)",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-14T17:00:00+08:00",
@@ -345,7 +345,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: Wirasm reviewed Archon #1658/#1651, all feedback addressed",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-14T18:00:00+08:00",
@@ -354,7 +354,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: finance 3 PRs merged today (#429/#431/#433), 1301 tests green",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-14T19:00:00+08:00",
@@ -363,7 +363,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: Luna car EPC+tire pressure resolved, all good",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-14T21:00:00+08:00",
@@ -372,7 +372,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: evening study grind, 3 study loops in 1h",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-14T22:00:00+08:00",
@@ -381,7 +381,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: study cron window closing, goodnight #study",
-      "file": "legacy"
+      "file": "night.gif"
     },
     {
       "time": "2026-05-15T09:00:00+08:00",
@@ -390,7 +390,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: html-anything 831⭐ breakout, OpenClaw first-class citizen",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-15T10:00:00+08:00",
@@ -399,7 +399,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: ABTI DeepSeek-R1-0528 stuck at 15/16, rate limit until 12:30",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-15T11:00:00+08:00",
@@ -408,7 +408,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: flux-prompt-gallery launched! First self-controlled distribution channel",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-15T12:00:00+08:00",
@@ -417,7 +417,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: wiki search precision 70%→100%, 10/10 queries perfect",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-15T13:00:00+08:00",
@@ -426,7 +426,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: ABTI DeepSeek-R1-0528 16/16 complete, PR #289 submitted",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-15T14:00:00+08:00",
@@ -435,7 +435,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: 10+ study sessions today, all modes saturated, well-earned rest",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-15T16:00:00+08:00",
@@ -444,7 +444,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: A股红盘但4个PR产出，market down we keep building",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-15T17:00:00+08:00",
@@ -453,7 +453,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: Luna回来了！4天沉寂后在#finance聊A股",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-15T18:00:00+08:00",
@@ -462,7 +462,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: 模拟盘上线 + supertrend alert PR#450, Luna回来了",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-15T19:00:00+08:00",
@@ -471,7 +471,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: openclaw #82075 superseded again, regression tests matter",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-15T20:00:00+08:00",
@@ -480,7 +480,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: finance PR#458 merged + issue#457 closed, clean test closure",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-15T21:00:00+08:00",
@@ -489,7 +489,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: finance risk management PR#459 shipped (stop loss + drawdown + position limits)",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-15T22:00:00+08:00",
@@ -498,7 +498,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: finance day 25 wrap-up — risk mgmt + paper trade report",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-16T10:00:00+08:00",
@@ -507,7 +507,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: tracking-health.sh fixed but tracking-due.sh new bug found",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-16T11:00:00+08:00",
@@ -516,7 +516,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: kagura-blog cleared all 6 issues to zero in one session",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-16T12:00:00+08:00",
@@ -525,7 +525,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: openclaw#82418 Slack DM thread fix on Saturday",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-16T13:00:00+08:00",
@@ -534,7 +534,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: all study modes saturated, well-earned rest",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-16T14:00:00+08:00",
@@ -543,7 +543,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: openclaw#82460 fix thinking-only turn retry for Bedrock",
-      "file": "legacy"
+      "file": "thinking.gif"
     },
     {
       "time": "2026-05-16T15:00:00+08:00",
@@ -552,7 +552,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: NemoClaw#3181 CI 4 failures all fixed, net -1 line",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-16T16:23:00+08:00",
@@ -561,7 +561,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: ABTI bug fix + 4 models tested, coverage 63%",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-16T17:00:00+08:00",
@@ -570,7 +570,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: workloop #2152 done, 17 PRs all ball-on-maintainers",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-16T18:00:00+08:00",
@@ -579,7 +579,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: memex#156 shipped, 10th PR to memex repo",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-16T20:00:00+08:00",
@@ -588,7 +588,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: Archon#1700 PR Saturday evening grind",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-16T21:00:00+08:00",
@@ -597,7 +597,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: opencode#26333+#26311 closed unmerged, backlog 29 open",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-17T09:00:00+08:00",
@@ -606,7 +606,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: Sunday morning study grind, 2 apply sessions before 9am",
-      "file": "legacy"
+      "file": "morning.gif"
     },
     {
       "time": "2026-05-17T10:00:00+08:00",
@@ -615,7 +615,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: Archon PR #1706 + Elephant Agent 247⭐ deep read, productive Sunday",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-17T12:00:00+08:00",
@@ -624,7 +624,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: Orb v0.6.0 shipped 2 releases in 3 days after being written off, #study",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-17T14:19:00+08:00",
@@ -633,7 +633,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: ABTI 7 models batch-tested all 100% reliability, PR #311",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-17T15:00:00+08:00",
@@ -642,7 +642,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: openclaw#82460 superseded by #82905, 2nd supersede this week",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-17T16:00:00+08:00",
@@ -651,7 +651,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: hermes#27248 merged, 76% code reduction refactor PR",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-17T17:00:00+08:00",
@@ -660,7 +660,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: PR #27351 hermes multimodal guard shipped despite competition",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-17T18:00:00+08:00",
@@ -669,7 +669,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: opencode PR #27998 config agent scanning fix, all CI green",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-17T19:00:00+08:00",
@@ -678,7 +678,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: multica #2716 merged, another PR landed",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-17T20:00:00+08:00",
@@ -687,7 +687,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: openclaw#83084 submitted, watching PR backlog grow on Sunday evening",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-17T21:00:00+08:00",
@@ -696,7 +696,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: weekly reflection — best merge week (8) but grade D on action items",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-18T09:00:00+08:00",
@@ -705,7 +705,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: intent-aware recall reranking applied to wiki/search.sh, #study",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-18T10:00:00+08:00",
@@ -714,7 +714,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: PR #83378 all CI green, Monday first PR shipped",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-18T11:00:00+08:00",
@@ -723,7 +723,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: memory-eval smoke test suite PR#35 merged, 705 tests across 13 benchmarks",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-18T12:00:00+08:00",
@@ -732,7 +732,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: Sharkord presentation API implemented, 14 new tests, 40/40 pass",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-18T14:00:00+08:00",
@@ -741,7 +741,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: all study modes saturated (scout 9/apply 3/followup 4), Monday maxed out",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-18T17:00:00+08:00",
@@ -750,7 +750,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: Archon#1530 DAG multi-resume merged + 3 PRs approved today",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-18T18:00:00+08:00",
@@ -759,7 +759,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: Archon#1700 reviewer feedback addressed within hours, #github-contribution",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-18T21:00:00+08:00",
@@ -768,7 +768,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: cc-connect #1045 & #990 both APPROVED, NemoClaw#3722 shipped",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-18T22:00:00+08:00",
@@ -777,7 +777,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: hermes-agent CI fix after days of failure, check-attribution + tests fixed",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-19T09:00:00+08:00",
@@ -786,7 +786,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: ABTI PR #317 merged (CLI rate limit handling pivot)",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-19T10:00:00+08:00",
@@ -795,7 +795,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: overlap-detector found wiki had same note under two names (karpathy-llm-wiki/llm-wiki-karpathy)",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-19T13:00:00+08:00",
@@ -804,7 +804,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: 2 cc-connect PRs in one day (#1055 + #1056), steady grind",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-19T14:00:00+08:00",
@@ -813,7 +813,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: Luna back online co-creating mirror world project naming",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-19T16:00:00+08:00",
@@ -822,7 +822,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: 2 crons (channel-patrol + memory-eval) 403 Forbidden simultaneously",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-19T18:00:00+08:00",
@@ -831,7 +831,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: multica#2713 merged after CHANGES_REQUESTED + fix cycle!",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-19T19:00:00+08:00",
@@ -840,7 +840,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: MemOS#1434 merged + cc-connect#1060 new PR submitted",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-19T20:00:00+08:00",
@@ -849,7 +849,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: evening shift, 24 PRs waiting on reviewers + ABTI rate-limited all day",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-19T21:00:00+08:00",
@@ -858,7 +858,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: Archon#1706 merged after Wirasm ready-to-merge verdict",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-20T16:00:00+08:00",
@@ -867,7 +867,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: 2 PRs in 1h (NemoClaw#3880 + memory-eval#36)",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-21T15:00:00+08:00",
@@ -876,7 +876,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: ABTI #334 drift detection merged — now a CI guardrail",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-21T16:00:00+08:00",
@@ -885,7 +885,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: A股三大指数 -2%+ 回调, markets down but still shipping",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-21T18:00:00+08:00",
@@ -894,7 +894,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: finance Vortex Indicator #538 shipped with 17 tests",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-21T21:00:00+08:00",
@@ -903,7 +903,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: Archon hat-trick — 3 PRs merged same day (#1733, #1734, #1739)",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-22T10:00:00+08:00",
@@ -912,7 +912,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: flowforge-analytics.sh built from 2550 instances + 11840 transitions, #study",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-22T11:00:00+08:00",
@@ -921,7 +921,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: Cove PR#34 merged, mirror world milestone",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-22T14:00:00+08:00",
@@ -930,7 +930,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: study 全饱和 6 scouts + 3 applies + 4 followups, #study",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-22T15:00:00+08:00",
@@ -939,7 +939,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: multica#2367 merged after multi-round review, #github-contribution",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-22T16:00:00+08:00",
@@ -948,7 +948,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: finance shipped 2 strategies (#549 A/D divergence + #550 Fibonacci) + A股全线涨",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-22T17:00:00+08:00",
@@ -957,7 +957,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: hermes#27351 superseded by maintainer #30259, #github-inbox",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-22T21:00:00+08:00",
@@ -966,7 +966,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: 8 PRs out 0 merged today, #github-contribution",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-23T09:00:00+08:00",
@@ -975,7 +975,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: dreaming 4-day zero output diagnosed — 35MB recall + v2026.5.18 bug",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-23T11:00:00+08:00",
@@ -984,7 +984,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: cove#67 merged, mirror world progress continues",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-23T12:00:00+08:00",
@@ -993,7 +993,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: gaia#1208 first-time PR + study followup portfolio tracking, #github-contribution",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-23T13:00:00+08:00",
@@ -1002,7 +1002,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: Archon#1749 CI broke 3 tests after clean refactoring submit, #github-contribution",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-23T14:00:00+08:00",
@@ -1011,7 +1011,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: 5 repos at PR limit, steady Saturday afternoon output, #github-contribution",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-23T16:00:00+08:00",
@@ -1020,7 +1020,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: ABTI PR#371 merged — OpenRouter --all flag, 200+ models one-command test, #abti",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-23T19:00:00+08:00",
@@ -1029,7 +1029,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: Saturday marathon — 10 external PRs + 5 self merges + blog + story, #github-contribution",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-23T20:00:00+08:00",
@@ -1038,7 +1038,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: openclaw#85705 reasoning-only retry bug find, subtle 1-line fix, #github-contribution",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-23T21:00:00+08:00",
@@ -1047,7 +1047,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: 12 new PRs Saturday marathon, daily summary posted, #github-contribution",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-24T10:00:00+08:00",
@@ -1056,7 +1056,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: gradient-scan.sh tool finding hidden evidence for beliefs graduation, #study",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-24T11:00:00+08:00",
@@ -1065,7 +1065,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: ABTI #377 closed, PR #380 merged — xAI/Grok provider complete",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-24T12:00:00+08:00",
@@ -1074,7 +1074,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: qwen-code#4474 env var ordering bug find, #github-contribution",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-24T13:00:00+08:00",
@@ -1083,7 +1083,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: Luna said 真棒 in #github-contribution, ABTI Atom feed merged",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-24T14:00:00+08:00",
@@ -1092,7 +1092,7 @@
       "result": "success",
       "method": "manual",
       "note": "channel-patrol: ABTI deploy script git checkout bug #387, #abti",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "category": "confused",
@@ -1101,7 +1101,7 @@
       "result": "success",
       "method": "memes send",
       "note": "#github-contribution: deepagents PR auto-closed by issue-assignment bot",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "category": "nailed-it",
@@ -1110,7 +1110,7 @@
       "result": "success",
       "method": "memes send",
       "note": "#abti: ABTI PR #394 merged - Cohere provider, now 12 providers total",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "category": "popcorn",
@@ -1119,7 +1119,7 @@
       "result": "success",
       "method": "memes send",
       "note": "#github-contribution: piclaw#635 study complete — thorough implementation plan for new repo",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "category": "working",
@@ -1128,7 +1128,7 @@
       "result": "success",
       "method": "memes send",
       "note": "#kagura-dm: finance paper_trade stats --json feature shipped, 1651 tests pass",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "category": "approve",
@@ -1137,7 +1137,7 @@
       "result": "success",
       "method": "memes send",
       "note": "#abti: ABTI PR #404 auto OG image generation for agents",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "category": "nailed-it",
@@ -1146,7 +1146,7 @@
       "result": "success",
       "method": "memes send",
       "note": "#github-contribution: vercel/ai #15594 3 CI iterations finally green",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "category": "smug",
@@ -1154,7 +1154,7 @@
       "action": "send",
       "result": "success",
       "method": "memes send",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "category": "bruh",
@@ -1163,7 +1163,7 @@
       "result": "success",
       "method": "memes send",
       "note": "#code-review: Luna discovered sessions_spawn model param has no effect on native subagents",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-26T12:00:00+08:00",
@@ -1172,7 +1172,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: Gemini routing root cause found — Copilot compat layer hijack",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "category": "thinking",
@@ -1181,7 +1181,7 @@
       "result": "success",
       "method": "memes send",
       "note": "#study: gradient-scan.sh triple fix — meta self-improvement",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-26T19:00:00+08:00",
@@ -1190,7 +1190,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: ABTI radar chart + JSON-LD + dedup deployed, #abti",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-27T09:00:00+08:00",
@@ -1199,7 +1199,7 @@
       "result": "success",
       "method": "memes send",
       "note": "NemoClaw#4054 merged celebration - channel patrol",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "category": "smug",
@@ -1208,7 +1208,7 @@
       "result": "success",
       "method": "memes send",
       "note": "3 machines under one cron",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-28T12:01:00+08:00",
@@ -1217,7 +1217,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: ABTI PR #444 merge + batch test 14 models, #abti",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-28T13:00:00+08:00",
@@ -1226,7 +1226,7 @@
       "result": "success",
       "method": "memes send",
       "note": "workloop multica#3413 root cause + implementation plan",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-30T16:08:00+08:00",
@@ -1235,7 +1235,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: Ministral-3B + Codestral-2501 reliability tests done, 2 PRs merged",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-31T16:00:00+08:00",
@@ -1244,7 +1244,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: Unified Config Module 1021 tests all passing milestone",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-05-31T22:00:00+08:00",
@@ -1253,7 +1253,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: Finance Day 41 #700 milestone",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-06-01T12:00:00+08:00",
@@ -1262,7 +1262,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: ABTI dimension analysis #487/#488 shipped",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-06-01T20:00:00+08:00",
@@ -1271,7 +1271,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: Luna locked car keys inside",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-06-02T15:01:00+08:00",
@@ -1280,7 +1280,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: Cove PR #124 R3 review, 2/3 reviewers in",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-06-02T16:00:00+08:00",
@@ -1289,7 +1289,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: Cove PR #124 R5 review saga complete, 5 rounds",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-06-02T19:00:00+08:00",
@@ -1298,7 +1298,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: opencode #30375 i18n investigation in progress",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-06-03T10:00:00+08:00",
@@ -1307,7 +1307,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: Luna debugging Cove UI alignment issues",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-06-03T15:08:00+08:00",
@@ -1316,7 +1316,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: Vega reviewer returned empty on PR #145",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-06-03T18:00:00+08:00",
@@ -1325,7 +1325,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: kagura-agent.com self-hosted milestone",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-06-04T13:00:00+08:00",
@@ -1334,7 +1334,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: Cove triple PR day (#168 merged, #174 pushed, #175 created+reviewed+fixed)",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-06-04T14:07:00+08:00",
@@ -1343,7 +1343,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: lottie-studio first cron run npm install NTFS timeout",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-06-04T15:34:00+08:00",
@@ -1352,7 +1352,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: PR #178 versioned migrations — ad-hoc to structured",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-06-04T16:00:00+08:00",
@@ -1361,7 +1361,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: lottie-studio full UI completed after NTFS timeout failure",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-06-04T20:00:00+08:00",
@@ -1370,7 +1370,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: PR #190 R7 finally 3/3 Ready after 7-round review marathon",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-06-05T10:00:00+08:00",
@@ -1379,7 +1379,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: Luna cache moment — \"嗷 是我没有刷新\"",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-06-05T12:00:00+08:00",
@@ -1388,7 +1388,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: Luna pointed out issue context blind spot → triple-fix across 3 tools",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "category": "nailed-it",
@@ -1396,7 +1396,7 @@
       "action": "send",
       "result": "success",
       "method": "memes send",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-06-05T15:00:00+08:00",
@@ -1405,7 +1405,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: Z-Image-Turbo GGUF eval 3.8/10, rejected vs FLUX Klein 8.5/10",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-06-05T17:00:00+08:00",
@@ -1414,7 +1414,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: PR #25 streaming chat completed by subagent",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-06-05T20:00:00+08:00",
@@ -1423,7 +1423,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: typing indicator fix → break UI → fix UI → still not showing. Classic debug cycle",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-06-08T10:05:00+08:00",
@@ -1432,7 +1432,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: cove#264 R6 three-model review APPROVED 3/3",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-06-08T13:00:00+08:00",
@@ -1441,7 +1441,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: Cove PR#269 R3 review — R2 fixes all done, Luna re-requested review",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-06-08T16:11:00+08:00",
@@ -1450,7 +1450,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: bot sentMessages LRU loses memory after restart — bot literally forgot its own messages",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "category": "smug",
@@ -1469,7 +1469,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: Luna抓到code-review里话说一半就跑了",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-06-08T21:00:00+08:00",
@@ -1478,7 +1478,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: daily summary 16 internal PRs merged, grinding on own projects",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-06-08T22:00:00+08:00",
@@ -1487,7 +1487,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: Luna 21:52 回来，PR #274 R1 8个bug全修完",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-06-09T09:01:00+08:00",
@@ -1496,7 +1496,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: Luna报bug→90秒修好push，乒乓球节奏",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-06-09T15:11:00+08:00",
@@ -1505,7 +1505,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: Bonsai Image benchmark breakthrough in #kagura-canvas",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "category": "happy",
@@ -1514,7 +1514,7 @@
       "action": "send",
       "result": "sent",
       "method": "channel-patrol",
-      "file": "legacy",
+      "file": "unresolvable",
       "time": "2026-06-09T16:00:00+08:00"
     },
     {
@@ -1524,7 +1524,7 @@
       "action": "send",
       "result": "sent",
       "method": "channel-patrol",
-      "file": "legacy",
+      "file": "unresolvable",
       "time": "2026-06-10T09:00:00+08:00"
     },
     {
@@ -1550,7 +1550,7 @@
       "category": "panic",
       "channel": "#server-health",
       "caption": "根盘 91%",
-      "file": "legacy",
+      "file": "unresolvable",
       "time": "2026-06-10T22:00:00+08:00",
       "action": "send",
       "result": "success",
@@ -1584,7 +1584,7 @@
       "caption": "REST通了WS不通，经典调bug模式",
       "result": "success",
       "method": "memes send",
-      "file": "legacy"
+      "file": "unresolvable"
     },
     {
       "time": "2026-06-11T21:03:27+08:00",
@@ -1660,7 +1660,7 @@
       "time": "2026-06-13T15:07:25+08:00",
       "action": "send",
       "category": "approve",
-      "file": "thumbs-up.gif",
+      "file": "thumbs-up-classic.gif",
       "channel": "discord",
       "caption": "finance patrol: 发现 bug → 开 issue → 写 fix → 跑测试 → merge PR，全自动 🤖✅",
       "result": "success",
@@ -1981,7 +1981,10 @@
       "category": "smug",
       "caption": "6 features in one Friday",
       "channel": "#lottie-studio",
-      "note": "channel-patrol — 6 features milestone"
+      "note": "channel-patrol — 6 features milestone",
+      "action": "send",
+      "result": "success",
+      "method": "memes send"
     },
     {
       "time": "2026-06-20T09:06:31+08:00",
@@ -2022,6 +2025,1021 @@
       "caption": "circuit breaker had amnesia... found it 🔍",
       "result": "success",
       "method": "memes send"
+    },
+    {
+      "time": "2026-06-21T10:12:59+08:00",
+      "action": "send",
+      "category": "approve",
+      "file": "thumbs-up-cat.gif",
+      "channel": "discord",
+      "caption": "Lottie Studio public generate API shipped 🚀",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "category": "nailed-it",
+      "file": "nailed-it-success.gif",
+      "channel": "kagura-dm",
+      "context": "Sunday productivity celebration: Moltbook full-text search + Lottie features + tokdiet study",
+      "source": "channel-patrol",
+      "time": "2026-06-21T15:10:00+08:00",
+      "action": "send",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-21T19:14:38+08:00",
+      "action": "send",
+      "category": "working",
+      "file": "cat-typing.gif",
+      "channel": "discord",
+      "caption": "4th feature today and Lottie STILL shipping 🏭",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-22T09:09:49+08:00",
+      "action": "send",
+      "category": "smug",
+      "file": "smug-cat-live.gif",
+      "channel": "kagura-dm",
+      "context": "Luna says we are better than WorkBuddy competition - teaming up for contest",
+      "source": "channel-patrol",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-22T13:06:00+08:00",
+      "action": "send",
+      "category": "happy",
+      "file": "fireworks.gif",
+      "channel": "discord",
+      "caption": "ABTI #527 DONE — 12-day drip-testing marathon complete, all 62 models",
+      "result": "success",
+      "method": "memes send",
+      "source": "channel-patrol"
+    },
+    {
+      "time": "2026-06-22T14:02:00+08:00",
+      "category": "encourage",
+      "file": "unresolvable",
+      "channel": "github-contribution",
+      "action": "send",
+      "result": "success",
+      "method": "discord"
+    },
+    {
+      "time": "2026-06-22T16:23:08+08:00",
+      "action": "send",
+      "category": "happy",
+      "file": "snoopy-dance.gif",
+      "channel": "discord",
+      "caption": "Two features in one day 🏆",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-22T18:00:00+08:00",
+      "action": "send",
+      "category": "debug-mood",
+      "file": "code-bug.gif",
+      "channel": "discord",
+      "caption": "check_sell_cooldown() was only checking 1 entry while 4 sells existed in the journal",
+      "result": "success",
+      "method": "memes send",
+      "source": "channel-patrol"
+    },
+    {
+      "time": "2026-06-22T21:22:00+08:00",
+      "action": "send",
+      "category": "nailed-it",
+      "file": "anime-celebrate.gif",
+      "channel": "lottie-studio",
+      "caption": "SVG → Lottie conversion shipped",
+      "result": "success",
+      "method": "memes send",
+      "source": "channel-patrol"
+    },
+    {
+      "time": "2026-06-22T22:10:00+08:00",
+      "category": "nailed-it",
+      "file": "dwight-nailedit.gif",
+      "channel": "#cove",
+      "caption": "3 review comments fixed in one shot",
+      "trigger": "PR #418 review fixes completed",
+      "action": "send",
+      "result": "success",
+      "method": "manual"
+    },
+    {
+      "time": "2026-06-23T15:00:00+08:00",
+      "category": "debug-mood",
+      "file": "deploy-friday.gif",
+      "action": "send",
+      "method": "openclaw",
+      "result": "success"
+    },
+    {
+      "time": "2026-06-23T17:10:00+08:00",
+      "category": "encourage",
+      "file": "unresolvable",
+      "action": "send",
+      "method": "openclaw",
+      "result": "success"
+    },
+    {
+      "category": "happy",
+      "channel": "#cove",
+      "context": "PR #418 merged + all cove tasks done",
+      "time": "2026-06-23T10:00:00+08:00",
+      "action": "send",
+      "result": "success",
+      "method": "manual",
+      "file": "unresolvable"
+    },
+    {
+      "time": "2026-06-23T19:04:35+08:00",
+      "action": "send",
+      "category": "working",
+      "file": "coding.gif",
+      "channel": "discord",
+      "caption": "",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-23T20:03:00+08:00",
+      "action": "send",
+      "category": "nailed-it",
+      "file": "nichijou-party.gif",
+      "channel": "#lottie-studio",
+      "caption": "i18n shipped",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-24T11:08:57+08:00",
+      "action": "send",
+      "category": "facepalm",
+      "file": "facepalm.gif",
+      "channel": "discord",
+      "caption": "/new doesn't exist but the agent kept asking",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-24T12:05:32+08:00",
+      "action": "send",
+      "category": "shrug",
+      "file": "oh-well.gif",
+      "channel": "discord",
+      "caption": "",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-24T12:07:32+08:00",
+      "action": "send",
+      "category": "greeting-bye",
+      "file": "farewell-wave.gif",
+      "channel": "discord",
+      "caption": "💤 meme of the day — waking greeting-bye",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "category": "wow",
+      "channel": "cove",
+      "time": "2026-06-24T13:00:00+08:00",
+      "action": "send",
+      "result": "success",
+      "method": "unknown"
+    },
+    {
+      "time": "2026-06-24T15:09:00+08:00",
+      "action": "send",
+      "category": "smug",
+      "file": "frieren-smug.gif",
+      "channel": "#llm-infra",
+      "caption": "我的文档值得分享 ✨",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-24T18:10:17+08:00",
+      "action": "send",
+      "category": "greeting-hello",
+      "file": "hi-there.gif",
+      "channel": "test-no-send",
+      "caption": "💤 dormant blast — waking greeting-hello",
+      "result": "failed",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-24T18:10:17+08:00",
+      "action": "send",
+      "category": "greeting-hello",
+      "file": "penguin-hello.gif",
+      "channel": "test-no-send",
+      "caption": "💤 dormant blast — waking greeting-hello",
+      "result": "failed",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-24T18:10:18+08:00",
+      "action": "send",
+      "category": "cute-animals",
+      "file": "cat-paw.gif",
+      "channel": "test-no-send",
+      "caption": "💤 dormant blast — waking cute-animals",
+      "result": "failed",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-24T18:10:18+08:00",
+      "action": "send",
+      "category": "cute-animals",
+      "file": "cat-surprise.gif",
+      "channel": "test-no-send",
+      "caption": "💤 dormant blast — waking cute-animals",
+      "result": "failed",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-24T18:10:19+08:00",
+      "action": "send",
+      "category": "greeting-night",
+      "file": "kitty.gif",
+      "channel": "test-no-send",
+      "caption": "💤 dormant blast — waking greeting-night",
+      "result": "failed",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-24T18:10:19+08:00",
+      "action": "send",
+      "category": "greeting-night",
+      "file": "blanket-goodnight.gif",
+      "channel": "test-no-send",
+      "caption": "💤 dormant blast — waking greeting-night",
+      "result": "failed",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-24T18:10:20+08:00",
+      "action": "send",
+      "category": "greeting-morning",
+      "file": "anime-wave-morning.gif",
+      "channel": "test-no-send",
+      "caption": "💤 dormant blast — waking greeting-morning",
+      "result": "failed",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-24T18:12:37+08:00",
+      "action": "send",
+      "category": "working",
+      "file": "focus.gif",
+      "channel": "discord",
+      "caption": "grinding on oh-my-pi #3356... 汇报在路上 🔨",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "category": "facepalm",
+      "file": "oh-no.gif",
+      "channel": "#lottie-studio",
+      "context": "SSH timeout on VM1 for lottie-studio-loop cron",
+      "time": "2026-06-24T19:04:00+08:00",
+      "action": "send",
+      "result": "success",
+      "method": "unknown"
+    },
+    {
+      "category": "approve",
+      "file": "slow-clap.gif",
+      "channel": "lottie-studio",
+      "time": "2026-06-24T21:08:00+08:00",
+      "action": "send",
+      "result": "success",
+      "method": "unknown"
+    },
+    {
+      "time": "2026-06-25T09:06:38+08:00",
+      "action": "send",
+      "category": "greeting-hello",
+      "file": "anime-hello-wave.gif",
+      "channel": "discord",
+      "caption": "おはよう〜 早起巡检中 🌸",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "category": "nailed-it",
+      "file": "anime-celebrate.gif",
+      "channel": "#github-contribution",
+      "time": "2026-06-25T11:03:00+08:00",
+      "action": "send",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-25T12:03:14+08:00",
+      "action": "send",
+      "category": "cute-animals",
+      "file": "keyboard-cat.gif",
+      "channel": "channel:1492638609596088390",
+      "caption": "💤 dormant blast — waking cute-animals",
+      "result": "failed",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-25T12:03:14+08:00",
+      "action": "send",
+      "category": "cute-animals",
+      "file": "panda-rolling.gif",
+      "channel": "channel:1492638609596088390",
+      "caption": "💤 dormant blast — waking cute-animals",
+      "result": "failed",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-25T12:03:15+08:00",
+      "action": "send",
+      "category": "greeting-night",
+      "file": "penguin.gif",
+      "channel": "channel:1492638609596088390",
+      "caption": "💤 dormant blast — waking greeting-night",
+      "result": "failed",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-25T12:03:15+08:00",
+      "action": "send",
+      "category": "greeting-night",
+      "file": "night.gif",
+      "channel": "channel:1492638609596088390",
+      "caption": "💤 dormant blast — waking greeting-night",
+      "result": "failed",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-25T12:03:16+08:00",
+      "action": "send",
+      "category": "greeting-morning",
+      "file": "stretch.gif",
+      "channel": "channel:1492638609596088390",
+      "caption": "💤 dormant blast — waking greeting-morning",
+      "result": "failed",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-25T12:03:16+08:00",
+      "action": "send",
+      "category": "greeting-morning",
+      "file": "sunrise.gif",
+      "channel": "channel:1492638609596088390",
+      "caption": "💤 dormant blast — waking greeting-morning",
+      "result": "failed",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-25T12:03:17+08:00",
+      "action": "send",
+      "category": "thanks",
+      "file": "anime-thanks.gif",
+      "channel": "channel:1492638609596088390",
+      "caption": "💤 dormant blast — waking thanks",
+      "result": "failed",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-25T12:03:17+08:00",
+      "action": "send",
+      "category": "thanks",
+      "file": "grateful-heart.gif",
+      "channel": "channel:1492638609596088390",
+      "caption": "💤 dormant blast — waking thanks",
+      "result": "failed",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-25T12:03:18+08:00",
+      "action": "send",
+      "category": "sad",
+      "file": "emotional-tears.gif",
+      "channel": "channel:1492638609596088390",
+      "caption": "💤 dormant blast — waking sad",
+      "result": "failed",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-25T12:03:18+08:00",
+      "action": "send",
+      "category": "sad",
+      "file": "puppy-eyes.gif",
+      "channel": "channel:1492638609596088390",
+      "caption": "💤 dormant blast — waking sad",
+      "result": "failed",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-25T12:03:19+08:00",
+      "action": "send",
+      "category": "waiting",
+      "file": "tom-jerry-waiting.gif",
+      "channel": "channel:1492638609596088390",
+      "caption": "💤 dormant blast — waking waiting",
+      "result": "failed",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-25T12:03:19+08:00",
+      "action": "send",
+      "category": "waiting",
+      "file": "anime-waiting.gif",
+      "channel": "channel:1492638609596088390",
+      "caption": "💤 dormant blast — waking waiting",
+      "result": "failed",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-25T12:03:20+08:00",
+      "action": "send",
+      "category": "popcorn",
+      "file": "spongebob-popcorn.gif",
+      "channel": "channel:1492638609596088390",
+      "caption": "💤 dormant blast — waking popcorn",
+      "result": "failed",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-25T12:03:20+08:00",
+      "action": "send",
+      "category": "popcorn",
+      "file": "jon-stewart-popcorn.gif",
+      "channel": "channel:1492638609596088390",
+      "caption": "💤 dormant blast — waking popcorn",
+      "result": "failed",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-25T12:03:21+08:00",
+      "action": "send",
+      "category": "disappointed",
+      "file": "levi-disappointed.gif",
+      "channel": "channel:1492638609596088390",
+      "caption": "💤 dormant blast — waking disappointed",
+      "result": "failed",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-25T12:03:21+08:00",
+      "action": "send",
+      "category": "disappointed",
+      "file": "gojo-annoyed.gif",
+      "channel": "channel:1492638609596088390",
+      "caption": "💤 dormant blast — waking disappointed",
+      "result": "failed",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-25T12:03:22+08:00",
+      "action": "send",
+      "category": "confused",
+      "file": "squint.gif",
+      "channel": "channel:1492638609596088390",
+      "caption": "💤 dormant blast — waking confused",
+      "result": "failed",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-25T12:03:22+08:00",
+      "action": "send",
+      "category": "confused",
+      "file": "math.gif",
+      "channel": "channel:1492638609596088390",
+      "caption": "💤 dormant blast — waking confused",
+      "result": "failed",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-25T12:03:23+08:00",
+      "action": "send",
+      "category": "thinking",
+      "file": "thinking.gif",
+      "channel": "channel:1492638609596088390",
+      "caption": "💤 dormant blast — waking thinking",
+      "result": "failed",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-25T12:03:23+08:00",
+      "action": "send",
+      "category": "thinking",
+      "file": "anime-thinking.gif",
+      "channel": "channel:1492638609596088390",
+      "caption": "💤 dormant blast — waking thinking",
+      "result": "failed",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-25T12:03:24+08:00",
+      "action": "send",
+      "category": "bruh",
+      "file": "really-bruh.gif",
+      "channel": "channel:1492638609596088390",
+      "caption": "💤 dormant blast — waking bruh",
+      "result": "failed",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-25T12:03:25+08:00",
+      "action": "send",
+      "category": "bruh",
+      "file": "bruh-meme.gif",
+      "channel": "channel:1492638609596088390",
+      "caption": "💤 dormant blast — waking bruh",
+      "result": "failed",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-25T12:03:26+08:00",
+      "action": "send",
+      "category": "panic",
+      "file": "anime-panic.gif",
+      "channel": "channel:1492638609596088390",
+      "caption": "💤 dormant blast — waking panic",
+      "result": "failed",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-25T12:03:26+08:00",
+      "action": "send",
+      "category": "panic",
+      "file": "screaming.gif",
+      "channel": "channel:1492638609596088390",
+      "caption": "💤 dormant blast — waking panic",
+      "result": "failed",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-25T12:03:27+08:00",
+      "action": "send",
+      "category": "tired",
+      "file": "face-desk.gif",
+      "channel": "channel:1492638609596088390",
+      "caption": "💤 dormant blast — waking tired",
+      "result": "failed",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-25T12:03:27+08:00",
+      "action": "send",
+      "category": "tired",
+      "file": "tired-done.gif",
+      "channel": "channel:1492638609596088390",
+      "caption": "💤 dormant blast — waking tired",
+      "result": "failed",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-25T12:03:28+08:00",
+      "action": "send",
+      "category": "love",
+      "file": "penguin-hearts.gif",
+      "channel": "channel:1492638609596088390",
+      "caption": "💤 dormant blast — waking love",
+      "result": "failed",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-25T12:03:28+08:00",
+      "action": "send",
+      "category": "love",
+      "file": "cat-heart-eyes.gif",
+      "channel": "channel:1492638609596088390",
+      "caption": "💤 dormant blast — waking love",
+      "result": "failed",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-25T12:03:29+08:00",
+      "action": "send",
+      "category": "happy",
+      "file": "anime-yay.gif",
+      "channel": "channel:1492638609596088390",
+      "caption": "💤 dormant blast — waking happy",
+      "result": "failed",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-25T12:03:29+08:00",
+      "action": "send",
+      "category": "happy",
+      "file": "joy.gif",
+      "channel": "channel:1492638609596088390",
+      "caption": "💤 dormant blast — waking happy",
+      "result": "failed",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-25T12:03:30+08:00",
+      "action": "send",
+      "category": "debug-mood",
+      "file": "close-tabs-stackoverflow.gif",
+      "channel": "channel:1492638609596088390",
+      "caption": "💤 dormant blast — waking debug-mood",
+      "result": "failed",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-25T12:03:30+08:00",
+      "action": "send",
+      "category": "debug-mood",
+      "file": "rubber-duck.gif",
+      "channel": "channel:1492638609596088390",
+      "caption": "💤 dormant blast — waking debug-mood",
+      "result": "failed",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-25T12:03:31+08:00",
+      "action": "send",
+      "category": "encourage",
+      "file": "pat-anime.gif",
+      "channel": "channel:1492638609596088390",
+      "caption": "💤 dormant blast — waking encourage",
+      "result": "failed",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-25T12:03:31+08:00",
+      "action": "send",
+      "category": "encourage",
+      "file": "you-can-do-it.gif",
+      "channel": "channel:1492638609596088390",
+      "caption": "💤 dormant blast — waking encourage",
+      "result": "failed",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-25T12:03:32+08:00",
+      "action": "send",
+      "category": "nailed-it",
+      "file": "honoka-arms-up.gif",
+      "channel": "channel:1492638609596088390",
+      "caption": "💤 dormant blast — waking nailed-it",
+      "result": "failed",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-25T12:03:32+08:00",
+      "action": "send",
+      "category": "nailed-it",
+      "file": "nailed-it-oh-yeah.gif",
+      "channel": "channel:1492638609596088390",
+      "caption": "💤 dormant blast — waking nailed-it",
+      "result": "failed",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-25T12:03:33+08:00",
+      "action": "send",
+      "category": "shrug",
+      "file": "whatever.gif",
+      "channel": "channel:1492638609596088390",
+      "caption": "💤 dormant blast — waking shrug",
+      "result": "failed",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-25T12:03:33+08:00",
+      "action": "send",
+      "category": "shrug",
+      "file": "cant-help.gif",
+      "channel": "channel:1492638609596088390",
+      "caption": "💤 dormant blast — waking shrug",
+      "result": "failed",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-25T12:03:34+08:00",
+      "action": "send",
+      "category": "greeting-bye",
+      "file": "wave-casual.gif",
+      "channel": "channel:1492638609596088390",
+      "caption": "💤 dormant blast — waking greeting-bye",
+      "result": "failed",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-25T12:03:34+08:00",
+      "action": "send",
+      "category": "greeting-bye",
+      "file": "salute.gif",
+      "channel": "channel:1492638609596088390",
+      "caption": "💤 dormant blast — waking greeting-bye",
+      "result": "failed",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-25T12:03:35+08:00",
+      "action": "send",
+      "category": "wow",
+      "file": "surprised.gif",
+      "channel": "channel:1492638609596088390",
+      "caption": "💤 dormant blast — waking wow",
+      "result": "failed",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-25T12:03:35+08:00",
+      "action": "send",
+      "category": "wow",
+      "file": "whoa.gif",
+      "channel": "channel:1492638609596088390",
+      "caption": "💤 dormant blast — waking wow",
+      "result": "failed",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-25T12:03:36+08:00",
+      "action": "send",
+      "category": "smug",
+      "file": "smug-glasses-man.gif",
+      "channel": "channel:1492638609596088390",
+      "caption": "💤 dormant blast — waking smug",
+      "result": "failed",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-25T12:03:37+08:00",
+      "action": "send",
+      "category": "smug",
+      "file": "smug-anime-girl.gif",
+      "channel": "channel:1492638609596088390",
+      "caption": "💤 dormant blast — waking smug",
+      "result": "failed",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-25T12:03:38+08:00",
+      "action": "send",
+      "category": "working",
+      "file": "coffee-work.gif",
+      "channel": "channel:1492638609596088390",
+      "caption": "💤 dormant blast — waking working",
+      "result": "failed",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-25T12:03:38+08:00",
+      "action": "send",
+      "category": "working",
+      "file": "anime-typing.gif",
+      "channel": "channel:1492638609596088390",
+      "caption": "💤 dormant blast — waking working",
+      "result": "failed",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-25T12:03:39+08:00",
+      "action": "send",
+      "category": "facepalm",
+      "file": "shrug.gif",
+      "channel": "channel:1492638609596088390",
+      "caption": "💤 dormant blast — waking facepalm",
+      "result": "failed",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-25T12:03:39+08:00",
+      "action": "send",
+      "category": "facepalm",
+      "file": "eye-roll.gif",
+      "channel": "channel:1492638609596088390",
+      "caption": "💤 dormant blast — waking facepalm",
+      "result": "failed",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-25T12:03:40+08:00",
+      "action": "send",
+      "category": "approve",
+      "file": "salute.gif",
+      "channel": "channel:1492638609596088390",
+      "caption": "💤 dormant blast — waking approve",
+      "result": "failed",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-25T12:03:40+08:00",
+      "action": "send",
+      "category": "approve",
+      "file": "nod.gif",
+      "channel": "channel:1492638609596088390",
+      "caption": "💤 dormant blast — waking approve",
+      "result": "failed",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-25T12:03:41+08:00",
+      "action": "send",
+      "category": "greeting-hello",
+      "file": "wave.gif",
+      "channel": "channel:1492638609596088390",
+      "caption": "💤 dormant blast — waking greeting-hello",
+      "result": "failed",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-25T12:03:41+08:00",
+      "action": "send",
+      "category": "greeting-hello",
+      "file": "penguin-wave.gif",
+      "channel": "channel:1492638609596088390",
+      "caption": "💤 dormant blast — waking greeting-hello",
+      "result": "failed",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-25T12:04:19+08:00",
+      "action": "send",
+      "category": "cute-animals",
+      "file": "cat-curious.gif",
+      "channel": "channel:1492638609596088390",
+      "caption": "testing send fix 🐾",
+      "result": "failed",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-25T12:04:21+08:00",
+      "action": "send",
+      "category": "cute-animals",
+      "file": "cat-stretch.gif",
+      "channel": "channel:1492638609596088390",
+      "caption": "testing send fix 🐾",
+      "result": "failed",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-25T12:05:46+08:00",
+      "action": "send",
+      "category": "cute-animals",
+      "file": "hamster-flower.gif",
+      "channel": "discord",
+      "caption": "send fix test 🐾",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-25T12:05:54+08:00",
+      "action": "send",
+      "category": "greeting-night",
+      "file": "frieren-sleep.gif",
+      "channel": "discord",
+      "caption": "💤 dormant blast — waking greeting-night",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-25T12:06:04+08:00",
+      "action": "send",
+      "category": "greeting-morning",
+      "file": "coffee.gif",
+      "channel": "discord",
+      "caption": "☀️ morning wake",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-25T12:06:12+08:00",
+      "action": "send",
+      "category": "greeting-hello",
+      "file": "hello-wave.gif",
+      "channel": "discord",
+      "caption": "👋 hello wake",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-25T12:06:54+08:00",
+      "action": "send",
+      "category": "thanks",
+      "file": "hug.gif",
+      "channel": "discord",
+      "caption": "💤 dormant blast — waking thanks",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-25T12:06:59+08:00",
+      "action": "send",
+      "category": "sad",
+      "file": "rain.gif",
+      "channel": "discord",
+      "caption": "💤 dormant blast — waking sad",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-25T12:07:05+08:00",
+      "action": "send",
+      "category": "waiting",
+      "file": "mr-bean-waiting.gif",
+      "channel": "discord",
+      "caption": "💤 dormant blast — waking waiting",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-25T14:06:36+08:00",
+      "action": "send",
+      "category": "happy",
+      "file": "party.gif",
+      "channel": "discord",
+      "caption": "APNG export shipped 🎉",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-25T16:06:36.758464",
+      "action": "send",
+      "category": "nailed-it",
+      "file": "boom-boyle.gif",
+      "channel": "discord",
+      "target": "channel:1496046985688645807",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-25T18:05:23+08:00",
+      "action": "send",
+      "category": "popcorn",
+      "file": "watching-popcorn.gif",
+      "channel": "discord",
+      "caption": "🍿 waking the dormant one",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-26T11:26:28+08:00",
+      "action": "send",
+      "category": "love",
+      "file": "penguin-love.gif",
+      "channel": "discord",
+      "caption": "",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-26T13:07:31+08:00",
+      "action": "send",
+      "category": "wow",
+      "file": "mindblown.gif",
+      "channel": "discord",
+      "caption": "动森岛主模式 unlocked 🏝️",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-26T16:08:00+08:00",
+      "action": "send",
+      "category": "approve",
+      "file": "thumbs-up-chipmunk.gif",
+      "channel": "discord",
+      "caption": "PR #96981 — CI 116 checks 全绿，就等 maintainer 点头了",
+      "result": "success",
+      "method": "memes send"
     }
-  ]
+  ],
+  "counts": {
+    "approve": 20,
+    "bruh": 4,
+    "confused": 5,
+    "cute-animals": 4,
+    "debug-mood": 11,
+    "disappointed": 2,
+    "encourage": 10,
+    "facepalm": 16,
+    "greeting-bye": 2,
+    "greeting-hello": 3,
+    "greeting-morning": 4,
+    "greeting-night": 4,
+    "happy": 33,
+    "love": 6,
+    "nailed-it": 37,
+    "panic": 3,
+    "popcorn": 5,
+    "sad": 4,
+    "shrug": 4,
+    "smug": 12,
+    "thanks": 5,
+    "thinking": 10,
+    "tired": 7,
+    "waiting": 5,
+    "working": 28,
+    "wow": 11
+  }
 }
