@@ -660,13 +660,6 @@
     "waving",
     "hey"
   ],
-  "greeting-morning/morning.gif": [
-    "greeting",
-    "morning",
-    "good-morning",
-    "sunrise",
-    "new-day"
-  ],
   "greeting-morning/stretch.gif": [
     "greeting",
     "morning",
@@ -1763,7 +1756,6 @@
     "greeting-hello/emoji.gif": "meme",
     "greeting-hello/hi-there.gif": "meme",
     "greeting-hello/wave.gif": "meme",
-    "greeting-morning/morning.gif": "meme",
     "greeting-morning/stretch.gif": "meme",
     "greeting-morning/sunrise.gif": "meme",
     "greeting-night/cozy.gif": "meme",
@@ -1924,7 +1916,8 @@
     "greeting-night/penguin-sleepy.gif": "animal",
     "cute-animals/puppy-pleading.gif": "animal",
     "greeting-bye/farewell-salute.gif": "live-action",
-    "debug-mood/everything-fine-fire.gif": "cartoon"
+    "debug-mood/everything-fine-fire.gif": "cartoon",
+    "greeting-morning/good-morning-sun.gif": "meme"
   },
   "disappointed/picard-facepalm.gif": [
     "disappointed",
@@ -2269,5 +2262,12 @@
     "chaos",
     "denial",
     "everything-broken"
+  ],
+  "greeting-morning/good-morning-sun.gif": [
+    "greeting",
+    "morning",
+    "good-morning",
+    "sunrise",
+    "new-day"
   ]
 }
