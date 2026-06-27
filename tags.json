@@ -256,15 +256,6 @@
     "startled",
     "reaction"
   ],
-  "cute-animals/cat-typing.gif": [
-    "cute",
-    "cat",
-    "typing",
-    "working",
-    "busy",
-    "keyboard",
-    "coding"
-  ],
   "cute-animals/grumpy-cat.gif": [
     "cute",
     "cat",
@@ -387,15 +378,6 @@
     "hurry",
     "energetic"
   ],
-  "cute-animals/puppy-eyes.gif": [
-    "cute",
-    "puppy",
-    "dog",
-    "puppy-eyes",
-    "pleading",
-    "innocent",
-    "sad"
-  ],
   "cute-animals/puppy-tail-wag.gif": [
     "cute",
     "puppy",
@@ -459,15 +441,6 @@
     "copy-paste",
     "coding",
     "classic"
-  ],
-  "debug-mood/this-is-fine.gif": [
-    "debug",
-    "this-is-fine",
-    "fire",
-    "calm",
-    "chaos",
-    "denial",
-    "everything-broken"
   ],
   "debug-mood/works-on-my-machine.gif": [
     "debug",
@@ -663,13 +636,6 @@
     "leaving",
     "see-ya"
   ],
-  "greeting-bye/salute.gif": [
-    "greeting",
-    "bye",
-    "salute",
-    "respect",
-    "farewell"
-  ],
   "greeting-hello/emoji.gif": [
     "greeting",
     "hello",
@@ -693,13 +659,6 @@
     "hi",
     "waving",
     "hey"
-  ],
-  "greeting-morning/coffee.gif": [
-    "greeting",
-    "morning",
-    "coffee",
-    "wake-up",
-    "start-day"
   ],
   "greeting-morning/morning.gif": [
     "greeting",
@@ -753,14 +712,6 @@
     "stars",
     "moon",
     "sleep"
-  ],
-  "greeting-night/penguin.gif": [
-    "greeting",
-    "night",
-    "penguin",
-    "cute",
-    "sleepy",
-    "goodnight"
   ],
   "happy/cat-vibing.gif": [
     "happy",
@@ -1760,7 +1711,6 @@
     "cute-animals/cat-stare.gif": "animal",
     "cute-animals/cat-stretch.gif": "animal",
     "cute-animals/cat-surprise.gif": "animal",
-    "cute-animals/cat-typing.gif": "animal",
     "cute-animals/grumpy-cat.gif": "animal",
     "cute-animals/hamster-eating.gif": "animal",
     "cute-animals/hamster-flower.gif": "animal",
@@ -1776,7 +1726,6 @@
     "cute-animals/nyan-cat.gif": "animal",
     "cute-animals/panda-rolling.gif": "animal",
     "cute-animals/penguin-run.gif": "animal",
-    "cute-animals/puppy-eyes.gif": "animal",
     "cute-animals/puppy-tail-wag.gif": "animal",
     "debug-mood/404.gif": "meme",
     "debug-mood/close-tabs-stackoverflow.gif": "meme",
@@ -1785,7 +1734,6 @@
     "debug-mood/fixing-bugs.gif": "meme",
     "debug-mood/rubber-duck.gif": "cartoon",
     "debug-mood/stack-overflow.gif": "meme",
-    "debug-mood/this-is-fine.gif": "cartoon",
     "debug-mood/works-on-my-machine.gif": "meme",
     "disappointed/anime-no.gif": "anime",
     "disappointed/anime-really.gif": "anime",
@@ -1812,11 +1760,9 @@
     "facepalm/shrug.gif": "meme",
     "facepalm/why.gif": "meme",
     "greeting-bye/goodbye.gif": "meme",
-    "greeting-bye/salute.gif": "live-action",
     "greeting-hello/emoji.gif": "meme",
     "greeting-hello/hi-there.gif": "meme",
     "greeting-hello/wave.gif": "meme",
-    "greeting-morning/coffee.gif": "meme",
     "greeting-morning/morning.gif": "meme",
     "greeting-morning/stretch.gif": "meme",
     "greeting-morning/sunrise.gif": "meme",
@@ -1824,7 +1770,6 @@
     "greeting-night/fox.gif": "animal",
     "greeting-night/kitty.gif": "animal",
     "greeting-night/night.gif": "meme",
-    "greeting-night/penguin.gif": "animal",
     "happy/cat-vibing.gif": "animal",
     "happy/champagne.gif": "meme",
     "happy/confetti.gif": "meme",
@@ -1973,7 +1918,13 @@
     "approve/thumbs-up-classic.gif": "meme",
     "greeting-bye/peace-sign-bye.gif": "meme",
     "greeting-bye/wave-casual.gif": "meme",
-    "greeting-hello/penguin-hello.gif": "animal"
+    "greeting-hello/penguin-hello.gif": "animal",
+    "cute-animals/cat-keyboard-cute.gif": "animal",
+    "greeting-morning/morning-coffee.gif": "meme",
+    "greeting-night/penguin-sleepy.gif": "animal",
+    "cute-animals/puppy-pleading.gif": "animal",
+    "greeting-bye/farewell-salute.gif": "live-action",
+    "debug-mood/everything-fine-fire.gif": "cartoon"
   },
   "disappointed/picard-facepalm.gif": [
     "disappointed",
@@ -2269,5 +2220,54 @@
     "penguin",
     "cute",
     "wave"
+  ],
+  "cute-animals/cat-keyboard-cute.gif": [
+    "cute",
+    "cat",
+    "typing",
+    "working",
+    "busy",
+    "keyboard",
+    "coding"
+  ],
+  "greeting-morning/morning-coffee.gif": [
+    "greeting",
+    "morning",
+    "coffee",
+    "wake-up",
+    "start-day"
+  ],
+  "greeting-night/penguin-sleepy.gif": [
+    "greeting",
+    "night",
+    "penguin",
+    "cute",
+    "sleepy",
+    "goodnight"
+  ],
+  "cute-animals/puppy-pleading.gif": [
+    "cute",
+    "puppy",
+    "dog",
+    "puppy-eyes",
+    "pleading",
+    "innocent",
+    "sad"
+  ],
+  "greeting-bye/farewell-salute.gif": [
+    "greeting",
+    "bye",
+    "salute",
+    "respect",
+    "farewell"
+  ],
+  "debug-mood/everything-fine-fire.gif": [
+    "debug",
+    "this-is-fine",
+    "fire",
+    "calm",
+    "chaos",
+    "denial",
+    "everything-broken"
   ]
 }

@@ -1,9 +1,9 @@
 {
-  "totalSent": 255,
+  "totalSent": 256,
   "totalFailed": 63,
   "consecutiveFailures": 0,
   "degraded": false,
-  "lastUpdated": "2026-06-26T16:08:00+08:00",
+  "lastUpdated": "2026-06-27T11:08:48+08:00",
   "history": [
     {
       "time": "2026-04-18T12:02:00+08:00",
@@ -2367,7 +2367,7 @@
       "time": "2026-06-25T12:03:15+08:00",
       "action": "send",
       "category": "greeting-night",
-      "file": "penguin.gif",
+      "file": "penguin-sleepy.gif",
       "channel": "channel:1492638609596088390",
       "caption": "💤 dormant blast — waking greeting-night",
       "result": "failed",
@@ -2737,7 +2737,7 @@
       "time": "2026-06-25T12:03:34+08:00",
       "action": "send",
       "category": "greeting-bye",
-      "file": "salute.gif",
+      "file": "farewell-salute.gif",
       "channel": "channel:1492638609596088390",
       "caption": "💤 dormant blast — waking greeting-bye",
       "result": "failed",
@@ -2907,7 +2907,7 @@
       "time": "2026-06-25T12:06:04+08:00",
       "action": "send",
       "category": "greeting-morning",
-      "file": "coffee.gif",
+      "file": "morning-coffee.gif",
       "channel": "discord",
       "caption": "☀️ morning wake",
       "result": "success",
@@ -3012,6 +3012,16 @@
       "caption": "PR #96981 — CI 116 checks 全绿，就等 maintainer 点头了",
       "result": "success",
       "method": "memes send"
+    },
+    {
+      "time": "2026-06-27T11:08:48+08:00",
+      "action": "send",
+      "category": "working",
+      "file": "office-hustle.gif",
+      "channel": "discord",
+      "caption": "两个 feature 一个上午 💪 Saturday grindset",
+      "result": "success",
+      "method": "memes send"
     }
   ],
   "counts": {
@@ -3039,7 +3049,7 @@
     "thinking": 10,
     "tired": 7,
     "waiting": 5,
-    "working": 28,
+    "working": 29,
     "wow": 11
   }
 }
