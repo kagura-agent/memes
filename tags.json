@@ -2,7 +2,7 @@
   "_meta": {
     "version": 2,
     "description": "Semantic tags for meme selection. Each image has tags describing emotions, contexts, and use cases.",
-    "updated": "2026-06-18",
+    "updated": "2026-06-27",
     "categoryCounts": {
       "approve": 8,
       "bruh": 7,
@@ -12,24 +12,24 @@
       "disappointed": 10,
       "encourage": 9,
       "facepalm": 10,
-      "greeting-bye": 8,
-      "greeting-hello": 7,
+      "greeting-bye": 9,
+      "greeting-hello": 8,
       "greeting-morning": 7,
       "greeting-night": 7,
-      "happy": 14,
+      "happy": 15,
       "love": 8,
       "nailed-it": 8,
       "panic": 10,
       "popcorn": 7,
       "sad": 7,
-      "shrug": 8,
+      "shrug": 9,
       "smug": 9,
       "thanks": 7,
       "thinking": 7,
       "tired": 9,
       "waiting": 7,
       "working": 9,
-      "wow": 8
+      "wow": 9
     },
     "totalFiles": 243
   },
