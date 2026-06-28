@@ -1,0 +1,40 @@
+#!/usr/bin/env bash
+# pre-commit hook for agent-memes repo
+# Runs quality + lint checks before allowing commits
+set -euo pipefail
+
+MEMES_DIR="$(git rev-parse --show-toplevel)"
+MEMES_CMD="${MEMES_CMD:-memes}"
+
+# Only check staged image/json files to keep it fast
+STAGED=$(git diff --cached --name-only --diff-filter=ACM 2>/dev/null || true)
+if [[ -z "$STAGED" ]]; then
+  exit 0
+fi
+
+# Check if any meme-relevant files are staged (images or tags.json)
+HAS_IMAGES=$(echo "$STAGED" | grep -E '\.(gif|jpg|png|webp)$' || true)
+HAS_TAGS=$(echo "$STAGED" | grep -q 'tags.json' && echo "yes" || true)
+
+if [[ -z "$HAS_IMAGES" && -z "$HAS_TAGS" ]]; then
+  # No meme-relevant changes, skip checks
+  exit 0
+fi
+
+echo "🎭 pre-commit: running meme checks..."
+
+# 1. Lint check (untagged/unstyled files)
+if ! "$MEMES_CMD" lint; then
+  echo ""
+  echo "❌ Lint failed — run 'memes lint --fix' then re-stage tags.json"
+  exit 1
+fi
+
+# 2. Quality check (duplicate filenames, generic names, near-dupes)
+if ! "$MEMES_CMD" quality; then
+  echo ""
+  echo "❌ Quality check failed — fix issues above before committing"
+  exit 1
+fi
+
+echo "✅ pre-commit: all checks passed"

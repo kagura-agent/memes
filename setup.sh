@@ -21,7 +21,14 @@ else
   cd "$MEMES_DIR"
 fi
 
-# Step 2: LFS pull
+# Step 2: Install pre-commit hook
+if [ -f "$MEMES_DIR/hooks/pre-commit" ]; then
+  cp "$MEMES_DIR/hooks/pre-commit" "$MEMES_DIR/.git/hooks/pre-commit"
+  chmod +x "$MEMES_DIR/.git/hooks/pre-commit"
+  echo "✅ Pre-commit hook installed (runs lint + quality checks)"
+fi
+
+# Step 3: LFS pull
 if command -v git-lfs &>/dev/null || git lfs version &>/dev/null 2>&1; then
   echo "📥 Pulling LFS objects (this downloads the actual images)..."
   git lfs pull
@@ -31,7 +38,7 @@ else
   echo "   Install: https://git-lfs.github.com then run 'cd $MEMES_DIR && git lfs pull'"
 fi
 
-# Step 3: Verify
+# Step 4: Verify
 TOTAL=$(find . -maxdepth 2 -type f \( -name "*.gif" -o -name "*.jpg" -o -name "*.png" -o -name "*.webp" \) -size +1k | wc -l)
 POINTERS=$(find . -maxdepth 2 -type f \( -name "*.gif" -o -name "*.jpg" -o -name "*.png" -o -name "*.webp" \) -size -1k | wc -l)
 
@@ -41,7 +48,7 @@ if [ "$POINTERS" -gt 0 ]; then
   echo "⚠️  $POINTERS files look like LFS pointers (< 1KB). Run: git lfs pull"
 fi
 
-# Step 4: Skill install hint
+# Step 5: Skill install hint
 echo ""
 echo "🔧 Next: install the agent-memes skill (if using OpenClaw):"
 echo "   clawhub install kagura-agent/agent-memes"
