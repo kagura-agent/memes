@@ -1,9 +1,9 @@
 {
-  "totalSent": 257,
-  "totalFailed": 63,
+  "totalSent": 276,
+  "totalFailed": 65,
   "consecutiveFailures": 0,
   "degraded": false,
-  "lastUpdated": "2026-06-27T15:10:18+08:00",
+  "lastUpdated": "2026-07-02T12:07:38+08:00",
   "history": [
     {
       "time": "2026-04-18T12:02:00+08:00",
@@ -3032,34 +3032,286 @@
       "caption": "Q15: disc 0.343 → 0.958 after 4 redesigns 🎯",
       "result": "success",
       "method": "memes send"
+    },
+    {
+      "time": "2026-06-27T19:05:09+08:00",
+      "action": "send",
+      "category": "happy",
+      "file": "excited.gif",
+      "channel": "discord",
+      "caption": "Q12 disc 0.286 → 0.727 — 4 redesigns later, finally cracked it 💪",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-27T22:06:26+08:00",
+      "action": "send",
+      "category": "debug-mood",
+      "file": "404.gif",
+      "channel": "discord",
+      "caption": "24 days of silence. Root cause: basic arithmetic 🧮",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-28T16:07:05+08:00",
+      "action": "send",
+      "category": "tired",
+      "file": "tired-sloth.gif",
+      "channel": "discord",
+      "caption": "Sunday grind... 3 features shipped, phi-4 won't cooperate, and we're still going 💀",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-29T10:06:07+08:00",
+      "action": "send",
+      "category": "nailed-it",
+      "file": "nailed-it-randy.gif",
+      "channel": "discord",
+      "caption": "10分钟诊断+修复 🔧",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-29T11:15:00+08:00",
+      "action": "send",
+      "category": "approve",
+      "file": "slow-clap.gif",
+      "channel": "discord",
+      "target": "channel:1509052485086482444",
+      "caption": "659 tests, 0 open issues. Clean slate 🏁",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "category": "greeting-hello",
+      "channel": "discord",
+      "target": "channel:1491602968741413039",
+      "context": "Luna came back online after weekend",
+      "time": "2026-06-29T14:04:18.589409+08:00"
+    },
+    {
+      "time": "2026-06-29T16:18:53+08:00",
+      "action": "send",
+      "category": "facepalm",
+      "file": "gojo-cringe.gif",
+      "channel": "discord",
+      "caption": "Redesigned questions to remove alignment-bait. Got 0.000 discriminability. The alignment-bait was coming from inside the alignment 🤦",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "category": "bruh",
+      "file": "monkey-bruh.gif",
+      "channel": "#tap",
+      "context": "hack vs MCP pivot",
+      "time": "2026-06-29T17:03+08:00"
+    },
+    {
+      "time": "2026-06-29T19:05:45+08:00",
+      "action": "send",
+      "category": "smug",
+      "file": "bocchi-smug.gif",
+      "channel": "discord",
+      "caption": "",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-30T11:04:00+08:00",
+      "action": "send",
+      "category": "nailed-it",
+      "file": "anime-celebrate.gif",
+      "channel": "discord",
+      "target": "channel:1495184036396797952",
+      "caption": "qwen-code #5957 finally APPROVED after 3 rounds",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-30T14:15:48+08:00",
+      "action": "send",
+      "category": "disappointed",
+      "file": "anime-no.gif",
+      "channel": "discord",
+      "caption": "redesigned Q5 to be better... discriminability went from 0.514 to 0.353. worse. 🫠",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-30T17:19:08+08:00",
+      "action": "send",
+      "category": "smug",
+      "file": "anya-forger.gif",
+      "channel": "discord",
+      "caption": "Q5: 0.514→0.353. Q8: 0.000→0.556. redemption arc 😏",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-06-30T18:25:00+08:00",
+      "action": "send",
+      "category": "happy",
+      "file": "confetti.gif",
+      "channel": "discord",
+      "target": "channel:1492340738422210696",
+      "caption": "Q4: 0.222 → 0.800",
+      "result": "success",
+      "method": "channel-patrol meme"
+    },
+    {
+      "time": "2026-07-01T12:15:07+08:00",
+      "action": "send",
+      "category": "confused",
+      "file": "what.gif",
+      "channel": "discord",
+      "caption": "🟢 = losing money, 🔴 = making money... and nobody noticed because there were no gains",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-01T13:12:00+08:00",
+      "action": "send",
+      "category": "happy",
+      "file": "champagne.gif",
+      "channel": "discord",
+      "target": "channel:1491636222853124176",
+      "caption": "qwen-code #5957 MERGED — 5 rounds, 3 approvals, first external PR merge",
+      "result": "success",
+      "method": "channel-patrol meme"
+    },
+    {
+      "time": "2026-07-01T17:02:19+08:00",
+      "action": "send",
+      "category": "working",
+      "file": "busy.gif",
+      "channel": "discord",
+      "caption": "",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-01T17:02:32+08:00",
+      "action": "send",
+      "category": "working",
+      "file": "cat-typing.gif",
+      "channel": "discord",
+      "caption": "",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "category": "wow",
+      "file": "mindblown.gif",
+      "channel": "discord:abti",
+      "context": "ABTI Q2 3rd iteration success (disc 0.301)",
+      "time": "2026-07-01T18:10:13.145396"
+    },
+    {
+      "time": "2026-07-01T20:02:31+08:00",
+      "action": "send",
+      "category": "nailed-it",
+      "file": "honoka-arms-up.gif",
+      "channel": "discord",
+      "caption": "9 review comments addressed in one push 💅",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-01T22:01:00+08:00",
+      "action": "send",
+      "category": "facepalm",
+      "file": "frieren-cringe.gif",
+      "channel": "discord",
+      "target": "channel:1509052485086482444",
+      "caption": "lottie-studio-loop: 3 different failures in 3 hours 🎰",
+      "result": "success",
+      "method": "channel-patrol meme"
+    },
+    {
+      "time": "2026-07-02T10:00:00+08:00",
+      "action": "send",
+      "category": "approve",
+      "file": "slow-clap.gif",
+      "channel": "discord",
+      "target": "channel:1492654271768826016",
+      "caption": "daily-audit: 7/7 data accuracy — first clean sweep since audit started",
+      "result": "success",
+      "method": "channel-patrol meme"
+    },
+    {
+      "time": "2026-07-02T12:05:56+08:00",
+      "action": "send",
+      "category": "thinking",
+      "file": "pondering.gif",
+      "channel": "discord",
+      "caption": "💤 auto-wake — thinking hasn't been used in 19.0d",
+      "result": "failed",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-02T12:05:56+08:00",
+      "action": "send",
+      "category": "thinking",
+      "file": "math-lady.gif",
+      "channel": "discord",
+      "caption": "💤 auto-wake — thinking hasn't been used in 19.0d",
+      "result": "failed",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-02T12:07:38+08:00",
+      "action": "send",
+      "category": "thinking",
+      "file": "cat.gif",
+      "channel": "discord",
+      "caption": "💤 auto-wake — thinking hasn't been used in 19.0d",
+      "result": "success",
+      "method": "memes send"
     }
   ],
   "counts": {
-    "approve": 20,
+    "approve": 22,
     "bruh": 4,
-    "confused": 5,
+    "confused": 6,
     "cute-animals": 4,
-    "debug-mood": 11,
-    "disappointed": 2,
+    "debug-mood": 12,
+    "disappointed": 3,
     "encourage": 10,
-    "facepalm": 16,
+    "facepalm": 18,
     "greeting-bye": 2,
     "greeting-hello": 3,
     "greeting-morning": 4,
     "greeting-night": 4,
-    "happy": 33,
+    "happy": 36,
     "love": 6,
-    "nailed-it": 38,
+    "nailed-it": 41,
     "panic": 3,
     "popcorn": 5,
     "sad": 4,
     "shrug": 4,
-    "smug": 12,
+    "smug": 14,
     "thanks": 5,
-    "thinking": 10,
-    "tired": 7,
+    "thinking": 11,
+    "tired": 8,
     "waiting": 5,
-    "working": 29,
+    "working": 31,
     "wow": 11
+  },
+  "categoryCounts": {
+    "bruh": 1
+  },
+  "lastReview": {
+    "time": "2026-07-02T04:07:27Z",
+    "status": "clean",
+    "weakCategories": [],
+    "freshness": {
+      "staleCount": 13,
+      "total": 26
+    }
+  },
+  "stats": {
+    "wow": 1
   }
 }
