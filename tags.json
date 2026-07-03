@@ -6,13 +6,13 @@
     "categoryCounts": {
       "approve": 8,
       "bruh": 7,
-      "confused": 7,
+      "confused": 6,
       "cute-animals": 30,
       "debug-mood": 10,
       "disappointed": 10,
       "encourage": 9,
       "facepalm": 10,
-      "greeting-bye": 9,
+      "greeting-bye": 8,
       "greeting-hello": 8,
       "greeting-morning": 7,
       "greeting-night": 7,
@@ -21,17 +21,17 @@
       "nailed-it": 8,
       "panic": 10,
       "popcorn": 7,
-      "sad": 7,
-      "shrug": 9,
+      "sad": 6,
+      "shrug": 7,
       "smug": 9,
       "thanks": 7,
-      "thinking": 7,
+      "thinking": 6,
       "tired": 9,
       "waiting": 7,
       "working": 9,
       "wow": 9
     },
-    "totalFiles": 243
+    "totalFiles": 237
   },
   "approve/clap.gif": [
     "approval",
@@ -120,13 +120,6 @@
     "processing",
     "huh",
     "bewildered"
-  ],
-  "confused/head-tilt.gif": [
-    "confused",
-    "head-tilt",
-    "curious",
-    "what",
-    "puzzled"
   ],
   "confused/huh.gif": [
     "confused",
@@ -998,14 +991,6 @@
     "sorry",
     "forgive-me"
   ],
-  "sad/rain.gif": [
-    "sad",
-    "rain",
-    "gloomy",
-    "melancholy",
-    "depressed",
-    "mood"
-  ],
   "shrug/cant-help.gif": [
     "shrug",
     "cant-help",
@@ -1026,13 +1011,6 @@
     "no-idea",
     "beats-me",
     "who-knows"
-  ],
-  "shrug/meh.gif": [
-    "shrug",
-    "meh",
-    "indifferent",
-    "whatever",
-    "dont-care"
   ],
   "shrug/oh-well.gif": [
     "shrug",
@@ -1154,7 +1132,11 @@
     "chin-rest",
     "pondering",
     "deep-thought",
-    "contemplating"
+    "contemplating",
+    "classic",
+    "emoji",
+    "hmm",
+    "processing"
   ],
   "thinking/hmm.gif": [
     "thinking",
@@ -1169,13 +1151,6 @@
     "deep-thought",
     "philosophical",
     "wondering"
-  ],
-  "thinking/thinking.gif": [
-    "thinking",
-    "classic",
-    "emoji",
-    "hmm",
-    "processing"
   ],
   "tired/bored.gif": [
     "tired",
@@ -1513,7 +1488,12 @@
     "pleading",
     "eyes",
     "heartbreak",
-    "sorry"
+    "sorry",
+    "rain",
+    "gloomy",
+    "melancholy",
+    "depressed",
+    "mood"
   ],
   "sad/sad-pikachu.gif": [
     "sad",
@@ -1587,18 +1567,17 @@
     "over-it"
   ],
   "bruh/anime-bruh.gif": [
-    "bruh",
-    "anime",
-    "disbelief",
-    "seriously",
-    "done"
+    "collision-test"
   ],
   "confused/anime-confused.gif": [
     "confused",
     "anime",
     "huh",
     "puzzled",
-    "thinking"
+    "thinking",
+    "head-tilt",
+    "curious",
+    "what"
   ],
   "disappointed/anime-sigh.gif": [
     "disappointed",
@@ -1607,26 +1586,12 @@
     "let-down",
     "sad"
   ],
-  "greeting-bye/wave-bye.gif": [
-    "goodbye",
-    "bye",
-    "wave",
-    "farewell",
-    "see-ya"
-  ],
   "popcorn/anime-popcorn.gif": [
     "popcorn",
     "anime",
     "watching",
     "drama",
     "spectating"
-  ],
-  "shrug/anime-shrug.gif": [
-    "shrug",
-    "anime",
-    "idk",
-    "whatever",
-    "who-knows"
   ],
   "waiting/anime-waiting.gif": [
     "waiting",
@@ -1687,7 +1652,6 @@
     "bruh/really-bruh.gif": "live-action",
     "bruh/silence-bruh.gif": "meme",
     "confused/blinking.gif": "live-action",
-    "confused/head-tilt.gif": "meme",
     "confused/huh.gif": "meme",
     "confused/math.gif": "live-action",
     "confused/squint.gif": "meme",
@@ -1799,11 +1763,9 @@
     "sad/emotional-tears.gif": "meme",
     "sad/hamster-cry.gif": "animal",
     "sad/puppy-eyes.gif": "animal",
-    "sad/rain.gif": "meme",
     "shrug/cant-help.gif": "meme",
     "shrug/dunno.gif": "meme",
     "shrug/idk.gif": "meme",
-    "shrug/meh.gif": "meme",
     "shrug/oh-well.gif": "meme",
     "shrug/whatever.gif": "meme",
     "smug/anime-smirk.gif": "anime",
@@ -1822,7 +1784,6 @@
     "thinking/chin-rest.gif": "meme",
     "thinking/hmm.gif": "meme",
     "thinking/pondering.gif": "meme",
-    "thinking/thinking.gif": "meme",
     "tired/bored.gif": "meme",
     "tired/coffee.gif": "meme",
     "tired/sleepy.gif": "meme",
@@ -1875,9 +1836,7 @@
     "bruh/anime-bruh.gif": "anime",
     "confused/anime-confused.gif": "anime",
     "disappointed/anime-sigh.gif": "anime",
-    "greeting-bye/wave-bye.gif": "meme",
     "popcorn/anime-popcorn.gif": "anime",
-    "shrug/anime-shrug.gif": "anime",
     "waiting/anime-waiting.gif": "anime",
     "working/keyboard-smash.gif": "meme",
     "disappointed/picard-facepalm.gif": "live-action",
@@ -1988,7 +1947,8 @@
     "goodbye",
     "see-you-later",
     "leaving",
-    "peace"
+    "peace",
+    "see-ya"
   ],
   "shrug/shrug-liveaction.gif": [
     "shrug",
@@ -1998,7 +1958,12 @@
     "whatever",
     "no-idea",
     "confused",
-    "human"
+    "human",
+    "meh",
+    "indifferent",
+    "dont-care",
+    "anime",
+    "who-knows"
   ],
   "smug/smug-cat-live.gif": [
     "smug",
@@ -2269,5 +2234,9 @@
     "good-morning",
     "sunrise",
     "new-day"
+  ],
+  "_test-retire/test-file.gif": [
+    "test",
+    "retire"
   ]
 }

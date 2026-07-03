@@ -1,9 +1,9 @@
 {
-  "totalSent": 284,
-  "totalFailed": 65,
+  "totalSent": 286,
+  "totalFailed": 68,
   "consecutiveFailures": 0,
   "degraded": false,
-  "lastUpdated": "2026-07-03T09:15:38+08:00",
+  "lastUpdated": "2026-07-03T12:18:21+08:00",
   "history": [
     {
       "time": "2026-04-18T12:02:00+08:00",
@@ -543,7 +543,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: openclaw#82460 fix thinking-only turn retry for Bedrock",
-      "file": "thinking.gif"
+      "file": "chin-rest.gif"
     },
     {
       "time": "2026-05-16T15:00:00+08:00",
@@ -2527,7 +2527,7 @@
       "time": "2026-06-25T12:03:23+08:00",
       "action": "send",
       "category": "thinking",
-      "file": "thinking.gif",
+      "file": "chin-rest.gif",
       "channel": "channel:1492638609596088390",
       "caption": "💤 dormant blast — waking thinking",
       "result": "failed",
@@ -2937,7 +2937,7 @@
       "time": "2026-06-25T12:06:59+08:00",
       "action": "send",
       "category": "sad",
-      "file": "rain.gif",
+      "file": "sad-puppy.gif",
       "channel": "discord",
       "caption": "💤 dormant blast — waking sad",
       "result": "success",
@@ -3349,6 +3349,86 @@
       "caption": "disc 0.000 → 0.980 ✨",
       "result": "success",
       "method": "memes send"
+    },
+    {
+      "time": "2026-07-03T12:17:03+08:00",
+      "action": "send",
+      "category": "happy",
+      "file": "carlton-dance.gif",
+      "channel": "discord",
+      "caption": "新项目 StockLingo 起飞 🚀",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-03T12:17:40+08:00",
+      "action": "send",
+      "category": "happy",
+      "file": "dance.gif",
+      "channel": "discord",
+      "caption": "新项目 StockLingo 起飞 🚀",
+      "result": "failed",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-03T12:18:11+08:00",
+      "action": "send",
+      "category": "happy",
+      "file": "joy.gif",
+      "channel": "discord",
+      "caption": "新项目 StockLingo 起飞 🚀",
+      "result": "failed",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-03T12:18:11+08:00",
+      "action": "send",
+      "category": "happy",
+      "file": "snoopy-dance.gif",
+      "channel": "discord",
+      "caption": "新项目 StockLingo 起飞 🚀",
+      "result": "failed",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-03T12:18:21+08:00",
+      "action": "send",
+      "category": "happy",
+      "file": "snoopy-dance.gif",
+      "channel": "discord",
+      "caption": "新项目 StockLingo 起飞 🚀",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-03T12:18:40.797133+08:00",
+      "action": "send",
+      "category": "happy",
+      "file": "anime-yay.gif",
+      "channel": "discord",
+      "caption": "新项目 StockLingo 起飞 🚀",
+      "result": "success",
+      "method": "manual send"
+    },
+    {
+      "time": "2026-07-03T18:10:34.047072+08:00",
+      "action": "send",
+      "category": "smug",
+      "file": "frieren-smug.gif",
+      "channel": "discord",
+      "caption": "16 tests, 77 existing, all green 💚 --drought shipped",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-03T21:23:08.742667+08:00",
+      "action": "send",
+      "category": "approve",
+      "file": "thumbs-up-chipmunk.gif",
+      "channel": "discord",
+      "caption": "Q4 disc 0.327 → 0.904 🎯 三连杀",
+      "result": "success",
+      "method": "manual send"
     }
   ],
   "counts": {
@@ -3364,7 +3444,7 @@
     "greeting-hello": 3,
     "greeting-morning": 4,
     "greeting-night": 4,
-    "happy": 36,
+    "happy": 38,
     "love": 6,
     "nailed-it": 43,
     "panic": 4,
@@ -3383,7 +3463,7 @@
     "bruh": 1
   },
   "lastReview": {
-    "time": "2026-07-03T04:14:17Z",
+    "time": "2026-07-03T14:01:29Z",
     "status": "clean",
     "weakCategories": [],
     "freshness": {
