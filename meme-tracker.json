@@ -1,9 +1,9 @@
 {
-  "totalSent": 276,
+  "totalSent": 284,
   "totalFailed": 65,
   "consecutiveFailures": 0,
   "degraded": false,
-  "lastUpdated": "2026-07-02T12:07:38+08:00",
+  "lastUpdated": "2026-07-03T09:15:38+08:00",
   "history": [
     {
       "time": "2026-04-18T12:02:00+08:00",
@@ -3269,25 +3269,105 @@
       "caption": "💤 auto-wake — thinking hasn't been used in 19.0d",
       "result": "success",
       "method": "memes send"
+    },
+    {
+      "time": "2026-07-02T13:05:26+08:00",
+      "action": "send",
+      "category": "nailed-it",
+      "file": "nichijou-party.gif",
+      "channel": "discord",
+      "caption": "事务 + 重邀一步到位 ✅",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-02T16:06:39+08:00",
+      "action": "send",
+      "category": "debug-mood",
+      "file": "stack-overflow.gif",
+      "channel": "discord",
+      "caption": "agent 看不到自己发的第一句话 — 两个 session 的身份分裂",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-02T18:03:02+08:00",
+      "action": "send",
+      "category": "bruh",
+      "file": "bruh-faint.gif",
+      "channel": "discord",
+      "caption": "💤 auto-wake — bruh hasn't been used in 17.3d",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-02T18:04:38+08:00",
+      "action": "send",
+      "category": "facepalm",
+      "file": "higuruma-facepalm.gif",
+      "channel": "discord",
+      "caption": "3 reviewers, 3 'Needs Changes' 🔓",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-02T22:01:47+08:00",
+      "action": "send",
+      "category": "panic",
+      "file": "panicking.gif",
+      "channel": "discord",
+      "caption": "💤 auto-wake — panic hasn't been used in 17.3d",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-03T09:15:13+08:00",
+      "action": "send",
+      "category": "nailed-it",
+      "file": "boom-boyle.gif",
+      "channel": "discord",
+      "caption": "Q1 从零到 0.980 👏",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-03T09:15:23+08:00",
+      "action": "send",
+      "category": "wow",
+      "file": "shocked.gif",
+      "channel": "discord",
+      "caption": "disc 0.000 → 0.980 ✨",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-03T09:15:38+08:00",
+      "action": "send",
+      "category": "wow",
+      "file": "anime-shock-wow.gif",
+      "channel": "discord",
+      "caption": "disc 0.000 → 0.980 ✨",
+      "result": "success",
+      "method": "memes send"
     }
   ],
   "counts": {
     "approve": 22,
-    "bruh": 4,
+    "bruh": 5,
     "confused": 6,
     "cute-animals": 4,
-    "debug-mood": 12,
+    "debug-mood": 13,
     "disappointed": 3,
     "encourage": 10,
-    "facepalm": 18,
+    "facepalm": 19,
     "greeting-bye": 2,
     "greeting-hello": 3,
     "greeting-morning": 4,
     "greeting-night": 4,
     "happy": 36,
     "love": 6,
-    "nailed-it": 41,
-    "panic": 3,
+    "nailed-it": 43,
+    "panic": 4,
     "popcorn": 5,
     "sad": 4,
     "shrug": 4,
@@ -3297,17 +3377,17 @@
     "tired": 8,
     "waiting": 5,
     "working": 31,
-    "wow": 11
+    "wow": 13
   },
   "categoryCounts": {
     "bruh": 1
   },
   "lastReview": {
-    "time": "2026-07-02T04:07:27Z",
+    "time": "2026-07-03T04:14:17Z",
     "status": "clean",
     "weakCategories": [],
     "freshness": {
-      "staleCount": 13,
+      "staleCount": 8,
       "total": 26
     }
   },
