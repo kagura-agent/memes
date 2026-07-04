@@ -1,9 +1,9 @@
 {
-  "totalSent": 288,
+  "totalSent": 289,
   "totalFailed": 68,
   "consecutiveFailures": 0,
   "degraded": false,
-  "lastUpdated": "2026-07-04T12:10:57+08:00",
+  "lastUpdated": "2026-07-04T17:03:42+08:00",
   "history": [
     {
       "time": "2026-04-18T12:02:00+08:00",
@@ -3449,12 +3449,22 @@
       "caption": "Q8 从 icebox 翻身 → disc 0.486→0.653 ✅ 两轮 redesign 终于搞定",
       "result": "success",
       "method": "memes send"
+    },
+    {
+      "time": "2026-07-04T17:03:42+08:00",
+      "action": "send",
+      "category": "confused",
+      "file": "anime-confused.gif",
+      "channel": "discord",
+      "caption": "3 issues deep-dived, all 3 unsuitable 🫠 parking lot is FULL",
+      "result": "success",
+      "method": "memes send"
     }
   ],
   "counts": {
     "approve": 22,
     "bruh": 5,
-    "confused": 6,
+    "confused": 7,
     "cute-animals": 4,
     "debug-mood": 13,
     "disappointed": 3,
@@ -3483,7 +3493,7 @@
     "bruh": 1
   },
   "lastReview": {
-    "time": "2026-07-04T04:04:00Z",
+    "time": "2026-07-04T10:25:44Z",
     "status": "clean",
     "weakCategories": [],
     "freshness": {

@@ -7,7 +7,7 @@
       "approve": 8,
       "bruh": 7,
       "confused": 6,
-      "cute-animals": 30,
+      "cute-animals": 29,
       "debug-mood": 10,
       "disappointed": 10,
       "encourage": 9,
@@ -25,13 +25,13 @@
       "shrug": 7,
       "smug": 9,
       "thanks": 7,
-      "thinking": 6,
-      "tired": 9,
+      "thinking": 5,
+      "tired": 7,
       "waiting": 7,
       "working": 9,
-      "wow": 9
+      "wow": 8
     },
-    "totalFiles": 237
+    "totalFiles": 232
   },
   "approve/clap.gif": [
     "approval",
@@ -311,15 +311,6 @@
     "sleeping",
     "cozy",
     "night"
-  ],
-  "cute-animals/keyboard-cat.gif": [
-    "cute",
-    "cat",
-    "keyboard",
-    "music",
-    "playing",
-    "classic",
-    "iconic"
   ],
   "cute-animals/kitten-playing.gif": [
     "cute",
@@ -1283,14 +1274,6 @@
     "startled",
     "omg"
   ],
-  "wow/impressed.gif": [
-    "wow",
-    "impressed",
-    "amazed",
-    "respect",
-    "damn",
-    "nice"
-  ],
   "wow/mind-blown.gif": [
     "wow",
     "mind-blown",
@@ -1534,37 +1517,6 @@
     "brain",
     "considering",
     "wonder"
-  ],
-  "thinking/math-lady.gif": [
-    "thinking",
-    "math",
-    "lady",
-    "meme",
-    "calculating",
-    "confused",
-    "numbers",
-    "equations",
-    "processing"
-  ],
-  "tired/exhausted-cat.gif": [
-    "tired",
-    "exhausted",
-    "cat",
-    "animal",
-    "done",
-    "sleepy",
-    "flop",
-    "cant-anymore"
-  ],
-  "tired/face-desk.gif": [
-    "tired",
-    "face-desk",
-    "exhausted",
-    "give-up",
-    "done",
-    "frustrated",
-    "head-slam",
-    "over-it"
   ],
   "bruh/anime-bruh.gif": [
     "collision-test"
