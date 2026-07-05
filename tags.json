@@ -28,10 +28,10 @@
       "thinking": 4,
       "tired": 7,
       "waiting": 7,
-      "working": 9,
+      "working": 8,
       "wow": 7
     },
-    "totalFiles": 218
+    "totalFiles": 217
   },
   "approve/clap.gif": [
     "approval",
@@ -1176,10 +1176,7 @@
     "grind",
     "late-night",
     "hustle",
-    "fuel"
-  ],
-  "working/focus.gif": [
-    "working",
+    "fuel",
     "focus",
     "concentration",
     "intense",
@@ -2003,7 +2000,6 @@
     "working/cat-typing.gif": "animal",
     "working/coding.gif": "meme",
     "working/coffee-work.gif": "meme",
-    "working/focus.gif": "meme",
     "working/typing.gif": "meme",
     "wow/cat-shocked.gif": "animal",
     "wow/mind-blown.gif": "meme",

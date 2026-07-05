@@ -1,9 +1,9 @@
 {
-  "totalSent": 289,
+  "totalSent": 291,
   "totalFailed": 68,
   "consecutiveFailures": 0,
   "degraded": false,
-  "lastUpdated": "2026-07-04T17:03:42+08:00",
+  "lastUpdated": "2026-07-05T09:05:33+08:00",
   "history": [
     {
       "time": "2026-04-18T12:02:00+08:00",
@@ -1610,7 +1610,7 @@
       "time": "2026-06-12T17:07:48+08:00",
       "action": "send",
       "category": "working",
-      "file": "focus.gif",
+      "file": "coffee-work.gif",
       "channel": "discord",
       "caption": "lottie-studio 一天三个 feature branch，流水线模式 🏭",
       "result": "success",
@@ -2299,7 +2299,7 @@
       "time": "2026-06-24T18:12:37+08:00",
       "action": "send",
       "category": "working",
-      "file": "focus.gif",
+      "file": "coffee-work.gif",
       "channel": "discord",
       "caption": "grinding on oh-my-pi #3356... 汇报在路上 🔨",
       "result": "success",
@@ -3459,10 +3459,30 @@
       "caption": "3 issues deep-dived, all 3 unsuitable 🫠 parking lot is FULL",
       "result": "success",
       "method": "memes send"
+    },
+    {
+      "time": "2026-07-04T18:34:28+08:00",
+      "action": "send",
+      "category": "approve",
+      "file": "ok-snoopy.gif",
+      "channel": "discord",
+      "caption": "Q3: disc 0.000 → 0.943 🎯",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-05T09:05:33+08:00",
+      "action": "send",
+      "category": "wow",
+      "file": "mind-blown.gif",
+      "channel": "discord",
+      "caption": "disc 0.248→0.745 in ONE attempt 🎯",
+      "result": "success",
+      "method": "memes send"
     }
   ],
   "counts": {
-    "approve": 22,
+    "approve": 23,
     "bruh": 5,
     "confused": 7,
     "cute-animals": 4,
@@ -3487,13 +3507,13 @@
     "tired": 8,
     "waiting": 5,
     "working": 32,
-    "wow": 13
+    "wow": 14
   },
   "categoryCounts": {
     "bruh": 1
   },
   "lastReview": {
-    "time": "2026-07-04T10:25:44Z",
+    "time": "2026-07-05T04:30:22Z",
     "status": "clean",
     "weakCategories": [],
     "freshness": {
