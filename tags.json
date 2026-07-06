@@ -2069,7 +2069,9 @@
     "cute-animals/puppy-pleading.gif": "animal",
     "greeting-bye/farewell-salute.gif": "live-action",
     "debug-mood/everything-fine-fire.gif": "cartoon",
-    "greeting-morning/good-morning-sun.gif": "meme"
+    "greeting-morning/good-morning-sun.gif": "meme",
+    "disappointed/spongebob-sigh.gif": "cartoon",
+    "disappointed/not-mad-disappointed.gif": "meme"
   },
   "categoryCounts": {
     "approve": 8,
@@ -2098,5 +2100,23 @@
     "waiting": 7,
     "working": 9,
     "wow": 7
-  }
+  },
+  "disappointed/spongebob-sigh.gif": [
+    "disappointed",
+    "sigh",
+    "spongebob",
+    "patrick",
+    "cartoon",
+    "ugh",
+    "fed-up"
+  ],
+  "disappointed/not-mad-disappointed.gif": [
+    "disappointed",
+    "not-mad",
+    "meme",
+    "rage",
+    "line-art",
+    "passive-aggressive",
+    "guilt-trip"
+  ]
 }
