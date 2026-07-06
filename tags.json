@@ -2071,7 +2071,9 @@
     "debug-mood/everything-fine-fire.gif": "cartoon",
     "greeting-morning/good-morning-sun.gif": "meme",
     "disappointed/spongebob-sigh.gif": "cartoon",
-    "disappointed/not-mad-disappointed.gif": "meme"
+    "disappointed/not-mad-disappointed.gif": "meme",
+    "panic/aah-scream.gif": "live-action",
+    "tired/tom-jerry-sleepy.gif": "cartoon"
   },
   "categoryCounts": {
     "approve": 8,
@@ -2118,5 +2120,21 @@
     "line-art",
     "passive-aggressive",
     "guilt-trip"
+  ],
+  "panic/aah-scream.gif": [
+    "panic",
+    "scream",
+    "scared",
+    "freaking-out",
+    "live-action",
+    "reaction"
+  ],
+  "tired/tom-jerry-sleepy.gif": [
+    "tired",
+    "sleepy",
+    "exhausted",
+    "cartoon",
+    "tom-and-jerry",
+    "nap"
   ]
 }
