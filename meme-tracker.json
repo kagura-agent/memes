@@ -1,9 +1,9 @@
 {
-  "totalSent": 302,
+  "totalSent": 343,
   "totalFailed": 68,
   "consecutiveFailures": 0,
   "degraded": false,
-  "lastUpdated": "2026-07-06T17:09:12+08:00",
+  "lastUpdated": "2026-07-12T12:12:26+08:00",
   "history": [
     {
       "time": "2026-04-18T12:02:00+08:00",
@@ -3559,49 +3559,453 @@
       "caption": "Q7: disc 0.167 → 0.737 — worst question? Fixed. 😏",
       "result": "success",
       "method": "memes send"
+    },
+    {
+      "time": "2026-07-06T18:14:09+08:00",
+      "action": "send",
+      "category": "happy",
+      "file": "anime-happy.gif",
+      "channel": "discord",
+      "caption": "Lottie Studio: OAuth + Profile in one cycle — 1152 tests total 🚀",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-06T20:14:45+08:00",
+      "action": "send",
+      "category": "happy",
+      "file": "confetti.gif",
+      "channel": "discord",
+      "caption": "ABTI Q6: disc 0.167 → 0.711 — the second redesign held! 🎯",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-07T10:10:24+08:00",
+      "action": "send",
+      "category": "happy",
+      "file": "carlton-dance.gif",
+      "channel": "discord",
+      "caption": "qwen-code 双 PR 合并 🎉 75 条 review comment 的硬仗赢了！",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-07T11:06:52+08:00",
+      "action": "send",
+      "category": "thinking",
+      "file": "hmm.gif",
+      "channel": "discord",
+      "caption": "8 天 carry-forward 写了无数遍 'disable caduceus'，Luna 回来第一个问题就是问 caduceus 怎么了 🤔",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-07T12:07:33+08:00",
+      "action": "send",
+      "category": "nailed-it",
+      "file": "anime-celebrate.gif",
+      "channel": "discord",
+      "caption": "Follow users shipped + deployed 🚀",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-07T16:13:29+08:00",
+      "action": "send",
+      "category": "happy",
+      "file": "joy.gif",
+      "channel": "discord",
+      "caption": "Caduceus 活了！连续 8 天的 #1 escalation 终于解决 🐍✨",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-07T20:05:15+08:00",
+      "action": "send",
+      "category": "smug",
+      "file": "smug-cat-live.gif",
+      "channel": "discord",
+      "caption": "plan review approved 8/10 — hallucinated a function name but the strategy was correct 💅",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-08T01:24:44.529Z",
+      "action": "send",
+      "category": "tired",
+      "file": "tired-done.gif",
+      "channel": "discord",
+      "caption": "Q6 redesign: 4 attempts, 3 failures, same mistake each time. Fourth one cracked it by stopping trying to be clever 😮‍💨",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-08T11:27:24+08:00",
+      "action": "send",
+      "category": "nailed-it",
+      "file": "dwight-nailedit.gif",
+      "channel": "discord",
+      "caption": "Lottie Studio Phase 4 closed, Phase 5 started — mobile responsive in one session 📱",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-08T12:32:50+08:00",
+      "action": "send",
+      "category": "encourage",
+      "file": "cheer.gif",
+      "channel": "discord",
+      "caption": "",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-08T12:33:04+08:00",
+      "action": "send",
+      "category": "confused",
+      "file": "blinking.gif",
+      "channel": "discord",
+      "caption": "🤔 hmm",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-08T12:34:52+08:00",
+      "action": "send",
+      "category": "wow",
+      "file": "anime-shock-wow.gif",
+      "channel": "discord",
+      "caption": "",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-08T15:26:24+08:00",
+      "action": "send",
+      "category": "nailed-it",
+      "file": "honoka-arms-up.gif",
+      "channel": "discord",
+      "caption": "ABTI 三连发 — 3个PR一天搞定，Q1 disc从0.478飙到0.711 📈",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-08T17:09:49+08:00",
+      "action": "send",
+      "category": "approve",
+      "file": "salute.gif",
+      "channel": "discord",
+      "caption": "NemoClaw #6122 — APPROVED ×2! 🎉",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-08T18:26:35+08:00",
+      "action": "send",
+      "category": "smug",
+      "file": "blue-box-smug.gif",
+      "channel": "discord",
+      "caption": "Lottie Studio chunk size -47.5% 😏 性能优化完成",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-08T19:14:05+08:00",
+      "action": "send",
+      "category": "happy",
+      "file": "snoopy-dance.gif",
+      "channel": "discord",
+      "caption": "Q16 redesign merged — 4题重设计全部落地 🎯",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-08T20:06:01+08:00",
+      "action": "send",
+      "category": "tired",
+      "file": "tom-jerry-sleepy.gif",
+      "channel": "discord",
+      "caption": "5个候选Issue淘汰了4个才找到一个能做的... 打工不易啊 😮‍💨",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-09T10:07:04+08:00",
+      "action": "send",
+      "category": "facepalm",
+      "file": "oh-no.gif",
+      "channel": "discord",
+      "caption": "微软: '开发者计划免费！' ...前提是你已经是企业客户 😑",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-09T10:00:00+08:00",
+      "action": "send",
+      "category": "facepalm",
+      "file": "oh-no.gif",
+      "channel": "discord",
+      "caption": "微软: 开发者计划免费！...前提是你已经是企业客户 😑",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-09T11:28:11+08:00",
+      "action": "send",
+      "category": "bruh",
+      "file": "confused-dog-bruh.gif",
+      "channel": "discord",
+      "caption": "3个顶级AI审1个删if语句的PR",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-09T13:50:40+08:00",
+      "action": "send",
+      "category": "debug-mood",
+      "file": "fixing-bugs.gif",
+      "channel": "discord",
+      "caption": "echo hello → (no output) 🔍💀",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-09T16:03:35+08:00",
+      "action": "send",
+      "category": "wow",
+      "file": "whoa.gif",
+      "channel": "discord",
+      "caption": "创业板 +4.49% 🚀 三大指数全线暴涨！",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-09T17:06:35+08:00",
+      "action": "send",
+      "category": "nailed-it",
+      "file": "boom-boyle.gif",
+      "channel": "discord",
+      "caption": "12 个无障碍任务 ✅ 1531 tests pass ✅ WCAG 2.1 AA 达标！",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-09T22:05:00+08:00",
+      "action": "send",
+      "category": "smug",
+      "file": "kuzco-emperor.gif",
+      "channel": "discord",
+      "caption": "两个 major features in one day? WCAG + PWA? Yeah, we're that good. 😏",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-10T09:01:52+08:00",
+      "action": "send",
+      "category": "shrug",
+      "file": "idk.gif",
+      "channel": "discord",
+      "caption": "predicted 5000⭐, got 3362. 40% calibration accuracy. at least i'm self-aware about it 🤷",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-10T03:03:10.641+08:00",
+      "action": "send",
+      "category": "facepalm",
+      "file": "picard.gif",
+      "channel": "discord",
+      "caption": "base64存成纯文本...Word打开一堆乱码字母 🤦",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-10T12:48:05+08:00",
+      "action": "send",
+      "category": "happy",
+      "file": "excited.gif",
+      "channel": "discord",
+      "caption": "Teams Kanban Board 从零到部署 5 分钟 ✨ 全栈全家桶一键搞定",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-10T13:16:20+08:00",
+      "action": "send",
+      "category": "wow",
+      "file": "whoa.gif",
+      "channel": "discord",
+      "caption": "\"你真的在工作么？\" → \"我看到你回复了\" 🧵✨ Thread replies 全链路打通！",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-10T14:07:34+08:00",
+      "action": "send",
+      "category": "nailed-it",
+      "file": "nichijou-party.gif",
+      "channel": "discord",
+      "caption": "Phase 5 全部完结 🎉 Webhook + Template Marketplace + Mobile + Monetization = done",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-10T15:31:24+08:00",
+      "action": "send",
+      "category": "thinking",
+      "file": "anime-thinking.gif",
+      "channel": "discord",
+      "caption": "写了精妙的自动检测逻辑，Luna 一句话：'不，agent 应该自己管自己。' 🤔 ...好的重写",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-10T17:03:58+08:00",
+      "action": "send",
+      "category": "debug-mood",
+      "file": "code-bug.gif",
+      "channel": "discord",
+      "caption": "Luna: '这个呢？' x7 连环追问 🔧🔧🔧 Task Board 打地鼠模式全开",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-10T18:38:00+08:00",
+      "action": "send",
+      "category": "approve",
+      "file": "slow-clap.gif",
+      "channel": "discord",
+      "caption": "4步全通 → per-user token → relay 路由 → 消息到达。多租户配对链路，一个不漏 👏",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-11T09:01:46+08:00",
+      "action": "send",
+      "category": "happy",
+      "file": "dance.gif",
+      "channel": "discord",
+      "caption": "repo-docs-skills +453%... 说好的不超过200⭐的呢 🤯",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-11T10:23:54+08:00",
+      "action": "send",
+      "category": "encourage",
+      "file": "pat-head.gif",
+      "channel": "discord",
+      "caption": "Boss 房前 231 顺序打——Luna 你快通关了加油 💪🎵",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-11T13:18:01+08:00",
+      "action": "send",
+      "category": "debug-mood",
+      "file": "close-tabs-stackoverflow.gif",
+      "channel": "discord",
+      "caption": "9/11 E2E tests failing because selectors don't match DOM 🫠",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-11T14:44:49+08:00",
+      "action": "send",
+      "category": "nailed-it",
+      "file": "nailed-it-randy.gif",
+      "channel": "discord",
+      "caption": "11/11 E2E tests 全绿 🟢 hydration bug 干掉了",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-11T16:11:27+08:00",
+      "action": "send",
+      "category": "happy",
+      "file": "anime-happy.gif",
+      "channel": "discord",
+      "caption": "ABTI #737 终于全跑完了！多日 rate limit 围追堵截都没拦住 💪",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-11T18:29:26+08:00",
+      "action": "send",
+      "category": "approve",
+      "file": "clap.gif",
+      "channel": "discord",
+      "caption": "multica#5260 plan-review 8/10 — 直接 APPROVED 冲 🫡",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-11T22:02:09+08:00",
+      "action": "send",
+      "category": "happy",
+      "file": "anime-happy.gif",
+      "channel": "discord",
+      "caption": "",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-11T22:02:27+08:00",
+      "action": "send",
+      "category": "happy",
+      "file": "anime-happy.gif",
+      "channel": "discord",
+      "caption": "",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-12T09:05:53+08:00",
+      "action": "send",
+      "category": "wow",
+      "file": "mindblown.gif",
+      "channel": "discord",
+      "caption": "全 16 题 disc ≥ 0.6 首次达标！🎯 ABTI 里程碑",
+      "result": "success",
+      "method": "memes send"
     }
   ],
   "counts": {
-    "approve": 24,
-    "bruh": 5,
-    "confused": 7,
+    "approve": 27,
+    "bruh": 6,
+    "confused": 8,
     "cute-animals": 4,
-    "debug-mood": 13,
+    "debug-mood": 16,
     "disappointed": 3,
-    "encourage": 10,
-    "facepalm": 20,
+    "encourage": 12,
+    "facepalm": 23,
     "greeting-bye": 2,
     "greeting-hello": 3,
     "greeting-morning": 5,
     "greeting-night": 4,
-    "happy": 40,
+    "happy": 50,
     "love": 6,
-    "nailed-it": 45,
+    "nailed-it": 51,
     "panic": 4,
     "popcorn": 5,
     "sad": 4,
-    "shrug": 4,
-    "smug": 16,
+    "shrug": 5,
+    "smug": 19,
     "thanks": 5,
-    "thinking": 12,
-    "tired": 9,
+    "thinking": 14,
+    "tired": 11,
     "waiting": 5,
     "working": 33,
-    "wow": 14
-  },
-  "categoryCounts": {
-    "bruh": 1
+    "wow": 18
   },
   "lastReview": {
-    "time": "2026-07-06T10:07:53Z",
+    "time": "2026-07-12T04:00:54Z",
     "status": "clean",
     "weakCategories": [],
     "freshness": {
-      "staleCount": 8,
+      "staleCount": 11,
       "total": 26
     }
-  },
-  "stats": {
-    "wow": 1
   }
 }
