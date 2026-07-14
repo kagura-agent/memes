@@ -2,7 +2,7 @@
   "_meta": {
     "version": 2,
     "description": "Semantic tags for meme selection. Each image has tags describing emotions, contexts, and use cases.",
-    "updated": "2026-06-27",
+    "updated": "2026-07-14",
     "categoryCounts": {
       "approve": 8,
       "bruh": 7,
@@ -25,13 +25,13 @@
       "shrug": 6,
       "smug": 8,
       "thanks": 7,
-      "thinking": 4,
+      "thinking": 7,
       "tired": 7,
       "waiting": 7,
       "working": 8,
       "wow": 7
     },
-    "totalFiles": 217
+    "totalFiles": 220
   },
   "approve/clap.gif": [
     "approval",
@@ -2073,7 +2073,10 @@
     "disappointed/spongebob-sigh.gif": "cartoon",
     "disappointed/not-mad-disappointed.gif": "meme",
     "panic/aah-scream.gif": "live-action",
-    "tired/tom-jerry-sleepy.gif": "cartoon"
+    "tired/tom-jerry-sleepy.gif": "cartoon",
+    "thinking/math-lady.gif": "live-action",
+    "thinking/spongebob-thinking.gif": "cartoon",
+    "thinking/loading-brain.gif": "meme"
   },
   "categoryCounts": {
     "approve": 8,
@@ -2136,5 +2139,32 @@
     "cartoon",
     "tom-and-jerry",
     "nap"
+  ],
+  "thinking/math-lady.gif": [
+    "thinking",
+    "calculating",
+    "confused",
+    "math",
+    "processing",
+    "numbers",
+    "overwhelmed"
+  ],
+  "thinking/spongebob-thinking.gif": [
+    "thinking",
+    "spongebob",
+    "contemplating",
+    "idea",
+    "wondering",
+    "cartoon",
+    "classic"
+  ],
+  "thinking/loading-brain.gif": [
+    "thinking",
+    "loading",
+    "processing",
+    "brain",
+    "buffering",
+    "computing",
+    "slow"
   ]
 }
