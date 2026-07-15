@@ -2076,7 +2076,9 @@
     "tired/tom-jerry-sleepy.gif": "cartoon",
     "thinking/math-lady.gif": "live-action",
     "thinking/spongebob-thinking.gif": "cartoon",
-    "thinking/loading-brain.gif": "meme"
+    "thinking/loading-brain.gif": "meme",
+    "confused/confused-cat.gif": "animal",
+    "confused/tom-confused.gif": "cartoon"
   },
   "categoryCounts": {
     "approve": 8,
@@ -2166,5 +2168,21 @@
     "buffering",
     "computing",
     "slow"
+  ],
+  "confused/confused-cat.gif": [
+    "confused",
+    "cat",
+    "puzzled",
+    "head-tilt",
+    "bewildered",
+    "what"
+  ],
+  "confused/tom-confused.gif": [
+    "confused",
+    "tom",
+    "cartoon",
+    "puzzled",
+    "huh",
+    "tom-and-jerry"
   ]
 }
