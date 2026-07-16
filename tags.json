@@ -2078,7 +2078,8 @@
     "thinking/spongebob-thinking.gif": "cartoon",
     "thinking/loading-brain.gif": "meme",
     "confused/confused-cat.gif": "animal",
-    "confused/tom-confused.gif": "cartoon"
+    "confused/tom-confused.gif": "cartoon",
+    "sad/frieren-sad.gif": "anime"
   },
   "categoryCounts": {
     "approve": 8,
@@ -2184,5 +2185,15 @@
     "puzzled",
     "huh",
     "tom-and-jerry"
+  ],
+  "sad/frieren-sad.gif": [
+    "sad",
+    "frieren",
+    "anime",
+    "crying",
+    "chibi",
+    "tears",
+    "heartbroken",
+    "upset"
   ]
 }
