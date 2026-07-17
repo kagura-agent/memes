@@ -4212,19 +4212,14 @@
     "wow": 19
   },
   "lastReview": {
-    "time": "2026-07-17T04:06:28Z",
+    "time": "2026-07-17T10:11:12Z",
     "status": "clean",
     "weakCategories": [],
     "freshness": {
-      "staleCount": 9,
+      "staleCount": 8,
       "total": 26,
-      "generalStale": 7,
+      "generalStale": 6,
       "contextualStale": 2
-    },
-    "autoWake": {
-      "time": "2026-07-17T04:06:40Z",
-      "category": "thanks",
-      "staleDays": 22.0
     }
   }
 }

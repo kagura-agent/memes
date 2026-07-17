@@ -2079,7 +2079,8 @@
     "thinking/loading-brain.gif": "meme",
     "confused/confused-cat.gif": "animal",
     "confused/tom-confused.gif": "cartoon",
-    "sad/frieren-sad.gif": "anime"
+    "sad/frieren-sad.gif": "anime",
+    "thanks/pokemon-happy-cry.gif": "anime"
   },
   "categoryCounts": {
     "approve": 8,
@@ -2195,5 +2196,16 @@
     "tears",
     "heartbroken",
     "upset"
+  ],
+  "thanks/pokemon-happy-cry.gif": [
+    "thanks",
+    "grateful",
+    "anime",
+    "pokemon",
+    "happy-cry",
+    "touched",
+    "appreciation",
+    "emotional",
+    "tears-of-joy"
   ]
 }
