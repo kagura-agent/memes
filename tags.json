@@ -25,13 +25,13 @@
       "shrug": 6,
       "smug": 8,
       "thanks": 7,
-      "thinking": 7,
+      "thinking": 6,
       "tired": 7,
       "waiting": 7,
       "working": 8,
       "wow": 7
     },
-    "totalFiles": 220
+    "totalFiles": 219
   },
   "approve/clap.gif": [
     "approval",
@@ -1410,21 +1410,6 @@
     "warm",
     "wholesome"
   ],
-  "thinking/anime-thinking.gif": [
-    "thinking",
-    "anime",
-    "pondering",
-    "hmm",
-    "contemplating",
-    "brain",
-    "considering",
-    "wonder",
-    "chin-rest",
-    "deep-thought",
-    "classic",
-    "emoji",
-    "processing"
-  ],
   "bruh/anime-bruh.gif": [
     "collision-test"
   ],
@@ -2025,7 +2010,6 @@
     "sad/sad-pikachu.gif": "cartoon",
     "thanks/anime-thanks.gif": "anime",
     "thanks/grateful-heart.gif": "meme",
-    "thinking/anime-thinking.gif": "anime",
     "bruh/anime-bruh.gif": "anime",
     "confused/anime-confused.gif": "anime",
     "disappointed/anime-sigh.gif": "anime",
@@ -2160,7 +2144,17 @@
     "idea",
     "wondering",
     "cartoon",
-    "classic"
+    "classic",
+    "anime",
+    "pondering",
+    "hmm",
+    "brain",
+    "considering",
+    "wonder",
+    "chin-rest",
+    "deep-thought",
+    "emoji",
+    "processing"
   ],
   "thinking/loading-brain.gif": [
     "thinking",

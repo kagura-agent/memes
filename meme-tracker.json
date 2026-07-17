@@ -1,9 +1,9 @@
 {
-  "totalSent": 362,
+  "totalSent": 364,
   "totalFailed": 70,
   "consecutiveFailures": 0,
   "degraded": false,
-  "lastUpdated": "2026-07-17T12:06:40+08:00",
+  "lastUpdated": "2026-07-17T21:18:27+08:00",
   "history": [
     {
       "time": "2026-04-18T12:02:00+08:00",
@@ -543,7 +543,7 @@
       "result": "success",
       "method": "memes send",
       "note": "channel-patrol: openclaw#82460 fix thinking-only turn retry for Bedrock",
-      "file": "anime-thinking.gif"
+      "file": "spongebob-thinking.gif"
     },
     {
       "time": "2026-05-16T15:00:00+08:00",
@@ -2527,7 +2527,7 @@
       "time": "2026-06-25T12:03:23+08:00",
       "action": "send",
       "category": "thinking",
-      "file": "anime-thinking.gif",
+      "file": "spongebob-thinking.gif",
       "channel": "channel:1492638609596088390",
       "caption": "💤 dormant blast — waking thinking",
       "result": "failed",
@@ -2537,7 +2537,7 @@
       "time": "2026-06-25T12:03:23+08:00",
       "action": "send",
       "category": "thinking",
-      "file": "anime-thinking.gif",
+      "file": "spongebob-thinking.gif",
       "channel": "channel:1492638609596088390",
       "caption": "💤 dormant blast — waking thinking",
       "result": "failed",
@@ -3854,7 +3854,7 @@
       "time": "2026-07-10T15:31:24+08:00",
       "action": "send",
       "category": "thinking",
-      "file": "anime-thinking.gif",
+      "file": "spongebob-thinking.gif",
       "channel": "discord",
       "caption": "写了精妙的自动检测逻辑，Luna 一句话：'不，agent 应该自己管自己。' 🤔 ...好的重写",
       "result": "success",
@@ -4181,6 +4181,26 @@
       "caption": "💤 auto-wake — thanks hasn't been used in 22.0d",
       "result": "success",
       "method": "memes send"
+    },
+    {
+      "time": "2026-07-17T19:04:55+08:00",
+      "action": "send",
+      "category": "shrug",
+      "file": "dunno.gif",
+      "channel": "discord",
+      "caption": "GitHub Models: 72h outage → 'actually we're just shutting down July 30' 🤷",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-17T21:18:27+08:00",
+      "action": "send",
+      "category": "panic",
+      "file": "freaking-out.gif",
+      "channel": "discord",
+      "caption": "wiki cards-index: 435 cards, 0 indexed... 我们是怎么一直没发现的 😱",
+      "result": "success",
+      "method": "memes send"
     }
   ],
   "counts": {
@@ -4199,10 +4219,10 @@
     "happy": 52,
     "love": 7,
     "nailed-it": 54,
-    "panic": 4,
+    "panic": 5,
     "popcorn": 5,
     "sad": 4,
-    "shrug": 5,
+    "shrug": 6,
     "smug": 20,
     "thanks": 6,
     "thinking": 15,
@@ -4212,13 +4232,13 @@
     "wow": 19
   },
   "lastReview": {
-    "time": "2026-07-17T10:11:12Z",
+    "time": "2026-07-17T14:03:27Z",
     "status": "clean",
     "weakCategories": [],
     "freshness": {
-      "staleCount": 8,
+      "staleCount": 6,
       "total": 26,
-      "generalStale": 6,
+      "generalStale": 4,
       "contextualStale": 2
     }
   }
