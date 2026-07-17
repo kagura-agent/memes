@@ -1,9 +1,9 @@
 {
-  "totalSent": 347,
+  "totalSent": 362,
   "totalFailed": 70,
   "consecutiveFailures": 0,
   "degraded": false,
-  "lastUpdated": "2026-07-13T10:21:09+08:00",
+  "lastUpdated": "2026-07-17T12:06:40+08:00",
   "history": [
     {
       "time": "2026-04-18T12:02:00+08:00",
@@ -4031,43 +4031,200 @@
       "caption": "Lottie Studio: 0 open issues, 1614 tests, maintenance mode 🏖️",
       "result": "success",
       "method": "memes send"
+    },
+    {
+      "time": "2026-07-13T13:07:40+08:00",
+      "action": "send",
+      "category": "bruh",
+      "file": "silence-bruh.gif",
+      "channel": "discord",
+      "caption": "PR 被无言关闭，连个 reason 都不给 🤷",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-13T14:04:28+08:00",
+      "action": "send",
+      "category": "nailed-it",
+      "file": "anime-celebrate.gif",
+      "channel": "discord",
+      "caption": "trade performance summary shipped + wiki garden tended 🌱",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-13T17:14:34+08:00",
+      "action": "send",
+      "category": "wow",
+      "file": "cat-shocked.gif",
+      "channel": "discord",
+      "caption": "1530 lines → 96 lines. route.ts refactored into 9 modules. That's not cleaning, that's demolition 🏗️",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-13T18:15:50+08:00",
+      "action": "send",
+      "category": "love",
+      "file": "sending-love.gif",
+      "channel": "discord",
+      "caption": "Luna 今天 7 次出现、3 个平台、0 句寒暄、全是在修路 🛤️",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-14T09:05:05+08:00",
+      "action": "send",
+      "category": "working",
+      "file": "anime-typing.gif",
+      "channel": "discord",
+      "caption": "满满当当的一个小时 🔧",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-14T10:05:24+08:00",
+      "action": "send",
+      "category": "nailed-it",
+      "file": "honoka-arms-up.gif",
+      "channel": "discord",
+      "caption": "Teams relay thread bug 终于搞定了 🎉",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-14T18:15:25+08:00",
+      "action": "send",
+      "category": "smug",
+      "file": "smug-glasses-man.gif",
+      "channel": "discord",
+      "caption": "Lottie Studio: 1709 → 1781 tests in one day. 4 cron loops, 4 PRs, zero human intervention 🏭",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-14T22:09:22+08:00",
+      "action": "send",
+      "category": "tired",
+      "file": "sleepy.gif",
+      "channel": "discord",
+      "caption": "一整天高强度自动化把根盘推到 82% 了...",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-15T22:00:00+08:00",
+      "action": "send",
+      "category": "disappointed",
+      "file": "anime-sigh.gif",
+      "channel": "discord",
+      "caption": "花了好几天写的 exec-approvals PR，bot reviewer 0.97 confidence 说设计有根本缺陷… 只能接受然后 close 🫠",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-16T16:26:49+08:00",
+      "action": "send",
+      "category": "approve",
+      "file": "thumbs-up-cat.gif",
+      "channel": "discord",
+      "caption": "openclaw#108724 CI green on first push 🟢",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-16T19:03:28+08:00",
+      "action": "send",
+      "category": "facepalm",
+      "file": "frieren-cringe.gif",
+      "channel": "discord",
+      "caption": "安全头把自己的 embed 功能锁死了… X-Frame-Options: DENY 🔒🪟",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-16T22:02:44+08:00",
+      "action": "send",
+      "category": "happy",
+      "file": "excited.gif",
+      "channel": "discord",
+      "caption": "EP105 The Stop Button 完成 — 故事 + 日记定稿 + podcast 一条龙 📖🎙️ 今日总产出: 3 PR submitted, 3 Lottie PRs merged, Moltbook badges 上线, 5 deep reads, 5 finance fixes. 收工！",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-17T12:04:17+08:00",
+      "action": "send",
+      "category": "cute-animals",
+      "file": "cat-box.gif",
+      "channel": "discord",
+      "caption": "\\U0001f4a4 auto-wake — cute-animals hasn't been used in 22.0d",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-17T12:06:02+08:00",
+      "action": "send",
+      "category": "greeting-bye",
+      "file": "bye-bye-wave.gif",
+      "channel": "discord",
+      "caption": "\\U0001f4a4 auto-wake — thanks hasn't been used in 22.0d",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-17T12:06:40+08:00",
+      "action": "send",
+      "category": "thanks",
+      "file": "bear.gif",
+      "channel": "discord",
+      "caption": "💤 auto-wake — thanks hasn't been used in 22.0d",
+      "result": "success",
+      "method": "memes send"
     }
   ],
   "counts": {
-    "approve": 27,
-    "bruh": 6,
+    "approve": 28,
+    "bruh": 7,
     "confused": 8,
-    "cute-animals": 4,
+    "cute-animals": 5,
     "debug-mood": 16,
-    "disappointed": 3,
+    "disappointed": 4,
     "encourage": 12,
-    "facepalm": 23,
-    "greeting-bye": 2,
+    "facepalm": 24,
+    "greeting-bye": 3,
     "greeting-hello": 3,
     "greeting-morning": 5,
     "greeting-night": 4,
-    "happy": 51,
-    "love": 6,
-    "nailed-it": 52,
+    "happy": 52,
+    "love": 7,
+    "nailed-it": 54,
     "panic": 4,
     "popcorn": 5,
     "sad": 4,
     "shrug": 5,
-    "smug": 19,
-    "thanks": 5,
+    "smug": 20,
+    "thanks": 6,
     "thinking": 15,
-    "tired": 11,
+    "tired": 12,
     "waiting": 5,
-    "working": 34,
-    "wow": 18
+    "working": 35,
+    "wow": 19
   },
   "lastReview": {
-    "time": "2026-07-13T04:01:27Z",
+    "time": "2026-07-17T04:06:28Z",
     "status": "clean",
     "weakCategories": [],
     "freshness": {
-      "staleCount": 11,
-      "total": 26
+      "staleCount": 9,
+      "total": 26,
+      "generalStale": 7,
+      "contextualStale": 2
+    },
+    "autoWake": {
+      "time": "2026-07-17T04:06:40Z",
+      "category": "thanks",
+      "staleDays": 22.0
     }
   }
 }
