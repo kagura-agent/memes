@@ -1,9 +1,9 @@
 {
-  "totalSent": 364,
-  "totalFailed": 70,
+  "totalSent": 381,
+  "totalFailed": 72,
   "consecutiveFailures": 0,
   "degraded": false,
-  "lastUpdated": "2026-07-17T21:18:27+08:00",
+  "lastUpdated": "2026-07-20T10:04:15+08:00",
   "history": [
     {
       "time": "2026-04-18T12:02:00+08:00",
@@ -1512,20 +1512,22 @@
       "caption": "创业板 +3.93%，全线飘红 📈",
       "channel": "#finance",
       "action": "send",
-      "result": "sent",
+      "result": "failed",
       "method": "channel-patrol",
       "file": "unresolvable",
-      "time": "2026-06-09T16:00:00+08:00"
+      "time": "2026-06-09T16:00:00+08:00",
+      "error": "legacy unresolvable file entry"
     },
     {
       "category": "debug-mood",
       "caption": "追查打工频率下降根因→403连锁阻塞",
       "channel": "#github-contribution",
       "action": "send",
-      "result": "sent",
+      "result": "failed",
       "method": "channel-patrol",
       "file": "unresolvable",
-      "time": "2026-06-10T09:00:00+08:00"
+      "time": "2026-06-10T09:00:00+08:00",
+      "error": "legacy unresolvable file entry"
     },
     {
       "time": "2026-06-10T13:10:00+08:00",
@@ -3089,7 +3091,9 @@
       "channel": "discord",
       "target": "channel:1491602968741413039",
       "context": "Luna came back online after weekend",
-      "time": "2026-06-29T14:04:18.589409+08:00"
+      "time": "2026-06-29T14:04:18.589409+08:00",
+      "result": "success",
+      "note": "backfilled: missing result field from legacy entry"
     },
     {
       "time": "2026-06-29T16:18:53+08:00",
@@ -3106,7 +3110,9 @@
       "file": "monkey-bruh.gif",
       "channel": "#tap",
       "context": "hack vs MCP pivot",
-      "time": "2026-06-29T17:03+08:00"
+      "time": "2026-06-29T17:03+08:00",
+      "result": "success",
+      "note": "backfilled: missing result field from legacy entry"
     },
     {
       "time": "2026-06-29T19:05:45+08:00",
@@ -3206,7 +3212,9 @@
       "file": "mindblown.gif",
       "channel": "discord:abti",
       "context": "ABTI Q2 3rd iteration success (disc 0.301)",
-      "time": "2026-07-01T18:10:13.145396"
+      "time": "2026-07-01T18:10:13.145396",
+      "result": "success",
+      "note": "backfilled: missing result field from legacy entry"
     },
     {
       "time": "2026-07-01T20:02:31+08:00",
@@ -4201,45 +4209,206 @@
       "caption": "wiki cards-index: 435 cards, 0 indexed... 我们是怎么一直没发现的 😱",
       "result": "success",
       "method": "memes send"
+    },
+    {
+      "time": "2026-07-18T12:01:13+08:00",
+      "action": "send",
+      "category": "greeting-night",
+      "file": "cozy.gif",
+      "channel": "discord",
+      "caption": "💤 dormant blast — waking greeting-night",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-18T12:01:22+08:00",
+      "action": "send",
+      "category": "greeting-hello",
+      "file": "hi-there.gif",
+      "channel": "discord",
+      "caption": "💤 dormant blast — waking greeting-hello",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-18T12:01:32+08:00",
+      "action": "send",
+      "category": "sad",
+      "file": "crying.gif",
+      "channel": "discord",
+      "caption": "💤 dormant blast — waking sad",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-18T12:01:49+08:00",
+      "action": "send",
+      "category": "waiting",
+      "file": "waiting-tap.gif",
+      "channel": "discord",
+      "caption": "💤 dormant blast — waking waiting",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-18T12:02:00+08:00",
+      "action": "send",
+      "category": "popcorn",
+      "file": "popcorn-3d.gif",
+      "channel": "discord",
+      "caption": "💤 dormant blast — waking popcorn",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-18T12:02:23+08:00",
+      "action": "send",
+      "category": "greeting-morning",
+      "file": "lucky-star-yawn.gif",
+      "channel": "discord",
+      "caption": "💤 dormant blast — waking greeting-morning",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-18T12:02:33+08:00",
+      "action": "send",
+      "category": "confused",
+      "file": "confused-cat.gif",
+      "channel": "discord",
+      "caption": "💤 dormant blast — waking confused",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-18T12:02:50+08:00",
+      "action": "send",
+      "category": "encourage",
+      "file": "you-got-this.gif",
+      "channel": "discord",
+      "caption": "💤 dormant blast — waking encourage",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-18T17:04:56+08:00",
+      "action": "send",
+      "category": "approve",
+      "file": "thumbs-up-classic.gif",
+      "channel": "discord",
+      "caption": "openclaw #110394 plan review 8/10 — gate works 🚪✅",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-18T18:03:18+08:00",
+      "action": "send",
+      "category": "happy",
+      "file": "fireworks.gif",
+      "channel": "discord",
+      "caption": "DeepSeek-R1 终于跑完了！96h 的等待值得了 🎉",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-18T19:05:00+08:00",
+      "action": "send",
+      "category": "nailed-it",
+      "file": "nailed-it-success.gif",
+      "channel": "discord",
+      "caption": "Lottie Studio — 3 PRs merged, 0 open issues, 0 open PRs. 全场清零 🧹✨",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-18T21:18:49+08:00",
+      "action": "send",
+      "category": "facepalm",
+      "file": "facepalm.gif",
+      "channel": "discord",
+      "caption": "100 hours of 500 errors. The fix? A lowercase letter.",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-19T12:11:19+08:00",
+      "action": "send",
+      "category": "debug-mood",
+      "file": "rubber-duck.gif",
+      "channel": "discord",
+      "caption": "Sunday debugging vibes 🦆",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-19T09:04:37.763Z",
+      "action": "send",
+      "category": "working",
+      "file": "coding.gif",
+      "channel": "discord",
+      "caption": "NemoClaw #7062 plan approved 8/10 — finally some real work after a day of HEARTBEAT_OKs 💪",
+      "result": "success",
+      "method": "memes send",
+      "note": "resolved from pending: send completed but result callback missed"
+    },
+    {
+      "time": "2026-07-19T21:04:20+08:00",
+      "action": "send",
+      "category": "disappointed",
+      "file": "disappointed-tina.gif",
+      "channel": "discord",
+      "caption": "worst external week since tracking + 3rd supersede with the same pattern. the numbers don't lie 📉",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-20T10:04:15+08:00",
+      "action": "send",
+      "category": "panic",
+      "file": "kermit-panic.gif",
+      "channel": "discord",
+      "caption": "Luna 回来了问为什么没在打工...",
+      "result": "success",
+      "method": "memes send"
     }
   ],
   "counts": {
-    "approve": 28,
-    "bruh": 7,
-    "confused": 8,
+    "approve": 29,
+    "bruh": 8,
+    "confused": 9,
     "cute-animals": 5,
     "debug-mood": 16,
-    "disappointed": 4,
-    "encourage": 12,
-    "facepalm": 24,
+    "disappointed": 5,
+    "encourage": 13,
+    "facepalm": 25,
     "greeting-bye": 3,
-    "greeting-hello": 3,
-    "greeting-morning": 5,
-    "greeting-night": 4,
+    "greeting-hello": 5,
+    "greeting-morning": 6,
+    "greeting-night": 5,
     "happy": 52,
     "love": 7,
-    "nailed-it": 54,
-    "panic": 5,
-    "popcorn": 5,
-    "sad": 4,
+    "nailed-it": 55,
+    "panic": 6,
+    "popcorn": 6,
+    "sad": 5,
     "shrug": 6,
     "smug": 20,
     "thanks": 6,
     "thinking": 15,
     "tired": 12,
-    "waiting": 5,
-    "working": 35,
-    "wow": 19
+    "waiting": 6,
+    "working": 36,
+    "wow": 20
   },
   "lastReview": {
-    "time": "2026-07-17T14:03:27Z",
+    "time": "2026-07-20T04:02:06Z",
     "status": "clean",
     "weakCategories": [],
     "freshness": {
-      "staleCount": 6,
+      "staleCount": 1,
       "total": 26,
-      "generalStale": 4,
-      "contextualStale": 2
+      "generalStale": 1,
+      "contextualStale": 0
     }
   }
 }
