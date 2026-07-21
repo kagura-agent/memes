@@ -1411,7 +1411,12 @@
     "wholesome"
   ],
   "bruh/anime-bruh.gif": [
-    "collision-test"
+    "bruh",
+    "anime",
+    "disbelief",
+    "really",
+    "reaction",
+    "wtf"
   ],
   "confused/anime-confused.gif": [
     "confused",
@@ -2065,34 +2070,6 @@
     "confused/tom-confused.gif": "cartoon",
     "sad/frieren-sad.gif": "anime",
     "thanks/pokemon-happy-cry.gif": "anime"
-  },
-  "categoryCounts": {
-    "approve": 8,
-    "bruh": 7,
-    "confused": 5,
-    "cute-animals": 29,
-    "debug-mood": 9,
-    "disappointed": 10,
-    "encourage": 9,
-    "facepalm": 10,
-    "greeting-bye": 6,
-    "greeting-hello": 7,
-    "greeting-morning": 7,
-    "greeting-night": 7,
-    "happy": 14,
-    "love": 8,
-    "nailed-it": 8,
-    "panic": 7,
-    "popcorn": 6,
-    "sad": 6,
-    "shrug": 6,
-    "smug": 8,
-    "thanks": 7,
-    "thinking": 4,
-    "tired": 7,
-    "waiting": 7,
-    "working": 9,
-    "wow": 7
   },
   "disappointed/spongebob-sigh.gif": [
     "disappointed",
