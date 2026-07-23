@@ -2069,7 +2069,12 @@
     "confused/confused-cat.gif": "animal",
     "confused/tom-confused.gif": "cartoon",
     "sad/frieren-sad.gif": "anime",
-    "thanks/pokemon-happy-cry.gif": "anime"
+    "thanks/pokemon-happy-cry.gif": "anime",
+    "nailed-it/chappelle-nailed-it.gif": "live-action",
+    "nailed-it/chris-evans-nailed-it.gif": "live-action",
+    "nailed-it/booyah-community.gif": "live-action",
+    "nailed-it/high-five-lets-go.gif": "live-action",
+    "nailed-it/nailed-it-hammer.gif": "meme"
   },
   "disappointed/spongebob-sigh.gif": [
     "disappointed",
@@ -2178,5 +2183,45 @@
     "appreciation",
     "emotional",
     "tears-of-joy"
+  ],
+  "nailed-it/chappelle-nailed-it.gif": [
+    "nailed-it",
+    "chappelle",
+    "dave",
+    "comedy",
+    "standup",
+    "smooth"
+  ],
+  "nailed-it/chris-evans-nailed-it.gif": [
+    "nailed-it",
+    "chris-evans",
+    "marvel",
+    "captain-america",
+    "charming",
+    "thumbs-up"
+  ],
+  "nailed-it/booyah-community.gif": [
+    "nailed-it",
+    "booyah",
+    "community",
+    "sitcom",
+    "troy",
+    "excited"
+  ],
+  "nailed-it/high-five-lets-go.gif": [
+    "nailed-it",
+    "high-five",
+    "lets-go",
+    "teamwork",
+    "hype",
+    "celebration"
+  ],
+  "nailed-it/nailed-it-hammer.gif": [
+    "nailed-it",
+    "hammer",
+    "tool",
+    "literal",
+    "funny",
+    "wordplay"
   ]
 }
