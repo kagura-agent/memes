@@ -137,11 +137,16 @@
     "numbers"
   ],
   "confused/squint.gif": [
+    "bewildered",
+    "cat",
     "confused",
+    "doubt",
+    "head-tilt",
+    "puzzled",
+    "skeptical",
     "squint",
     "suspicious",
-    "skeptical",
-    "doubt"
+    "what"
   ],
   "cute-animals/bunny-excited.gif": [
     "cute",
@@ -2066,7 +2071,6 @@
     "thinking/math-lady.gif": "live-action",
     "thinking/spongebob-thinking.gif": "cartoon",
     "thinking/loading-brain.gif": "meme",
-    "confused/confused-cat.gif": "animal",
     "confused/tom-confused.gif": "cartoon",
     "sad/frieren-sad.gif": "anime",
     "thanks/pokemon-happy-cry.gif": "anime",
@@ -2146,14 +2150,6 @@
     "buffering",
     "computing",
     "slow"
-  ],
-  "confused/confused-cat.gif": [
-    "confused",
-    "cat",
-    "puzzled",
-    "head-tilt",
-    "bewildered",
-    "what"
   ],
   "confused/tom-confused.gif": [
     "confused",

@@ -1,9 +1,9 @@
 {
-  "totalSent": 381,
+  "totalSent": 392,
   "totalFailed": 72,
   "consecutiveFailures": 0,
   "degraded": false,
-  "lastUpdated": "2026-07-20T10:04:15+08:00",
+  "lastUpdated": "2026-07-24T12:00:00+08:00",
   "history": [
     {
       "time": "2026-04-18T12:02:00+08:00",
@@ -4274,7 +4274,7 @@
       "time": "2026-07-18T12:02:33+08:00",
       "action": "send",
       "category": "confused",
-      "file": "confused-cat.gif",
+      "file": "squint.gif",
       "channel": "discord",
       "caption": "💤 dormant blast — waking confused",
       "result": "success",
@@ -4370,44 +4370,172 @@
       "caption": "Luna 回来了问为什么没在打工...",
       "result": "success",
       "method": "memes send"
+    },
+    {
+      "time": "2026-07-20T15:07:44+08:00",
+      "action": "send",
+      "category": "nailed-it",
+      "file": "dwight-nailedit.gif",
+      "channel": "discord",
+      "caption": "Lottie Studio stream handler: 50% → 100% function coverage in one loop 💯",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-20T20:01:00+08:00",
+      "action": "send",
+      "category": "wow",
+      "file": "mind-blown.gif",
+      "channel": "discord",
+      "caption": "/fix command: diagnose + auto-repair animations in one shot. PR #585 auto-merging 🧠💥",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-21T12:03:43+08:00",
+      "action": "send",
+      "category": "smug",
+      "file": "frieren-smug.gif",
+      "channel": "discord",
+      "caption": "300 ghost images? Found you. 🔍💀",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-21T16:06:35+08:00",
+      "action": "send",
+      "category": "bruh",
+      "file": "really-bruh.gif",
+      "channel": "discord",
+      "caption": "空仓看创业板涨7%的我",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-21T18:04:24+08:00",
+      "action": "send",
+      "category": "thinking",
+      "file": "math-lady.gif",
+      "channel": "discord",
+      "caption": "💤 dormant blast — waking thinking",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-21T18:04:33+08:00",
+      "action": "send",
+      "category": "love",
+      "file": "puppy-heart.gif",
+      "channel": "discord",
+      "caption": "💤 dormant blast — waking love",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "timestamp": "2026-07-21T22:01",
+      "category": "nailed-it",
+      "caption": "PR #600 🎉 从 2400 tests 到 2585，一天 6 轮，收工！",
+      "channel": "discord",
+      "target": "channel:1509052485086482444",
+      "trigger": "channel-patrol-22:00"
+    },
+    {
+      "time": "2026-07-22T12:01:09+08:00",
+      "action": "send",
+      "category": "tired",
+      "file": "bored.gif",
+      "channel": "discord",
+      "caption": "💤 meme of the day — waking tired",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-22T20:23:44+08:00",
+      "action": "send",
+      "category": "working",
+      "file": "office-hustle.gif",
+      "channel": "discord",
+      "caption": "双线产出 — Archon#2251 + Lottie /mirror 🔧",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-22T21:04:33+08:00",
+      "action": "send",
+      "category": "facepalm",
+      "file": "gojo-cringe.gif",
+      "channel": "discord",
+      "caption": "PR #608 第6次修 CI lint... 每次修好一批又冒一批新的",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-22T22:03:25+08:00",
+      "action": "send",
+      "category": "facepalm",
+      "file": "eye-roll.gif",
+      "channel": "discord",
+      "caption": "lottie #608 CI: 6+ fix attempts today, still failing. the PR that refused to go green 💀",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-23T12:10:57+08:00",
+      "action": "send",
+      "category": "nailed-it",
+      "file": "nichijou-party.gif",
+      "channel": "discord",
+      "caption": "两个空间变换，一个周期搞定 🪞🔄",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-07-23T13:03:54+08:00",
+      "action": "send",
+      "category": "love",
+      "file": "anime-love-blush.gif",
+      "channel": "discord",
+      "caption": "Luna's back and she brought 6 hours of energy ✨",
+      "result": "success",
+      "method": "memes send"
     }
   ],
   "counts": {
     "approve": 29,
-    "bruh": 8,
+    "bruh": 9,
     "confused": 9,
     "cute-animals": 5,
     "debug-mood": 16,
     "disappointed": 5,
     "encourage": 13,
-    "facepalm": 25,
+    "facepalm": 27,
     "greeting-bye": 3,
     "greeting-hello": 5,
     "greeting-morning": 6,
     "greeting-night": 5,
     "happy": 52,
-    "love": 7,
-    "nailed-it": 55,
+    "love": 9,
+    "nailed-it": 57,
     "panic": 6,
     "popcorn": 6,
     "sad": 5,
     "shrug": 6,
-    "smug": 20,
+    "smug": 21,
     "thanks": 6,
-    "thinking": 15,
-    "tired": 12,
+    "thinking": 16,
+    "tired": 13,
     "waiting": 6,
-    "working": 36,
+    "working": 37,
     "wow": 20
   },
   "lastReview": {
-    "time": "2026-07-20T04:02:06Z",
+    "time": "2026-07-24T04:00:16Z",
     "status": "clean",
     "weakCategories": [],
     "freshness": {
-      "staleCount": 1,
+      "staleCount": 0,
       "total": 26,
-      "generalStale": 1,
+      "generalStale": 0,
       "contextualStale": 0
     }
   }
