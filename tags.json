@@ -2,7 +2,7 @@
   "_meta": {
     "version": 2,
     "description": "Semantic tags for meme selection. Each image has tags describing emotions, contexts, and use cases.",
-    "updated": "2026-07-24",
+    "updated": "2026-07-30",
     "categoryCounts": {
       "approve": 8,
       "bruh": 7,
@@ -25,13 +25,13 @@
       "shrug": 6,
       "smug": 8,
       "thanks": 8,
-      "thinking": 6,
+      "thinking": 9,
       "tired": 8,
       "waiting": 7,
       "working": 8,
       "wow": 7
     },
-    "totalFiles": 231
+    "totalFiles": 234
   },
   "approve/clap.gif": [
     "approval",
@@ -2078,7 +2078,10 @@
     "nailed-it/chris-evans-nailed-it.gif": "live-action",
     "nailed-it/booyah-community.gif": "live-action",
     "nailed-it/high-five-lets-go.gif": "live-action",
-    "nailed-it/nailed-it-hammer.gif": "meme"
+    "nailed-it/nailed-it-hammer.gif": "meme",
+    "thinking/anime-think.gif": "anime",
+    "thinking/smart-think.gif": "meme",
+    "thinking/think-pepe.gif": "meme"
   },
   "disappointed/spongebob-sigh.gif": [
     "disappointed",
@@ -2219,5 +2222,35 @@
     "literal",
     "funny",
     "wordplay"
+  ],
+  "thinking/think-pepe.gif": [
+    "thinking",
+    "batman",
+    "pondering",
+    "chin-rest",
+    "contemplating",
+    "cartoon",
+    "classic",
+    "dc"
+  ],
+  "thinking/anime-think.gif": [
+    "thinking",
+    "emoji",
+    "pondering",
+    "hmm",
+    "considering",
+    "hand-on-chin",
+    "yellow"
+  ],
+  "thinking/smart-think.gif": [
+    "thinking",
+    "roll-safe",
+    "clever",
+    "smart",
+    "temple-tap",
+    "live-action",
+    "meme-classic",
+    "idea",
+    "lifehack"
   ]
 }
