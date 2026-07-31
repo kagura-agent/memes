@@ -6,7 +6,7 @@
     "categoryCounts": {
       "approve": 8,
       "bruh": 7,
-      "confused": 6,
+      "confused": 9,
       "cute-animals": 29,
       "debug-mood": 9,
       "disappointed": 12,
@@ -31,7 +31,7 @@
       "working": 8,
       "wow": 7
     },
-    "totalFiles": 234
+    "totalFiles": 240
   },
   "approve/clap.gif": [
     "approval",
@@ -2084,7 +2084,10 @@
     "thinking/think-pepe.gif": "meme",
     "shrug/nazuna-shrug.gif": "anime",
     "shrug/alice-shrug.gif": "cartoon",
-    "shrug/catgirl-idk.gif": "anime"
+    "shrug/catgirl-idk.gif": "anime",
+    "confused/nick-young-confused.gif": "meme",
+    "confused/total-drama-confused.gif": "cartoon",
+    "confused/anime-huh.gif": "anime"
   },
   "disappointed/spongebob-sigh.gif": [
     "disappointed",
@@ -2288,5 +2291,33 @@
     "maid",
     "whatever",
     "dont-know"
+  ],
+  "confused/nick-young-confused.gif": [
+    "confused",
+    "nick-young",
+    "question-marks",
+    "what",
+    "huh",
+    "meme-classic",
+    "basketball",
+    "iconic"
+  ],
+  "confused/total-drama-confused.gif": [
+    "confused",
+    "cartoon",
+    "total-drama",
+    "bridgette",
+    "huh",
+    "puzzled",
+    "animated"
+  ],
+  "confused/anime-huh.gif": [
+    "confused",
+    "anime",
+    "huh",
+    "puzzled",
+    "what",
+    "bewildered",
+    "reaction"
   ]
 }
