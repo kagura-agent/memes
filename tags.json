@@ -2,7 +2,7 @@
   "_meta": {
     "version": 2,
     "description": "Semantic tags for meme selection. Each image has tags describing emotions, contexts, and use cases.",
-    "updated": "2026-07-30",
+    "updated": "2026-07-31",
     "categoryCounts": {
       "approve": 8,
       "bruh": 7,
@@ -22,7 +22,7 @@
       "panic": 8,
       "popcorn": 6,
       "sad": 7,
-      "shrug": 6,
+      "shrug": 9,
       "smug": 8,
       "thanks": 8,
       "thinking": 9,
@@ -2081,7 +2081,10 @@
     "nailed-it/nailed-it-hammer.gif": "meme",
     "thinking/anime-think.gif": "anime",
     "thinking/smart-think.gif": "meme",
-    "thinking/think-pepe.gif": "meme"
+    "thinking/think-pepe.gif": "meme",
+    "shrug/nazuna-shrug.gif": "anime",
+    "shrug/alice-shrug.gif": "cartoon",
+    "shrug/catgirl-idk.gif": "anime"
   },
   "disappointed/spongebob-sigh.gif": [
     "disappointed",
@@ -2252,5 +2255,38 @@
     "meme-classic",
     "idea",
     "lifehack"
+  ],
+  "shrug/nazuna-shrug.gif": [
+    "shrug",
+    "anime",
+    "vampire",
+    "idk",
+    "whatever",
+    "nazuna",
+    "call-of-the-night",
+    "dont-know",
+    "dismissive"
+  ],
+  "shrug/alice-shrug.gif": [
+    "shrug",
+    "disney",
+    "alice",
+    "cartoon",
+    "innocent",
+    "idk",
+    "dont-know",
+    "classic",
+    "wonderland"
+  ],
+  "shrug/catgirl-idk.gif": [
+    "shrug",
+    "anime",
+    "chibi",
+    "catgirl",
+    "cute",
+    "idk",
+    "maid",
+    "whatever",
+    "dont-know"
   ]
 }
