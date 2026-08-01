@@ -2,7 +2,7 @@
   "_meta": {
     "version": 2,
     "description": "Semantic tags for meme selection. Each image has tags describing emotions, contexts, and use cases.",
-    "updated": "2026-07-31",
+    "updated": "2026-08-01",
     "categoryCounts": {
       "approve": 8,
       "bruh": 7,
@@ -12,7 +12,7 @@
       "disappointed": 12,
       "encourage": 9,
       "facepalm": 10,
-      "greeting-bye": 6,
+      "greeting-bye": 9,
       "greeting-hello": 7,
       "greeting-morning": 7,
       "greeting-night": 7,
@@ -31,7 +31,7 @@
       "working": 8,
       "wow": 7
     },
-    "totalFiles": 240
+    "totalFiles": 243
   },
   "approve/clap.gif": [
     "approval",
@@ -2087,7 +2087,10 @@
     "shrug/catgirl-idk.gif": "anime",
     "confused/nick-young-confused.gif": "meme",
     "confused/total-drama-confused.gif": "cartoon",
-    "confused/anime-huh.gif": "anime"
+    "confused/anime-huh.gif": "anime",
+    "greeting-bye/homer-hedge-bye.gif": "cartoon",
+    "greeting-bye/ralph-wiggum-bye.gif": "cartoon",
+    "greeting-bye/sad-farewell-wave.gif": "live-action"
   },
   "disappointed/spongebob-sigh.gif": [
     "disappointed",
@@ -2319,5 +2322,42 @@
     "what",
     "bewildered",
     "reaction"
+  ],
+  "greeting-bye/homer-hedge-bye.gif": [
+    "bye",
+    "goodbye",
+    "leaving",
+    "sneaking-away",
+    "awkward-exit",
+    "homer-simpson",
+    "simpsons",
+    "hedge",
+    "disappear",
+    "im-out",
+    "nope"
+  ],
+  "greeting-bye/ralph-wiggum-bye.gif": [
+    "bye",
+    "goodbye",
+    "wave",
+    "cheerful",
+    "goofy",
+    "ralph-wiggum",
+    "simpsons",
+    "friendly",
+    "see-you",
+    "farewell"
+  ],
+  "greeting-bye/sad-farewell-wave.gif": [
+    "bye",
+    "goodbye",
+    "farewell",
+    "sad",
+    "emotional",
+    "tearful",
+    "wave",
+    "leaving",
+    "miss-you",
+    "heartfelt"
   ]
 }
