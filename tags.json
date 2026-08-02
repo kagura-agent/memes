@@ -13,7 +13,7 @@
       "encourage": 9,
       "facepalm": 10,
       "greeting-bye": 9,
-      "greeting-hello": 7,
+      "greeting-hello": 10,
       "greeting-morning": 7,
       "greeting-night": 7,
       "happy": 14,
@@ -31,7 +31,7 @@
       "working": 8,
       "wow": 7
     },
-    "totalFiles": 246
+    "totalFiles": 249
   },
   "approve/clap.gif": [
     "approval",
@@ -2093,7 +2093,10 @@
     "greeting-bye/sad-farewell-wave.gif": "live-action",
     "popcorn/cat-popcorn.gif": "animal",
     "popcorn/colbert-popcorn.gif": "meme",
-    "popcorn/kermit-popcorn.gif": "meme"
+    "popcorn/kermit-popcorn.gif": "meme",
+    "greeting-hello/cartoon-dog-hello.gif": "cartoon",
+    "greeting-hello/cosmicals-hello.gif": "cartoon",
+    "greeting-hello/steve-harvey-hello.gif": "live-action"
   },
   "disappointed/spongebob-sigh.gif": [
     "disappointed",
@@ -2391,5 +2394,35 @@
     "sipping-tea",
     "drama",
     "unbothered"
+  ],
+  "greeting-hello/cosmicals-hello.gif": [
+    "hello",
+    "wave",
+    "greeting",
+    "hi",
+    "cartoon",
+    "cute",
+    "character",
+    "cheerful"
+  ],
+  "greeting-hello/steve-harvey-hello.gif": [
+    "hello",
+    "wave",
+    "greeting",
+    "hi",
+    "steve-harvey",
+    "live-action",
+    "comedy",
+    "friendly"
+  ],
+  "greeting-hello/cartoon-dog-hello.gif": [
+    "hello",
+    "wave",
+    "greeting",
+    "hi",
+    "dog",
+    "cartoon",
+    "cute",
+    "friendly"
   ]
 }

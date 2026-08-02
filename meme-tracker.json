@@ -1,19 +1,10 @@
 {
-  "totalSent": 436,
+  "totalSent": 437,
   "totalFailed": 73,
   "consecutiveFailures": 0,
   "degraded": false,
-  "lastUpdated": "2026-08-02T18:04:54+08:00",
+  "lastUpdated": "2026-08-02T22:01:16+08:00",
   "history": [
-    {
-      "time": "2026-04-21T12:00:00+08:00",
-      "action": "send",
-      "category": "wow",
-      "result": "success",
-      "method": "memes send",
-      "note": "cron pipeline verification - coverage 11/20=55%",
-      "file": "unresolvable"
-    },
     {
       "time": "2026-04-21T18:00:00+08:00",
       "action": "send",
@@ -4895,12 +4886,23 @@
       "result": "success",
       "method": "memes send",
       "target": "1491602968741413039"
+    },
+    {
+      "time": "2026-08-02T22:01:16+08:00",
+      "action": "send",
+      "category": "confused",
+      "file": "anime-huh.gif",
+      "channel": "discord",
+      "caption": "",
+      "result": "success",
+      "method": "memes send",
+      "target": "1491602968741413039"
     }
   ],
   "counts": {
     "approve": 31,
     "bruh": 12,
-    "confused": 10,
+    "confused": 11,
     "cute-animals": 6,
     "debug-mood": 17,
     "disappointed": 7,
@@ -4926,22 +4928,22 @@
     "wow": 23
   },
   "lastReview": {
-    "time": "2026-08-02T10:04:42Z",
+    "time": "2026-08-02T14:01:01Z",
     "status": "clean",
     "weakCategories": [],
     "freshness": {
-      "staleCount": 6,
+      "staleCount": 5,
       "total": 26,
-      "generalStale": 6,
+      "generalStale": 5,
       "contextualStale": 0
     },
     "autoWake": {
-      "time": "2026-08-02T10:04:54Z",
+      "time": "2026-08-02T14:01:16Z",
       "categories": [
-        "disappointed"
+        "confused"
       ],
       "count": 1
     }
   },
-  "historyTrimmedAt": "2026-08-02T18:04:54+08:00"
+  "historyTrimmedAt": "2026-08-02T22:01:16+08:00"
 }
