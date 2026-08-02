@@ -2,7 +2,7 @@
   "_meta": {
     "version": 2,
     "description": "Semantic tags for meme selection. Each image has tags describing emotions, contexts, and use cases.",
-    "updated": "2026-08-01",
+    "updated": "2026-08-02",
     "categoryCounts": {
       "approve": 8,
       "bruh": 7,
@@ -20,7 +20,7 @@
       "love": 8,
       "nailed-it": 13,
       "panic": 8,
-      "popcorn": 6,
+      "popcorn": 9,
       "sad": 7,
       "shrug": 9,
       "smug": 8,
@@ -31,7 +31,7 @@
       "working": 8,
       "wow": 7
     },
-    "totalFiles": 243
+    "totalFiles": 246
   },
   "approve/clap.gif": [
     "approval",
@@ -2090,7 +2090,10 @@
     "confused/anime-huh.gif": "anime",
     "greeting-bye/homer-hedge-bye.gif": "cartoon",
     "greeting-bye/ralph-wiggum-bye.gif": "cartoon",
-    "greeting-bye/sad-farewell-wave.gif": "live-action"
+    "greeting-bye/sad-farewell-wave.gif": "live-action",
+    "popcorn/cat-popcorn.gif": "animal",
+    "popcorn/colbert-popcorn.gif": "meme",
+    "popcorn/kermit-popcorn.gif": "meme"
   },
   "disappointed/spongebob-sigh.gif": [
     "disappointed",
@@ -2359,5 +2362,34 @@
     "leaving",
     "miss-you",
     "heartfelt"
+  ],
+  "popcorn/colbert-popcorn.gif": [
+    "popcorn",
+    "watching",
+    "drama",
+    "stephen-colbert",
+    "late-night",
+    "meme-classic",
+    "eating",
+    "anticipation"
+  ],
+  "popcorn/cat-popcorn.gif": [
+    "popcorn",
+    "watching",
+    "cat",
+    "cute",
+    "eating",
+    "spectator",
+    "animal"
+  ],
+  "popcorn/kermit-popcorn.gif": [
+    "popcorn",
+    "watching",
+    "kermit",
+    "muppet",
+    "cartoon",
+    "sipping-tea",
+    "drama",
+    "unbothered"
   ]
 }

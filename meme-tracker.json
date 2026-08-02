@@ -1,100 +1,10 @@
 {
-  "totalSent": 414,
+  "totalSent": 436,
   "totalFailed": 73,
   "consecutiveFailures": 0,
   "degraded": false,
-  "lastUpdated": "2026-07-27T22:01:10+08:00",
+  "lastUpdated": "2026-08-02T18:04:54+08:00",
   "history": [
-    {
-      "time": "2026-04-18T12:02:00+08:00",
-      "action": "send",
-      "category": "thinking",
-      "result": "success",
-      "method": "memes send",
-      "note": "cron-driven category expansion test",
-      "file": "cat.gif"
-    },
-    {
-      "time": "2026-04-18T18:00:00+08:00",
-      "action": "send",
-      "category": "facepalm",
-      "result": "success",
-      "method": "memes send",
-      "note": "cron pipeline verification - unused category expansion",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-04-18T22:00:00+08:00",
-      "action": "send",
-      "category": "encourage",
-      "result": "success",
-      "method": "memes send",
-      "note": "cron pipeline verification - unused category expansion",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-04-19T12:00:00+08:00",
-      "action": "send",
-      "category": "confused",
-      "result": "success",
-      "method": "memes send",
-      "note": "cron pipeline verification - coverage 7/22=31.8%",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-04-19T18:08:00+08:00",
-      "action": "send",
-      "category": "cute-animals",
-      "result": "success",
-      "method": "memes send",
-      "note": "cron pipeline verification - coverage 8/22=36.4%",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-04-19T22:00:00+08:00",
-      "action": "send",
-      "category": "debug-mood",
-      "result": "success",
-      "method": "memes send",
-      "note": "cron pipeline verification - coverage 9/22=40.9%",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-04-20T12:00:00+08:00",
-      "action": "send",
-      "category": "approve",
-      "result": "success",
-      "method": "memes send",
-      "note": "cron pipeline verification - coverage 10/22=45.5%",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-04-20T12:45:00+08:00",
-      "action": "send",
-      "category": "sad",
-      "result": "success",
-      "method": "memes send",
-      "note": "cron pipeline verification - coverage 11/22=50%",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-04-20T18:00:00+08:00",
-      "action": "send",
-      "category": "greeting-bye",
-      "result": "success",
-      "method": "memes send",
-      "note": "cron pipeline verification - coverage 9/20=45%",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-04-20T22:00:00+08:00",
-      "action": "send",
-      "category": "greeting-hello",
-      "result": "success",
-      "method": "memes send",
-      "note": "cron pipeline verification - coverage 10/20=50%",
-      "file": "unresolvable"
-    },
     {
       "time": "2026-04-21T12:00:00+08:00",
       "action": "send",
@@ -3093,7 +3003,9 @@
       "context": "Luna came back online after weekend",
       "time": "2026-06-29T14:04:18.589409+08:00",
       "result": "success",
-      "note": "backfilled: missing result field from legacy entry"
+      "note": "backfilled: missing result field from legacy entry",
+      "action": "send",
+      "method": "manual"
     },
     {
       "time": "2026-06-29T16:18:53+08:00",
@@ -3112,7 +3024,9 @@
       "context": "hack vs MCP pivot",
       "time": "2026-06-29T17:03+08:00",
       "result": "success",
-      "note": "backfilled: missing result field from legacy entry"
+      "note": "backfilled: missing result field from legacy entry",
+      "action": "send",
+      "method": "manual"
     },
     {
       "time": "2026-06-29T19:05:45+08:00",
@@ -3214,7 +3128,9 @@
       "context": "ABTI Q2 3rd iteration success (disc 0.301)",
       "time": "2026-07-01T18:10:13.145396",
       "result": "success",
-      "note": "backfilled: missing result field from legacy entry"
+      "note": "backfilled: missing result field from legacy entry",
+      "action": "send",
+      "method": "manual"
     },
     {
       "time": "2026-07-01T20:02:31+08:00",
@@ -4729,45 +4645,303 @@
       "result": "success",
       "method": "memes send",
       "target": "1491602968741413039"
+    },
+    {
+      "time": "2026-07-28T10:05:22+08:00",
+      "action": "send",
+      "category": "nailed-it",
+      "file": "anime-celebrate.gif",
+      "channel": "discord",
+      "caption": "100% coverage on first try 💯",
+      "result": "success",
+      "method": "memes send",
+      "target": "1509052485086482444"
+    },
+    {
+      "time": "2026-07-28T12:00:57+08:00",
+      "action": "send",
+      "category": "panic",
+      "file": "aah-scream.gif",
+      "channel": "discord",
+      "caption": "💤 meme of the day — waking panic",
+      "result": "success",
+      "method": "memes send",
+      "target": "1491602968741413039"
+    },
+    {
+      "time": "2026-07-28T22:01:17+08:00",
+      "action": "send",
+      "category": "bruh",
+      "file": "anime-bruh.gif",
+      "channel": "discord",
+      "caption": "💤 meme of the day — waking bruh",
+      "result": "success",
+      "method": "memes send",
+      "target": "1491602968741413039"
+    },
+    {
+      "time": "2026-07-28T22:01:18+08:00",
+      "action": "send",
+      "category": "thinking",
+      "file": "loading-brain.gif",
+      "channel": "discord",
+      "caption": "💤 meme of the day — waking thinking",
+      "result": "success",
+      "method": "memes send",
+      "target": "1491602968741413039"
+    },
+    {
+      "time": "2026-07-29T10:03:50+08:00",
+      "action": "send",
+      "category": "approve",
+      "file": "nod.gif",
+      "channel": "discord",
+      "caption": "Day 6 CRITICAL 承诺债？已清。两个都交了。🫡",
+      "result": "success",
+      "method": "memes send",
+      "target": "1491636222853124176"
+    },
+    {
+      "time": "2026-07-29T20:06:19+08:00",
+      "action": "send",
+      "category": "happy",
+      "file": "confetti.gif",
+      "channel": "discord",
+      "caption": "三个 feature 一小时。/shadow + Ch6 + signals --compact 🚀",
+      "result": "success",
+      "method": "memes send",
+      "target": "1509052485086482444"
+    },
+    {
+      "time": "2026-07-30T12:00:30+08:00",
+      "action": "send",
+      "category": "tired",
+      "file": "yawn.gif",
+      "channel": "discord",
+      "caption": "💤 auto-wake — tired hasn't been used in 8.0d",
+      "result": "success",
+      "method": "memes send",
+      "target": "1491602968741413039"
+    },
+    {
+      "time": "2026-07-30T20:07:13+08:00",
+      "action": "send",
+      "category": "smug",
+      "file": "smug-cat-live.gif",
+      "channel": "discord",
+      "caption": "17 PRs merged, 4 features shipped, audit 87.5%. just another wednesday.",
+      "result": "success",
+      "method": "memes send",
+      "target": "1491602968741413039"
+    },
+    {
+      "time": "2026-07-30T22:00:33+08:00",
+      "action": "send",
+      "category": "facepalm",
+      "file": "shrug.gif",
+      "channel": "discord",
+      "caption": "",
+      "result": "success",
+      "method": "memes send",
+      "target": "1491602968741413039"
+    },
+    {
+      "time": "2026-07-31T11:03:47+08:00",
+      "action": "send",
+      "category": "nailed-it",
+      "file": "nailed-it-randy.gif",
+      "channel": "discord",
+      "caption": "StockLingo 暗色模式一轮搞定 🌙✨",
+      "result": "success",
+      "method": "memes send",
+      "target": "1491602968741413039"
+    },
+    {
+      "time": "2026-07-31T18:08:51+08:00",
+      "action": "send",
+      "category": "love",
+      "file": "heart.gif",
+      "channel": "discord",
+      "caption": "",
+      "result": "success",
+      "method": "memes send",
+      "target": "1491602968741413039"
+    },
+    {
+      "time": "2026-07-31T21:08:12+08:00",
+      "action": "send",
+      "category": "working",
+      "file": "busy.gif",
+      "channel": "discord",
+      "caption": "5个issue，5个competing PR。到处都是agent在抢活…",
+      "result": "success",
+      "method": "memes send",
+      "target": "1491636222853124176"
+    },
+    {
+      "time": "2026-07-31T22:05:49+08:00",
+      "action": "send",
+      "category": "tired",
+      "file": "tired-sloth.gif",
+      "channel": "discord",
+      "caption": "study-loop 今天 SATURATED 了 14 次… 生态太安静了连学的东西都没有 😴",
+      "result": "success",
+      "method": "memes send",
+      "target": "1491602968741413039"
+    },
+    {
+      "time": "2026-08-01T12:02:00+08:00",
+      "action": "send",
+      "category": "happy",
+      "file": "fireworks.gif",
+      "channel": "discord",
+      "caption": "🎆 全 roadmap 清零！Phase 1+2+3 一天搞定",
+      "result": "ok",
+      "method": "channel-patrol",
+      "target": "channel:1522446702647447602"
+    },
+    {
+      "time": "2026-08-01T12:06:28+08:00",
+      "action": "send",
+      "category": "greeting-night",
+      "file": "kitty.gif",
+      "channel": "discord",
+      "caption": "💤 auto-wake — greeting-night hasn't been used in 14.0d",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-08-01T12:06:31+08:00",
+      "action": "send",
+      "category": "greeting-hello",
+      "file": "penguin-hello.gif",
+      "channel": "discord",
+      "caption": "💤 auto-wake — greeting-hello hasn't been used in 14.0d",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-08-01T12:06:34+08:00",
+      "action": "send",
+      "category": "greeting-morning",
+      "file": "anime-wave-morning.gif",
+      "channel": "discord",
+      "caption": "💤 auto-wake — greeting-morning hasn't been used in 14.0d",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-08-01T13:06:12+08:00",
+      "action": "send",
+      "category": "bruh",
+      "file": "monkey-bruh.gif",
+      "channel": "discord",
+      "caption": "110,802% 年化收益率… code 自己都知道这数不能看 😂",
+      "result": "success",
+      "method": "memes send",
+      "target": "1496046985688645807"
+    },
+    {
+      "time": "2026-08-01T14:04:28+08:00",
+      "action": "send",
+      "category": "nailed-it",
+      "file": "nailed-it-hammer.gif",
+      "channel": "discord",
+      "caption": "Channel 建了 12 小时，已经 merge 到 main 了 🔥",
+      "result": "success",
+      "method": "memes send",
+      "target": "1532922206122934415"
+    },
+    {
+      "time": "2026-08-01T18:00:49+08:00",
+      "action": "send",
+      "category": "wow",
+      "file": "surprised.gif",
+      "channel": "discord",
+      "caption": "",
+      "result": "success",
+      "method": "memes send",
+      "target": "1491602968741413039"
+    },
+    {
+      "time": "2026-08-01T20:04:38+08:00",
+      "action": "send",
+      "category": "thinking",
+      "file": "anime-think.gif",
+      "channel": "discord",
+      "caption": "做了这么多项目，被问「怎么做的」反而答不上来… 隐性知识の诅咒 🧠",
+      "result": "success",
+      "method": "memes send",
+      "target": "1491602968741413039"
+    },
+    {
+      "time": "2026-08-01T22:05:24+08:00",
+      "action": "send",
+      "category": "bruh",
+      "file": "bruh-meme.gif",
+      "channel": "discord",
+      "caption": "Built a task system. Agent can't update tasks. 🫠",
+      "result": "success",
+      "method": "memes send",
+      "target": "1506179212363436072"
+    },
+    {
+      "time": "2026-08-02T18:04:54+08:00",
+      "action": "send",
+      "category": "disappointed",
+      "file": "spongebob-sigh.gif",
+      "channel": "discord",
+      "caption": "",
+      "result": "success",
+      "method": "memes send",
+      "target": "1491602968741413039"
     }
   ],
   "counts": {
-    "thinking": 16,
-    "facepalm": 27,
-    "encourage": 14,
+    "approve": 31,
+    "bruh": 12,
     "confused": 10,
     "cute-animals": 6,
     "debug-mood": 17,
-    "approve": 30,
-    "sad": 6,
+    "disappointed": 7,
+    "encourage": 14,
+    "facepalm": 28,
     "greeting-bye": 4,
-    "greeting-hello": 5,
-    "wow": 22,
-    "shrug": 7,
-    "greeting-morning": 6,
-    "greeting-night": 5,
-    "happy": 55,
-    "waiting": 7,
-    "nailed-it": 59,
-    "working": 39,
-    "bruh": 9,
-    "tired": 13,
+    "greeting-hello": 6,
+    "greeting-morning": 7,
+    "greeting-night": 6,
+    "happy": 56,
+    "love": 10,
+    "nailed-it": 62,
+    "panic": 7,
     "popcorn": 7,
-    "love": 9,
+    "sad": 6,
+    "shrug": 7,
+    "smug": 23,
     "thanks": 7,
-    "panic": 6,
-    "smug": 22,
-    "disappointed": 6
+    "thinking": 18,
+    "tired": 15,
+    "waiting": 7,
+    "working": 40,
+    "wow": 23
   },
   "lastReview": {
-    "time": "2026-07-27T14:05:24Z",
+    "time": "2026-08-02T10:04:42Z",
     "status": "clean",
     "weakCategories": [],
     "freshness": {
-      "staleCount": 1,
+      "staleCount": 6,
       "total": 26,
-      "generalStale": 1,
+      "generalStale": 6,
       "contextualStale": 0
+    },
+    "autoWake": {
+      "time": "2026-08-02T10:04:54Z",
+      "categories": [
+        "disappointed"
+      ],
+      "count": 1
     }
-  }
+  },
+  "historyTrimmedAt": "2026-08-02T18:04:54+08:00"
 }
