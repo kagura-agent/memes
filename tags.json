@@ -2,36 +2,36 @@
   "_meta": {
     "version": 2,
     "description": "Semantic tags for meme selection. Each image has tags describing emotions, contexts, and use cases.",
-    "updated": "2026-08-02",
+    "updated": "2026-08-12",
     "categoryCounts": {
-      "approve": 8,
-      "bruh": 7,
+      "approve": 9,
+      "bruh": 8,
       "confused": 9,
-      "cute-animals": 29,
-      "debug-mood": 9,
-      "disappointed": 12,
-      "encourage": 9,
-      "facepalm": 10,
+      "cute-animals": 28,
+      "debug-mood": 10,
+      "disappointed": 13,
+      "encourage": 10,
+      "facepalm": 11,
       "greeting-bye": 9,
       "greeting-hello": 10,
-      "greeting-morning": 7,
-      "greeting-night": 7,
+      "greeting-morning": 8,
+      "greeting-night": 8,
       "happy": 14,
-      "love": 8,
+      "love": 9,
       "nailed-it": 13,
-      "panic": 8,
+      "panic": 9,
       "popcorn": 9,
-      "sad": 7,
+      "sad": 8,
       "shrug": 9,
       "smug": 8,
-      "thanks": 8,
+      "thanks": 9,
       "thinking": 9,
-      "tired": 8,
-      "waiting": 7,
-      "working": 8,
-      "wow": 7
+      "tired": 9,
+      "waiting": 8,
+      "working": 9,
+      "wow": 8
     },
-    "totalFiles": 249
+    "totalFiles": 263
   },
   "approve/clap.gif": [
     "approval",
@@ -301,14 +301,6 @@
     "adorable",
     "small",
     "sweet"
-  ],
-  "cute-animals/hedgehog-goodnight.gif": [
-    "cute",
-    "hedgehog",
-    "goodnight",
-    "sleeping",
-    "cozy",
-    "night"
   ],
   "cute-animals/kitten-playing.gif": [
     "cute",
@@ -1882,7 +1874,6 @@
     "cute-animals/hamster-teddy.gif": "animal",
     "cute-animals/hedgehog-bath.gif": "animal",
     "cute-animals/hedgehog-cute.gif": "animal",
-    "cute-animals/hedgehog-goodnight.gif": "animal",
     "cute-animals/kitten-playing.gif": "animal",
     "cute-animals/kitten-sleepy.gif": "animal",
     "cute-animals/kitten-stare.gif": "animal",
@@ -2096,7 +2087,25 @@
     "popcorn/kermit-popcorn.gif": "meme",
     "greeting-hello/cartoon-dog-hello.gif": "cartoon",
     "greeting-hello/cosmicals-hello.gif": "cartoon",
-    "greeting-hello/steve-harvey-hello.gif": "live-action"
+    "greeting-hello/steve-harvey-hello.gif": "live-action",
+    "greeting-morning/sunrise-cheer.gif": "meme",
+    "greeting-night/hedgehog-goodnight.gif": "animal",
+    "disappointed/its-not-fair.gif": "live-action",
+    "sad/spongebob-dejected.gif": "cartoon",
+    "waiting/anxious-waiting.gif": "live-action",
+    "wow/shocked-otter.gif": "meme",
+    "love/sending-heart.gif": "illustration",
+    "tired/power-save.gif": "illustration",
+    "bruh/bruh-meter.gif": "illustration",
+    "approve/approved-stamp.gif": "illustration",
+    "thanks/thank-you-flower.gif": "illustration",
+    "working/focus-mode.gif": "illustration",
+    "facepalm/well-that-happened.gif": "illustration",
+    "debug-mood/retry-not-panic.gif": "illustration",
+    "encourage/one-step-at-a-time.gif": "illustration",
+    "panic/stay-cool-alert.gif": "illustration",
+    "cute-animals/hedgehog-goodnight.gif": "meme",
+    "smug/smug-illustration.gif": "meme"
   },
   "disappointed/spongebob-sigh.gif": [
     "disappointed",
@@ -2424,5 +2433,189 @@
     "cartoon",
     "cute",
     "friendly"
-  ]
+  ],
+  "greeting-morning/sunrise-cheer.gif": [
+    "greeting",
+    "morning",
+    "sunrise",
+    "sun",
+    "cheerful",
+    "animated",
+    "sfw"
+  ],
+  "greeting-night/hedgehog-goodnight.gif": [
+    "cute",
+    "hedgehog",
+    "goodnight",
+    "sleeping",
+    "cozy",
+    "night"
+  ],
+  "disappointed/its-not-fair.gif": [
+    "disappointed",
+    "unfair",
+    "frustrated",
+    "distraught",
+    "dramatic",
+    "complaint",
+    "tearful",
+    "live-action",
+    "reaction"
+  ],
+  "sad/spongebob-dejected.gif": [
+    "sad",
+    "spongebob",
+    "dejected",
+    "teary-eyed",
+    "lonely",
+    "disappointed",
+    "emotional",
+    "reaction",
+    "sfw"
+  ],
+  "waiting/anxious-waiting.gif": [
+    "waiting",
+    "patiently-waiting",
+    "bored",
+    "impatient",
+    "anxious",
+    "long-wait",
+    "reaction",
+    "sfw"
+  ],
+  "wow/shocked-otter.gif": [
+    "wow",
+    "surprised",
+    "shocked",
+    "shocked-otter"
+  ],
+  "love/sending-heart.gif": [
+    "love",
+    "heart",
+    "sending-love",
+    "care",
+    "affection",
+    "support",
+    "warm",
+    "wholesome"
+  ],
+  "tired/power-save.gif": [
+    "tired",
+    "sleepy",
+    "exhausted",
+    "power-saving",
+    "low-energy",
+    "desk",
+    "late-night",
+    "zzz"
+  ],
+  "bruh/bruh-meter.gif": [
+    "bruh",
+    "deadpan",
+    "disbelief",
+    "awkward",
+    "speechless",
+    "reaction",
+    "animated",
+    "sfw",
+    "original"
+  ],
+  "approve/approved-stamp.gif": [
+    "approval",
+    "approved",
+    "checkmark",
+    "confirmed",
+    "greenlight",
+    "stamp",
+    "yes",
+    "illustration",
+    "sfw"
+  ],
+  "thanks/thank-you-flower.gif": [
+    "thanks",
+    "thank-you",
+    "grateful",
+    "appreciation",
+    "flower",
+    "heart",
+    "warm",
+    "illustration",
+    "sfw",
+    "animated"
+  ],
+  "working/focus-mode.gif": [
+    "working",
+    "focus",
+    "deep-work",
+    "productive",
+    "coding",
+    "desk",
+    "laptop",
+    "illustration",
+    "sfw"
+  ],
+  "facepalm/well-that-happened.gif": [
+    "facepalm",
+    "well-that-happened",
+    "oops",
+    "mistake",
+    "regret",
+    "failed-deploy",
+    "awkward",
+    "illustration",
+    "sfw"
+  ],
+  "debug-mood/retry-not-panic.gif": [
+    "debug",
+    "tooling-hiccup",
+    "retry",
+    "recoverable",
+    "calm",
+    "safe-retry",
+    "not-panic",
+    "illustration",
+    "sfw"
+  ],
+  "encourage/one-step-at-a-time.gif": [
+    "encourage",
+    "gentle",
+    "one-step-at-a-time",
+    "keep-going",
+    "setback",
+    "support",
+    "plant",
+    "growth",
+    "comfort"
+  ],
+  "panic/stay-cool-alert.gif": [
+    "urgent",
+    "alert",
+    "composed",
+    "under-control",
+    "warning",
+    "calm",
+    "manageable",
+    "illustration",
+    "reaction"
+  ],
+  "cute-animals/hedgehog-goodnight.gif": [
+    "cute",
+    "animal",
+    "adorable",
+    "hedgehog-goodnight"
+  ],
+  "smug/smug-illustration.gif": {
+    "tags": [
+      "smug",
+      "smirk",
+      "confident",
+      "self-satisfied",
+      "anime-girl",
+      "fufun",
+      "crossed-arms",
+      "sparkle",
+      "purple-hair"
+    ],
+    "style": "illustration"
+  }
 }

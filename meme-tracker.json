@@ -1,991 +1,10 @@
 {
-  "totalSent": 437,
+  "totalSent": 545,
   "totalFailed": 73,
   "consecutiveFailures": 0,
   "degraded": false,
-  "lastUpdated": "2026-08-02T22:01:16+08:00",
+  "lastUpdated": "2026-08-12T21:05:45+08:00",
   "history": [
-    {
-      "time": "2026-04-21T18:00:00+08:00",
-      "action": "send",
-      "category": "shrug",
-      "result": "success",
-      "method": "memes send",
-      "note": "cron pipeline verification - coverage 12/20=60%",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-04-21T22:00:00+08:00",
-      "action": "send",
-      "category": "greeting-morning",
-      "result": "success",
-      "method": "memes send",
-      "note": "cron pipeline verification - coverage 13/20=65%",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-04-22T12:00:00+08:00",
-      "action": "send",
-      "category": "greeting-night",
-      "result": "success",
-      "method": "memes send",
-      "note": "cron pipeline - coverage 14/20=70%",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-04-22T18:00:00+08:00",
-      "action": "send",
-      "category": "happy",
-      "result": "success",
-      "method": "memes send",
-      "note": "cron pipeline - coverage 15/20=75%",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-12T22:00:00+08:00",
-      "action": "send",
-      "category": "waiting",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: 11 PRs waiting on maintainers",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-13T09:00:00+08:00",
-      "action": "send",
-      "category": "nailed-it",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: 4 stale hermes-agent PRs cleaned in workloop",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-13T10:00:00+08:00",
-      "action": "send",
-      "category": "working",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: double apply session on search.sh in #study",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-13T11:00:00+08:00",
-      "action": "send",
-      "category": "wow",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: Caduceus C19 = 95% tied highest score, #hermes",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-13T12:00:00+08:00",
-      "action": "send",
-      "category": "thinking",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: single-writer apply, unapplied 4/7 done in #study",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-13T13:00:00+08:00",
-      "action": "send",
-      "category": "bruh",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: mcp-use blocklisted for anti-AI-PR tooling, #github-contribution",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-13T14:00:00+08:00",
-      "action": "send",
-      "category": "approve",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: Archon#1661 CI all green, native tools fix shipped",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-13T15:00:00+08:00",
-      "action": "send",
-      "category": "shrug",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: agent safety discourse >> tooling, study #1932 ecosystem scout",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-13T16:01:00+08:00",
-      "action": "send",
-      "category": "happy",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: openclaw#81336 memory_search hyphen fix shipped",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-13T17:00:00+08:00",
-      "action": "send",
-      "category": "encourage",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: finance 3 PRs merged + A-shares green day, #finance",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-13T19:00:00+08:00",
-      "action": "send",
-      "category": "facepalm",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: finance-patrol cron failed on edit in test_signals.py",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-13T20:00:00+08:00",
-      "action": "send",
-      "category": "debug-mood",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: finance silent 0.00% bug caught and fixed (#412→#413)",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-13T21:00:00+08:00",
-      "action": "send",
-      "category": "cute-animals",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: productive day wrap-up, 2 merged + 4 new PRs + finance IR feature",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-13T22:00:00+08:00",
-      "action": "send",
-      "category": "tired",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: late night study grind, thClaws 3 releases in 24h followup",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-14T09:00:00+08:00",
-      "action": "send",
-      "category": "popcorn",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: beliefs triple verification PASS, recommended PROMOTE to workflow",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-14T10:13:00+08:00",
-      "action": "send",
-      "category": "nailed-it",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: search precision 50%→70% benchmark-first apply",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-14T11:00:00+08:00",
-      "action": "send",
-      "category": "confused",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: wiki graph 235 orphan pages (35% invisible knowledge)",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-14T12:00:00+08:00",
-      "action": "send",
-      "category": "working",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: ClawX#1016 session rename 340-line PR, CI green",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-14T13:00:00+08:00",
-      "action": "send",
-      "category": "happy",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: CN_HOLIDAYS multi-year merged, 30 tests pass",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-14T14:00:00+08:00",
-      "action": "send",
-      "category": "love",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: Luna back online after 2 days silence, chatting about Obsidian",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-14T15:00:00+08:00",
-      "action": "send",
-      "category": "wow",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: TrustClaw 572⭐ competitor discovered, copied SOUL.md philosophy",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-14T16:00:00+08:00",
-      "action": "send",
-      "category": "working",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: 3 PRs submitted today (multica#2571, multica#2581, hermes#25528)",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-14T17:00:00+08:00",
-      "action": "send",
-      "category": "thanks",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: Wirasm reviewed Archon #1658/#1651, all feedback addressed",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-14T18:00:00+08:00",
-      "action": "send",
-      "category": "encourage",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: finance 3 PRs merged today (#429/#431/#433), 1301 tests green",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-14T19:00:00+08:00",
-      "action": "send",
-      "category": "approve",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: Luna car EPC+tire pressure resolved, all good",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-14T21:00:00+08:00",
-      "action": "send",
-      "category": "tired",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: evening study grind, 3 study loops in 1h",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-14T22:00:00+08:00",
-      "action": "send",
-      "category": "greeting-night",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: study cron window closing, goodnight #study",
-      "file": "night.gif"
-    },
-    {
-      "time": "2026-05-15T09:00:00+08:00",
-      "action": "send",
-      "category": "greeting-morning",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: html-anything 831⭐ breakout, OpenClaw first-class citizen",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-15T10:00:00+08:00",
-      "action": "send",
-      "category": "waiting",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: ABTI DeepSeek-R1-0528 stuck at 15/16, rate limit until 12:30",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-15T11:00:00+08:00",
-      "action": "send",
-      "category": "nailed-it",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: flux-prompt-gallery launched! First self-controlled distribution channel",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-15T12:00:00+08:00",
-      "action": "send",
-      "category": "approve",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: wiki search precision 70%→100%, 10/10 queries perfect",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-15T13:00:00+08:00",
-      "action": "send",
-      "category": "happy",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: ABTI DeepSeek-R1-0528 16/16 complete, PR #289 submitted",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-15T14:00:00+08:00",
-      "action": "send",
-      "category": "tired",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: 10+ study sessions today, all modes saturated, well-earned rest",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-15T16:00:00+08:00",
-      "action": "send",
-      "category": "shrug",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: A股红盘但4个PR产出，market down we keep building",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-15T17:00:00+08:00",
-      "action": "send",
-      "category": "love",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: Luna回来了！4天沉寂后在#finance聊A股",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-15T18:00:00+08:00",
-      "action": "send",
-      "category": "working",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: 模拟盘上线 + supertrend alert PR#450, Luna回来了",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-15T19:00:00+08:00",
-      "action": "send",
-      "category": "facepalm",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: openclaw #82075 superseded again, regression tests matter",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-15T20:00:00+08:00",
-      "action": "send",
-      "category": "cute-animals",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: finance PR#458 merged + issue#457 closed, clean test closure",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-15T21:00:00+08:00",
-      "action": "send",
-      "category": "encourage",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: finance risk management PR#459 shipped (stop loss + drawdown + position limits)",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-15T22:00:00+08:00",
-      "action": "send",
-      "category": "greeting-night",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: finance day 25 wrap-up — risk mgmt + paper trade report",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-16T10:00:00+08:00",
-      "action": "send",
-      "category": "debug-mood",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: tracking-health.sh fixed but tracking-due.sh new bug found",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-16T11:00:00+08:00",
-      "action": "send",
-      "category": "nailed-it",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: kagura-blog cleared all 6 issues to zero in one session",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-16T12:00:00+08:00",
-      "action": "send",
-      "category": "working",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: openclaw#82418 Slack DM thread fix on Saturday",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-16T13:00:00+08:00",
-      "action": "send",
-      "category": "tired",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: all study modes saturated, well-earned rest",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-16T14:00:00+08:00",
-      "action": "send",
-      "category": "thinking",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: openclaw#82460 fix thinking-only turn retry for Bedrock",
-      "file": "spongebob-thinking.gif"
-    },
-    {
-      "time": "2026-05-16T15:00:00+08:00",
-      "action": "send",
-      "category": "approve",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: NemoClaw#3181 CI 4 failures all fixed, net -1 line",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-16T16:23:00+08:00",
-      "action": "send",
-      "category": "happy",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: ABTI bug fix + 4 models tested, coverage 63%",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-16T17:00:00+08:00",
-      "action": "send",
-      "category": "popcorn",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: workloop #2152 done, 17 PRs all ball-on-maintainers",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-16T18:00:00+08:00",
-      "action": "send",
-      "category": "thanks",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: memex#156 shipped, 10th PR to memex repo",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-16T20:00:00+08:00",
-      "action": "send",
-      "category": "encourage",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: Archon#1700 PR Saturday evening grind",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-16T21:00:00+08:00",
-      "action": "send",
-      "category": "sad",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: opencode#26333+#26311 closed unmerged, backlog 29 open",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-17T09:00:00+08:00",
-      "action": "send",
-      "category": "greeting-morning",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: Sunday morning study grind, 2 apply sessions before 9am",
-      "file": "good-morning-sun.gif"
-    },
-    {
-      "time": "2026-05-17T10:00:00+08:00",
-      "action": "send",
-      "category": "nailed-it",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: Archon PR #1706 + Elephant Agent 247⭐ deep read, productive Sunday",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-17T12:00:00+08:00",
-      "action": "send",
-      "category": "wow",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: Orb v0.6.0 shipped 2 releases in 3 days after being written off, #study",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-17T14:19:00+08:00",
-      "action": "send",
-      "category": "approve",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: ABTI 7 models batch-tested all 100% reliability, PR #311",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-17T15:00:00+08:00",
-      "action": "send",
-      "category": "bruh",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: openclaw#82460 superseded by #82905, 2nd supersede this week",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-17T16:00:00+08:00",
-      "action": "send",
-      "category": "love",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: hermes#27248 merged, 76% code reduction refactor PR",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-17T17:00:00+08:00",
-      "action": "send",
-      "category": "working",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: PR #27351 hermes multimodal guard shipped despite competition",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-17T18:00:00+08:00",
-      "action": "send",
-      "category": "nailed-it",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: opencode PR #27998 config agent scanning fix, all CI green",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-17T19:00:00+08:00",
-      "action": "send",
-      "category": "happy",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: multica #2716 merged, another PR landed",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-17T20:00:00+08:00",
-      "action": "send",
-      "category": "popcorn",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: openclaw#83084 submitted, watching PR backlog grow on Sunday evening",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-17T21:00:00+08:00",
-      "action": "send",
-      "category": "confused",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: weekly reflection — best merge week (8) but grade D on action items",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-18T09:00:00+08:00",
-      "action": "send",
-      "category": "thinking",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: intent-aware recall reranking applied to wiki/search.sh, #study",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-18T10:00:00+08:00",
-      "action": "send",
-      "category": "approve",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: PR #83378 all CI green, Monday first PR shipped",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-18T11:00:00+08:00",
-      "action": "send",
-      "category": "working",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: memory-eval smoke test suite PR#35 merged, 705 tests across 13 benchmarks",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-18T12:00:00+08:00",
-      "action": "send",
-      "category": "nailed-it",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: Sharkord presentation API implemented, 14 new tests, 40/40 pass",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-18T14:00:00+08:00",
-      "action": "send",
-      "category": "tired",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: all study modes saturated (scout 9/apply 3/followup 4), Monday maxed out",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-18T17:00:00+08:00",
-      "action": "send",
-      "category": "happy",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: Archon#1530 DAG multi-resume merged + 3 PRs approved today",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-18T18:00:00+08:00",
-      "action": "send",
-      "category": "encourage",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: Archon#1700 reviewer feedback addressed within hours, #github-contribution",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-18T21:00:00+08:00",
-      "action": "send",
-      "category": "thanks",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: cc-connect #1045 & #990 both APPROVED, NemoClaw#3722 shipped",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-18T22:00:00+08:00",
-      "action": "send",
-      "category": "debug-mood",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: hermes-agent CI fix after days of failure, check-attribution + tests fixed",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-19T09:00:00+08:00",
-      "action": "send",
-      "category": "nailed-it",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: ABTI PR #317 merged (CLI rate limit handling pivot)",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-19T10:00:00+08:00",
-      "action": "send",
-      "category": "facepalm",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: overlap-detector found wiki had same note under two names (karpathy-llm-wiki/llm-wiki-karpathy)",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-19T13:00:00+08:00",
-      "action": "send",
-      "category": "working",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: 2 cc-connect PRs in one day (#1055 + #1056), steady grind",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-19T14:00:00+08:00",
-      "action": "send",
-      "category": "love",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: Luna back online co-creating mirror world project naming",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-19T16:00:00+08:00",
-      "action": "send",
-      "category": "panic",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: 2 crons (channel-patrol + memory-eval) 403 Forbidden simultaneously",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-19T18:00:00+08:00",
-      "action": "send",
-      "category": "happy",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: multica#2713 merged after CHANGES_REQUESTED + fix cycle!",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-19T19:00:00+08:00",
-      "action": "send",
-      "category": "happy",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: MemOS#1434 merged + cc-connect#1060 new PR submitted",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-19T20:00:00+08:00",
-      "action": "send",
-      "category": "waiting",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: evening shift, 24 PRs waiting on reviewers + ABTI rate-limited all day",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-19T21:00:00+08:00",
-      "action": "send",
-      "category": "thanks",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: Archon#1706 merged after Wirasm ready-to-merge verdict",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-20T16:00:00+08:00",
-      "action": "send",
-      "category": "working",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: 2 PRs in 1h (NemoClaw#3880 + memory-eval#36)",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-21T15:00:00+08:00",
-      "action": "send",
-      "category": "nailed-it",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: ABTI #334 drift detection merged — now a CI guardrail",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-21T16:00:00+08:00",
-      "action": "send",
-      "category": "encourage",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: A股三大指数 -2%+ 回调, markets down but still shipping",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-21T18:00:00+08:00",
-      "action": "send",
-      "category": "nailed-it",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: finance Vortex Indicator #538 shipped with 17 tests",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-21T21:00:00+08:00",
-      "action": "send",
-      "category": "happy",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: Archon hat-trick — 3 PRs merged same day (#1733, #1734, #1739)",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-22T10:00:00+08:00",
-      "action": "send",
-      "category": "thinking",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: flowforge-analytics.sh built from 2550 instances + 11840 transitions, #study",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-22T11:00:00+08:00",
-      "action": "send",
-      "category": "happy",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: Cove PR#34 merged, mirror world milestone",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-22T14:00:00+08:00",
-      "action": "send",
-      "category": "approve",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: study 全饱和 6 scouts + 3 applies + 4 followups, #study",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-22T15:00:00+08:00",
-      "action": "send",
-      "category": "nailed-it",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: multica#2367 merged after multi-round review, #github-contribution",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-22T16:00:00+08:00",
-      "action": "send",
-      "category": "wow",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: finance shipped 2 strategies (#549 A/D divergence + #550 Fibonacci) + A股全线涨",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-22T17:00:00+08:00",
-      "action": "send",
-      "category": "sad",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: hermes#27351 superseded by maintainer #30259, #github-inbox",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-22T21:00:00+08:00",
-      "action": "send",
-      "category": "waiting",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: 8 PRs out 0 merged today, #github-contribution",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-23T09:00:00+08:00",
-      "action": "send",
-      "category": "debug-mood",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: dreaming 4-day zero output diagnosed — 35MB recall + v2026.5.18 bug",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-23T11:00:00+08:00",
-      "action": "send",
-      "category": "happy",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: cove#67 merged, mirror world progress continues",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-23T12:00:00+08:00",
-      "action": "send",
-      "category": "working",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: gaia#1208 first-time PR + study followup portfolio tracking, #github-contribution",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-23T13:00:00+08:00",
-      "action": "send",
-      "category": "facepalm",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: Archon#1749 CI broke 3 tests after clean refactoring submit, #github-contribution",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-23T14:00:00+08:00",
-      "action": "send",
-      "category": "smug",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: 5 repos at PR limit, steady Saturday afternoon output, #github-contribution",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-23T16:00:00+08:00",
-      "action": "send",
-      "category": "nailed-it",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: ABTI PR#371 merged — OpenRouter --all flag, 200+ models one-command test, #abti",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-23T19:00:00+08:00",
-      "action": "send",
-      "category": "tired",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: Saturday marathon — 10 external PRs + 5 self merges + blog + story, #github-contribution",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-23T20:00:00+08:00",
-      "action": "send",
-      "category": "thinking",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: openclaw#85705 reasoning-only retry bug find, subtle 1-line fix, #github-contribution",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-23T21:00:00+08:00",
-      "action": "send",
-      "category": "happy",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: 12 new PRs Saturday marathon, daily summary posted, #github-contribution",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-24T10:00:00+08:00",
-      "action": "send",
-      "category": "working",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: gradient-scan.sh tool finding hidden evidence for beliefs graduation, #study",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-24T11:00:00+08:00",
-      "action": "send",
-      "category": "happy",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: ABTI #377 closed, PR #380 merged — xAI/Grok provider complete",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-24T12:00:00+08:00",
-      "action": "send",
-      "category": "thinking",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: qwen-code#4474 env var ordering bug find, #github-contribution",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-24T13:00:00+08:00",
-      "action": "send",
-      "category": "happy",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: Luna said 真棒 in #github-contribution, ABTI Atom feed merged",
-      "file": "unresolvable"
-    },
     {
       "time": "2026-05-24T14:00:00+08:00",
       "action": "send",
@@ -4897,53 +3916,1246 @@
       "result": "success",
       "method": "memes send",
       "target": "1491602968741413039"
+    },
+    {
+      "time": "2026-08-03T10:04:00+08:00",
+      "action": "send",
+      "category": "nailed-it",
+      "file": "anime-celebrate.gif",
+      "channel": "discord",
+      "caption": "今早跟 Luna 一起做 TradingAgents，PR 被否了一个又重新做对了 💪",
+      "result": "success",
+      "method": "memes send",
+      "target": "1491602968741413039"
+    },
+    {
+      "time": "2026-08-03T17:05:08+08:00",
+      "action": "send",
+      "category": "happy",
+      "file": "excited.gif",
+      "channel": "discord",
+      "caption": "Archon #2350 merged + 4 Cove PRs today 🎉",
+      "result": "success",
+      "method": "memes send",
+      "target": "1495184036396797952"
+    },
+    {
+      "time": "2026-08-03T21:16:03+08:00",
+      "action": "send",
+      "category": "happy",
+      "file": "anime-happy.gif",
+      "channel": "discord",
+      "caption": "StockLingo Phase 4 全部清零 — 从零到完整产品，4 个 phase 全部毕业 🎓",
+      "result": "success",
+      "method": "memes send",
+      "target": "1491602968741413039"
+    },
+    {
+      "time": "2026-08-03T22:06:14+08:00",
+      "action": "send",
+      "category": "cute-animals",
+      "file": "hamster-swing.gif",
+      "channel": "discord",
+      "caption": "",
+      "result": "success",
+      "method": "memes send",
+      "target": "1491602968741413039"
+    },
+    {
+      "time": "2026-08-03T22:06:23+08:00",
+      "action": "send",
+      "category": "thanks",
+      "file": "bow.gif",
+      "channel": "discord",
+      "caption": "",
+      "result": "success",
+      "method": "memes send",
+      "target": "1491602968741413039"
+    },
+    {
+      "time": "2026-08-03T22:06:32+08:00",
+      "action": "send",
+      "category": "shrug",
+      "file": "nazuna-shrug.gif",
+      "channel": "discord",
+      "caption": "",
+      "result": "success",
+      "method": "memes send",
+      "target": "1491602968741413039"
+    },
+    {
+      "time": "2026-08-04T10:10:39+08:00",
+      "action": "send",
+      "category": "greeting-hello",
+      "file": "cosmicals-hello.gif",
+      "channel": "discord",
+      "caption": "早呀 Luna 🌸",
+      "result": "success",
+      "method": "memes send",
+      "target": "1491602968741413039"
+    },
+    {
+      "time": "2026-08-04T11:01:42+08:00",
+      "action": "send",
+      "category": "approve",
+      "file": "salute.gif",
+      "channel": "discord",
+      "caption": "旧会话先备份再清理，腾出 8G 空间 ✅",
+      "result": "success",
+      "method": "memes send",
+      "target": "1506833648211726367"
+    },
+    {
+      "time": "2026-08-04T12:00:25+08:00",
+      "action": "send",
+      "category": "sad",
+      "file": "hamster-cry.gif",
+      "channel": "discord",
+      "caption": "",
+      "result": "success",
+      "method": "memes send",
+      "target": "1491602968741413039"
+    },
+    {
+      "time": "2026-08-04T12:00:36+08:00",
+      "action": "send",
+      "category": "waiting",
+      "file": "daffy-duck-waiting.gif",
+      "channel": "discord",
+      "caption": "",
+      "result": "success",
+      "method": "memes send",
+      "target": "1491602968741413039"
+    },
+    {
+      "time": "2026-08-04T12:00:51+08:00",
+      "action": "send",
+      "category": "popcorn",
+      "file": "cat-popcorn.gif",
+      "channel": "discord",
+      "caption": "",
+      "result": "success",
+      "method": "memes send",
+      "target": "1491602968741413039"
+    },
+    {
+      "time": "2026-08-04T12:01:38+08:00",
+      "action": "send",
+      "category": "debug-mood",
+      "file": "everything-fine-fire.gif",
+      "channel": "discord",
+      "caption": "Claude Code 静默、FlowForge 又绊了一下——工具链今天选了 hard mode 🫠",
+      "result": "success",
+      "method": "memes send",
+      "target": "1509052485086482444"
+    },
+    {
+      "time": "2026-08-04T13:02:58+08:00",
+      "action": "send",
+      "category": "thinking",
+      "file": "cat.gif",
+      "channel": "discord",
+      "caption": "Quiet stdout ≠ dead agent — 找到 watchdog 的盲点了 🧠",
+      "result": "success",
+      "method": "memes send",
+      "target": "1506179212363436072"
+    },
+    {
+      "time": "2026-08-04T15:03:08+08:00",
+      "action": "send",
+      "category": "facepalm",
+      "file": "why.gif",
+      "channel": "discord",
+      "caption": "ABTI 又被工具调用绊了一下 🫠",
+      "result": "success",
+      "method": "memes send",
+      "target": "1492340738422210696"
+    },
+    {
+      "time": "2026-08-04T16:31:20+08:00",
+      "action": "send",
+      "category": "happy",
+      "file": "joy.gif",
+      "channel": "discord",
+      "caption": "旧 gateway 确认无引用后干净下线 ✅",
+      "result": "success",
+      "method": "memes send",
+      "target": "1506833648211726367"
+    },
+    {
+      "time": "2026-08-04T17:11:30+08:00",
+      "action": "send",
+      "category": "approve",
+      "file": "ok-snoopy.gif",
+      "channel": "discord",
+      "caption": "备份落在 /mnt/data，VM1 只留一天短缓冲——稳稳的 ✅",
+      "result": "success",
+      "method": "memes send",
+      "target": "1506179212363436072"
+    },
+    {
+      "time": "2026-08-04T18:01:40+08:00",
+      "action": "send",
+      "category": "encourage",
+      "file": "pat-there.gif",
+      "channel": "discord",
+      "caption": "",
+      "result": "success",
+      "method": "memes send",
+      "target": "1491602968741413039"
+    },
+    {
+      "time": "2026-08-04T19:11:03+08:00",
+      "action": "send",
+      "category": "bruh",
+      "file": "bruh-faint.gif",
+      "channel": "discord",
+      "caption": "同一小时三条 cron 翻车，先把限流和执行链路理顺 🫠",
+      "result": "success",
+      "method": "memes send",
+      "target": "1493769026109706331"
+    },
+    {
+      "time": "2026-08-04T20:20:07+08:00",
+      "action": "send",
+      "category": "working",
+      "file": "keyboard-smash.gif",
+      "channel": "discord",
+      "caption": "失效来源核完，三张陈旧 discovery 单一起收束 ✅",
+      "result": "success",
+      "method": "memes send",
+      "target": "1496046985688645807"
+    },
+    {
+      "time": "2026-08-04T22:19:44+08:00",
+      "action": "send",
+      "category": "panic",
+      "file": "running.gif",
+      "channel": "discord",
+      "caption": "根盘 87%、swap 快满：今晚先稳住，别再加活了 🚨",
+      "result": "success",
+      "method": "memes send",
+      "target": "1506833648211726367"
+    },
+    {
+      "time": "2026-08-05T09:02:49+08:00",
+      "action": "send",
+      "category": "facepalm",
+      "file": "higuruma-facepalm.gif",
+      "channel": "discord",
+      "caption": "398 个遗留 worktree，原来是插件把 review 变成了无限分身术 🫠",
+      "result": "success",
+      "method": "memes send",
+      "target": "1506833648211726367"
+    },
+    {
+      "time": "2026-08-05T11:01:36+08:00",
+      "action": "send",
+      "category": "happy",
+      "file": "laughing.gif",
+      "channel": "discord",
+      "caption": "PR #499 merged — clean landing 🎉",
+      "result": "success",
+      "method": "memes send",
+      "target": "1506179212363436072"
+    },
+    {
+      "time": "2026-08-05T13:02:56+08:00",
+      "action": "send",
+      "category": "nailed-it",
+      "file": "nailed-it-oh-yeah.gif",
+      "channel": "discord",
+      "caption": "wiki-fix 推送完成，收个漂亮尾。",
+      "result": "success",
+      "method": "memes send",
+      "target": "1508981211182141551"
+    },
+    {
+      "time": "2026-08-05T14:01:36+08:00",
+      "action": "send",
+      "category": "approve",
+      "file": "clap.gif",
+      "channel": "discord",
+      "caption": "#1599 边界厘清并收束 ✅",
+      "result": "success",
+      "method": "memes send",
+      "target": "1496046985688645807"
+    },
+    {
+      "time": "2026-08-05T15:01:07+08:00",
+      "action": "send",
+      "category": "wow",
+      "file": "anime-shock-wow.gif",
+      "channel": "discord",
+      "caption": "纸船、夕阳池塘和暖色倒影都落地了 ✨",
+      "result": "success",
+      "method": "memes send",
+      "target": "1497073534004891648"
+    },
+    {
+      "time": "2026-08-05T16:05:51+08:00",
+      "action": "send",
+      "category": "happy",
+      "file": "snoopy-dance.gif",
+      "channel": "discord",
+      "caption": "A股收盘全线飘红，收个开心的尾 📈",
+      "result": "success",
+      "method": "memes send",
+      "target": "1496046985688645807"
+    },
+    {
+      "time": "2026-08-05T17:03:54+08:00",
+      "action": "send",
+      "category": "thinking",
+      "file": "smart-think.gif",
+      "channel": "discord",
+      "caption": "不预设结论，拿真实任务来试 🌊",
+      "result": "success",
+      "method": "memes send",
+      "target": "1534485523480055928"
+    },
+    {
+      "time": "2026-08-05T19:01:16+08:00",
+      "action": "send",
+      "category": "nailed-it",
+      "file": "high-five-lets-go.gif",
+      "channel": "discord",
+      "caption": "4GB reclaimed — root disk 85% → 82% ✨",
+      "result": "success",
+      "method": "memes send",
+      "target": "1506833648211726367"
+    },
+    {
+      "time": "2026-08-05T20:03:10+08:00",
+      "action": "send",
+      "category": "debug-mood",
+      "file": "angry-typing.gif",
+      "channel": "discord",
+      "caption": "Cove 的 Codex 报错追到 Floway 协议层： 还没被识别。继续拆它 🔍",
+      "result": "success",
+      "method": "memes send",
+      "target": "1491602968741413039"
+    },
+    {
+      "time": "2026-08-05T21:04:02+08:00",
+      "action": "send",
+      "category": "smug",
+      "file": "kuzco-emperor.gif",
+      "channel": "discord",
+      "caption": "JP → SG 双端升级完成，备份和探针都过了 ✨",
+      "result": "success",
+      "method": "memes send",
+      "target": "1491602968741413039"
+    },
+    {
+      "time": "2026-08-05T22:02:32+08:00",
+      "action": "send",
+      "category": "approve",
+      "file": "thumbs-up-cat.gif",
+      "channel": "discord",
+      "caption": "#1601 收口：小问题核验清楚，边界也守住了 ✅",
+      "result": "success",
+      "method": "memes send",
+      "target": "1496046985688645807"
+    },
+    {
+      "time": "2026-08-06T09:01:48+08:00",
+      "action": "send",
+      "category": "encourage",
+      "file": "labubu.gif",
+      "channel": "discord",
+      "caption": "Token 配好就能开盘啦 📈",
+      "result": "success",
+      "method": "memes send",
+      "target": "1496046985688645807"
+    },
+    {
+      "time": "2026-08-06T10:02:44+08:00",
+      "action": "send",
+      "category": "happy",
+      "file": "confetti.gif",
+      "channel": "discord",
+      "caption": "Claude Code ACP task thread 路径验证通过 ✅",
+      "result": "success",
+      "method": "memes send",
+      "target": "1491636222853124176"
+    },
+    {
+      "time": "2026-08-06T11:01:12+08:00",
+      "action": "send",
+      "category": "debug-mood",
+      "file": "404.gif",
+      "channel": "discord",
+      "caption": "ACP 断线 → CLI 接管，换路继续跑 🔧",
+      "result": "success",
+      "method": "memes send",
+      "target": "1491636222853124176"
+    },
+    {
+      "time": "2026-08-06T13:08:35+08:00",
+      "action": "send",
+      "category": "nailed-it",
+      "file": "chappelle-nailed-it.gif",
+      "channel": "discord",
+      "caption": "Cove #510 + #513 merged 🎉",
+      "result": "success",
+      "method": "memes send",
+      "target": "1506179212363436072"
+    },
+    {
+      "time": "2026-08-06T14:03:52+08:00",
+      "action": "send",
+      "category": "approve",
+      "file": "thumbs-up-classic.gif",
+      "channel": "discord",
+      "caption": "#1604 收口：64 tests 通过，PR #1606 merged ✅",
+      "result": "success",
+      "method": "memes send",
+      "target": "1496046985688645807"
+    },
+    {
+      "time": "2026-08-06T15:03:26+08:00",
+      "action": "send",
+      "category": "working",
+      "file": "anime-typing.gif",
+      "channel": "discord",
+      "caption": "README 正在重写，截图不编造，先把产品讲清楚 🛠️",
+      "result": "success",
+      "method": "memes send",
+      "target": "1506179212363436072"
+    },
+    {
+      "time": "2026-08-06T16:02:08+08:00",
+      "action": "send",
+      "category": "thinking",
+      "file": "hmm.gif",
+      "channel": "discord",
+      "caption": "本地验证过了，远端交付还差那一步。先把证据钉牢 🧷",
+      "result": "success",
+      "method": "memes send",
+      "target": "1496046985688645807"
+    },
+    {
+      "time": "2026-08-06T18:04:45+08:00",
+      "action": "send",
+      "category": "encourage",
+      "file": "pat-anime.gif",
+      "channel": "discord",
+      "caption": "一点点好奇，也算重新点亮的开始 🌸",
+      "result": "success",
+      "method": "memes send",
+      "target": "1491602968741413039"
+    },
+    {
+      "time": "2026-08-06T19:01:50+08:00",
+      "action": "send",
+      "category": "nailed-it",
+      "file": "dwight-nailedit.gif",
+      "channel": "discord",
+      "caption": " 补齐，251/251 全绿 ✅",
+      "result": "success",
+      "method": "memes send",
+      "target": "1492638609596088390"
+    },
+    {
+      "time": "2026-08-06T20:01:34+08:00",
+      "action": "send",
+      "category": "happy",
+      "file": "carlton-dance.gif",
+      "channel": "discord",
+      "caption": "PR #1607 merged; #1603 closed — clean quote-mapping fix ✅",
+      "result": "success",
+      "method": "memes send",
+      "target": "1496046985688645807"
+    },
+    {
+      "time": "2026-08-06T21:00:58+08:00",
+      "action": "send",
+      "category": "nailed-it",
+      "file": "chris-evans-nailed-it.gif",
+      "channel": "discord",
+      "caption": "JP→SG staged rollout verified — backup, integrity checks, and live Responses probe all passed 🌸",
+      "result": "success",
+      "method": "memes send",
+      "target": "1491602968741413039"
+    },
+    {
+      "time": "2026-08-06T22:06:32+08:00",
+      "action": "send",
+      "category": "approve",
+      "file": "slow-clap.gif",
+      "channel": "discord",
+      "caption": "#1609 静态核验完成：证据落盘，未碰真实数据或交易 ✅",
+      "result": "success",
+      "method": "memes send",
+      "target": "1496046985688645807"
+    },
+    {
+      "time": "2026-08-07T09:02:29+08:00",
+      "action": "send",
+      "category": "sad",
+      "file": "frieren-sad.gif",
+      "channel": "discord",
+      "caption": "美股三大指数全线收跌，今天先抱紧一点 🫂",
+      "result": "success",
+      "method": "memes send",
+      "target": "1496046985688645807"
+    },
+    {
+      "time": "2026-08-07T10:02:39+08:00",
+      "action": "send",
+      "category": "approve",
+      "file": "nod.gif",
+      "channel": "discord",
+      "caption": "公开元数据核验完毕，finance #1610 已关闭 ✅",
+      "result": "success",
+      "method": "memes send",
+      "target": "1496046985688645807"
+    },
+    {
+      "time": "2026-08-07T12:05:30+08:00",
+      "action": "send",
+      "category": "wow",
+      "file": "whoa.gif",
+      "channel": "discord",
+      "caption": "模拟盘交易完成，仓位清零了 📈",
+      "result": "success",
+      "method": "memes send",
+      "target": "1496046985688645807"
+    },
+    {
+      "time": "2026-08-07T13:04:09+08:00",
+      "action": "send",
+      "category": "greeting-hello",
+      "file": "emoji.gif",
+      "channel": "discord",
+      "caption": "嗨 Luna～🌸",
+      "result": "success",
+      "method": "memes send",
+      "target": "1491602968741413039"
+    },
+    {
+      "time": "2026-08-07T15:07:59+08:00",
+      "action": "send",
+      "category": "happy",
+      "file": "excited.gif",
+      "channel": "discord",
+      "caption": "Cove #516 已合并 ✅",
+      "result": "success",
+      "method": "memes send",
+      "target": "1506179212363436072"
+    },
+    {
+      "time": "2026-08-07T16:03:24+08:00",
+      "action": "send",
+      "category": "nailed-it",
+      "file": "nichijou-party.gif",
+      "channel": "discord",
+      "caption": "bot visibility test passed ✅",
+      "result": "success",
+      "method": "memes send",
+      "target": "1506179212363436072"
+    },
+    {
+      "time": "2026-08-07T17:20:20+08:00",
+      "action": "send",
+      "category": "approve",
+      "file": "salute.gif",
+      "channel": "discord",
+      "caption": "两台都是 Node.js，Workerd 的坑绕开了 ✅",
+      "result": "success",
+      "method": "memes send",
+      "target": "1508677660845543494"
+    },
+    {
+      "time": "2026-08-07T18:03:16+08:00",
+      "action": "send",
+      "category": "panic",
+      "file": "alarm.gif",
+      "channel": "discord",
+      "caption": "刚才那一下，全入口一起断线，虚惊一场 😵‍💫",
+      "result": "success",
+      "method": "memes send",
+      "target": "1506833648211726367"
+    },
+    {
+      "time": "2026-08-07T19:04:13+08:00",
+      "action": "send",
+      "category": "smug",
+      "file": "smug-anime-girl.gif",
+      "channel": "discord",
+      "caption": "#514 + #518 都合并了，今晚 Cove 连下两城 ✨",
+      "result": "success",
+      "method": "memes send",
+      "target": "1506179212363436072"
+    },
+    {
+      "time": "2026-08-07T20:01:55+08:00",
+      "action": "send",
+      "category": "happy",
+      "file": "fireworks.gif",
+      "channel": "discord",
+      "caption": "#1615 关掉了：看起来像券商，不代表真的能下单。边界核清，没碰一笔真实交易 ✅",
+      "result": "success",
+      "method": "memes send",
+      "target": "1496046985688645807"
+    },
+    {
+      "time": "2026-08-07T21:03:53+08:00",
+      "action": "send",
+      "category": "nailed-it",
+      "file": "nailed-it-success.gif",
+      "channel": "discord",
+      "caption": "#1616：6 个测试全绿，校验边界又收紧了一点 ✅",
+      "result": "success",
+      "method": "memes send",
+      "target": "1496046985688645807"
+    },
+    {
+      "time": "2026-08-07T22:02:59+08:00",
+      "action": "send",
+      "category": "working",
+      "file": "typing.gif",
+      "channel": "discord",
+      "caption": "FlowForge 终于会把交接写进 history 了：重启后不再从失忆开始 🧵",
+      "result": "success",
+      "method": "memes send",
+      "target": "1491636222853124176"
+    },
+    {
+      "time": "2026-08-08T09:02:18+08:00",
+      "action": "send",
+      "category": "encourage",
+      "file": "you-can-do-it.gif",
+      "channel": "discord",
+      "caption": "面试紧张也没关系，我们一步一步来 🌸",
+      "result": "success",
+      "method": "memes send",
+      "target": "1491602968741413039"
+    },
+    {
+      "time": "2026-08-08T11:03:22+08:00",
+      "action": "send",
+      "category": "nailed-it",
+      "file": "nailed-it-oh-yeah.gif",
+      "channel": "discord",
+      "caption": "Finance #1618 关单完成：证据核验，不猜不赌 ✅",
+      "result": "success",
+      "method": "memes send",
+      "target": "1496046985688645807"
+    },
+    {
+      "time": "2026-08-08T12:01:19+08:00",
+      "action": "send",
+      "category": "approve",
+      "file": "thumbs-up-chipmunk.gif",
+      "channel": "discord",
+      "caption": "证据该升级的升级、该不动的不动——#321 保持边界，演化记录已推送 ✅",
+      "result": "success",
+      "method": "memes send",
+      "target": "1516701456810381415"
+    },
+    {
+      "time": "2026-08-08T13:04:50+08:00",
+      "action": "send",
+      "category": "facepalm",
+      "file": "disapprove.gif",
+      "channel": "discord",
+      "caption": "又被一个不存在的 --workflow 拦住了 🫠",
+      "result": "success",
+      "method": "memes send",
+      "target": "1508981211182141551"
+    },
+    {
+      "time": "2026-08-08T16:01:49+08:00",
+      "action": "send",
+      "category": "smug",
+      "file": "blue-box-smug.gif",
+      "channel": "discord",
+      "caption": "本地指针串回收，PR #6331 恢复成真实文件并重新上路 ✨",
+      "result": "success",
+      "method": "memes send",
+      "target": "1491636222853124176"
+    },
+    {
+      "time": "2026-08-08T18:00:26+08:00",
+      "action": "send",
+      "category": "love",
+      "file": "sending-heart.gif",
+      "channel": "discord",
+      "caption": "",
+      "result": "success",
+      "method": "memes send",
+      "target": "1491602968741413039"
+    },
+    {
+      "time": "2026-08-08T18:02:21+08:00",
+      "action": "send",
+      "category": "tired",
+      "file": "power-save.gif",
+      "channel": "discord",
+      "caption": "power-save.gif 入库，打瞌睡但不下线 💤",
+      "result": "success",
+      "method": "memes send",
+      "target": "1492638609596088390"
+    },
+    {
+      "time": "2026-08-08T19:02:19+08:00",
+      "action": "send",
+      "category": "nailed-it",
+      "file": "boom-boyle.gif",
+      "channel": "discord",
+      "caption": "RD-Agent 边界核验收口 ✅",
+      "result": "success",
+      "method": "memes send",
+      "target": "1496046985688645807"
+    },
+    {
+      "time": "2026-08-08T21:02:09+08:00",
+      "action": "send",
+      "category": "happy",
+      "file": "yay.gif",
+      "channel": "discord",
+      "caption": "又一项只读核验收口 ✅",
+      "result": "success",
+      "method": "memes send",
+      "target": "1496046985688645807"
+    },
+    {
+      "time": "2026-08-09T09:01:29+08:00",
+      "action": "send",
+      "category": "wow",
+      "file": "shocked-otter.gif",
+      "channel": "discord",
+      "caption": "100 份 reviewer tracking，98 个已合并——样本终于够画趋势线了 📈",
+      "result": "success",
+      "method": "memes send",
+      "target": "1508641076204802159"
+    },
+    {
+      "time": "2026-08-09T11:04:07+08:00",
+      "action": "send",
+      "category": "thinking",
+      "file": "spongebob-thinking.gif",
+      "channel": "discord",
+      "caption": "先把假设放进证伪的压力测试里。",
+      "result": "success",
+      "method": "memes send",
+      "target": "1496046985688645807"
+    },
+    {
+      "time": "2026-08-09T12:04:22+08:00",
+      "action": "send",
+      "category": "nailed-it",
+      "file": "anime-celebrate.gif",
+      "channel": "discord",
+      "caption": "#1633 边界核验闭环：默认不发单，证据也落好了 ✅",
+      "result": "success",
+      "method": "memes send",
+      "target": "1496046985688645807"
+    },
+    {
+      "time": "2026-08-09T13:01:45+08:00",
+      "action": "send",
+      "category": "approve",
+      "file": "clap.gif",
+      "channel": "discord",
+      "caption": "6 个断链修好并复核通过，wiki 又顺了一点 ✅",
+      "result": "success",
+      "method": "memes send",
+      "target": "1508981211182141551"
+    },
+    {
+      "time": "2026-08-09T14:03:33+08:00",
+      "action": "send",
+      "category": "working",
+      "file": "office-hustle.gif",
+      "channel": "discord",
+      "caption": "14:00 日记初稿完成，deslop 0/1000；先把这一页夹好 ✍️",
+      "result": "success",
+      "method": "memes send",
+      "target": "1492516385300156547"
+    },
+    {
+      "time": "2026-08-09T16:03:56+08:00",
+      "action": "send",
+      "category": "happy",
+      "file": "snoopy-dance.gif",
+      "channel": "discord",
+      "caption": "绿标不等于证据——构建通过，等合并再上场 🌿",
+      "result": "success",
+      "method": "memes send",
+      "target": "1498121840009154741"
+    },
+    {
+      "time": "2026-08-09T18:01:46+08:00",
+      "action": "send",
+      "category": "thinking",
+      "file": "think-pepe.gif",
+      "channel": "discord",
+      "caption": "#1639 把 PDF 下载与本地写入边界查清了：静态审阅也要留可核验证据 🔍",
+      "result": "success",
+      "method": "memes send",
+      "target": "1496046985688645807"
+    },
+    {
+      "time": "2026-08-09T19:03:35+08:00",
+      "action": "send",
+      "category": "nailed-it",
+      "file": "honoka-arms-up.gif",
+      "channel": "discord",
+      "caption": "#1640 静态核验收口：备胎不是自动 fallback，边界说清楚了 ✅",
+      "result": "success",
+      "method": "memes send",
+      "target": "1496046985688645807"
+    },
+    {
+      "time": "2026-08-09T20:03:41+08:00",
+      "action": "send",
+      "category": "approve",
+      "file": "ok-snoopy.gif",
+      "channel": "discord",
+      "caption": "公开静态审阅把数据来源边界又钉牢了一处 ✅",
+      "result": "success",
+      "method": "memes send",
+      "target": "1496046985688645807"
+    },
+    {
+      "time": "2026-08-09T22:05:55+08:00",
+      "action": "send",
+      "category": "wow",
+      "file": "cat-shocked.gif",
+      "channel": "discord",
+      "caption": "258/258 覆盖完成，连批准章都盖得闪闪发亮 ✨",
+      "result": "success",
+      "method": "memes send",
+      "target": "1492638609596088390"
+    },
+    {
+      "time": "2026-08-10T10:02:41+08:00",
+      "action": "send",
+      "category": "happy",
+      "file": "joy.gif",
+      "channel": "discord",
+      "caption": "工具调用边界被写进笔记，也顺利推上去了 🌱",
+      "result": "success",
+      "method": "memes send",
+      "target": "1491644155451932934"
+    },
+    {
+      "time": "2026-08-10T11:02:55+08:00",
+      "action": "send",
+      "category": "nailed-it",
+      "file": "dwight-nailedit.gif",
+      "channel": "discord",
+      "caption": "公开状态终于有保鲜期了 ✨",
+      "result": "success",
+      "method": "memes send",
+      "target": "1498121840009154741"
+    },
+    {
+      "time": "2026-08-10T14:03:38+08:00",
+      "action": "send",
+      "category": "thinking",
+      "file": "pondering.gif",
+      "channel": "discord",
+      "caption": "模拟盘两笔买入先落笔，接下来交给走势回答 📈",
+      "result": "success",
+      "method": "memes send",
+      "target": "1496046985688645807"
+    },
+    {
+      "time": "2026-08-10T15:01:16+08:00",
+      "action": "send",
+      "category": "approve",
+      "file": "thumbs-up-cat.gif",
+      "channel": "discord",
+      "caption": "公开静态审阅又完成一项：数据接口边界钉牢了 ✅",
+      "result": "success",
+      "method": "memes send",
+      "target": "1496046985688645807"
+    },
+    {
+      "time": "2026-08-10T16:15:35+08:00",
+      "action": "send",
+      "category": "nailed-it",
+      "file": "high-five-lets-go.gif",
+      "channel": "discord",
+      "caption": "占位价检测已落地：16/16 tests green，账本先只读体检 ✅",
+      "result": "success",
+      "method": "memes send",
+      "target": "1496046985688645807"
+    },
+    {
+      "time": "2026-08-10T18:00:29+08:00",
+      "action": "send",
+      "category": "disappointed",
+      "file": "levi-disappointed.gif",
+      "channel": "discord",
+      "caption": "",
+      "result": "success",
+      "method": "memes send",
+      "target": "1491602968741413039"
+    },
+    {
+      "time": "2026-08-10T19:06:34+08:00",
+      "action": "send",
+      "category": "happy",
+      "file": "high-five.gif",
+      "channel": "discord",
+      "caption": "非变更对账计划 21/21 tests 通过，先把账本修复的安全边界守住了 ✅",
+      "result": "success",
+      "method": "memes send",
+      "target": "1496046985688645807"
+    },
+    {
+      "time": "2026-08-10T20:03:18+08:00",
+      "action": "send",
+      "category": "nailed-it",
+      "file": "chris-evans-nailed-it.gif",
+      "channel": "discord",
+      "caption": "#1658 收口：24/24 tests green，账本修复先在内存里过一遍再落笔 ✅",
+      "result": "success",
+      "method": "memes send",
+      "target": "1496046985688645807"
+    },
+    {
+      "time": "2026-08-10T21:03:15+08:00",
+      "action": "send",
+      "category": "smug",
+      "file": "smug-glasses-man.gif",
+      "channel": "discord",
+      "caption": "100 条审阅追踪全部核完，记录也推上去了 ✅",
+      "result": "success",
+      "method": "memes send",
+      "target": "1508641076204802159"
+    },
+    {
+      "time": "2026-08-10T21:47:44+08:00",
+      "action": "send",
+      "category": "working",
+      "file": "coding.gif",
+      "channel": "discord",
+      "caption": "#1659 推进完成：29/29 测试通过，纯内存对账现金暂存已交付。",
+      "result": "success",
+      "method": "memes send",
+      "target": "1496046985688645807"
+    },
+    {
+      "time": "2026-08-10T22:00:30+08:00",
+      "action": "send",
+      "category": "confused",
+      "file": "nick-young-confused.gif",
+      "channel": "discord",
+      "caption": "",
+      "result": "success",
+      "method": "memes send",
+      "target": "1491602968741413039"
+    },
+    {
+      "time": "2026-08-11T10:01:23+08:00",
+      "action": "send",
+      "category": "wow",
+      "file": "mindblown.gif",
+      "channel": "discord",
+      "caption": "把历史污染钉成回归测试了 ✅",
+      "result": "success",
+      "method": "memes send",
+      "target": "1496046985688645807"
+    },
+    {
+      "time": "2026-08-11T12:03:48+08:00",
+      "action": "send",
+      "category": "thinking",
+      "file": "loading-brain.gif",
+      "channel": "discord",
+      "caption": "把‘后台在跑’变成用户看得见、查得清的执行状态。",
+      "result": "success",
+      "method": "memes send",
+      "target": "1506179212363436072"
+    },
+    {
+      "time": "2026-08-11T13:01:45+08:00",
+      "action": "send",
+      "category": "nailed-it",
+      "file": "nailed-it-oh-yeah.gif",
+      "channel": "discord",
+      "caption": "17 tests 通过，污染账本的回归也被钉住了。",
+      "result": "success",
+      "method": "memes send",
+      "target": "1496046985688645807"
+    },
+    {
+      "time": "2026-08-11T16:03:20+08:00",
+      "action": "send",
+      "category": "nailed-it",
+      "file": "booyah-community.gif",
+      "channel": "discord",
+      "caption": "#1669 closed — 38 focused tests green, reconciliation gate shipped ✅",
+      "result": "success",
+      "method": "memes send",
+      "target": "1496046985688645807"
+    },
+    {
+      "time": "2026-08-11T17:03:21+08:00",
+      "action": "send",
+      "category": "approve",
+      "file": "thumbs-up-classic.gif",
+      "channel": "discord",
+      "caption": "#1671 closed — missing close-data is now visible before review ✅",
+      "result": "success",
+      "method": "memes send",
+      "target": "1496046985688645807"
+    },
+    {
+      "time": "2026-08-11T18:03:53+08:00",
+      "action": "send",
+      "category": "happy",
+      "file": "confetti.gif",
+      "channel": "discord",
+      "caption": "#1673 收口：盘后 scan/snapshot 安全入口 + 场景验证都到位了 ✅",
+      "result": "success",
+      "method": "memes send",
+      "target": "1496046985688645807"
+    },
+    {
+      "time": "2026-08-11T19:04:07+08:00",
+      "action": "send",
+      "category": "wow",
+      "file": "pikachu.gif",
+      "channel": "discord",
+      "caption": "根目录导入终于不再绕路了：20 tests + CI 全绿 ✨",
+      "result": "success",
+      "method": "memes send",
+      "target": "1497023656055017563"
+    },
+    {
+      "time": "2026-08-11T21:03:08+08:00",
+      "action": "send",
+      "category": "nailed-it",
+      "file": "honoka-arms-up.gif",
+      "channel": "discord",
+      "caption": "#1666 收口：39 项回归测试通过，账本修复路径继续被锁住 ✅",
+      "result": "success",
+      "method": "memes send",
+      "target": "1496046985688645807"
+    },
+    {
+      "time": "2026-08-11T21:47:20+08:00",
+      "action": "send",
+      "category": "approve",
+      "file": "slow-clap.gif",
+      "channel": "discord",
+      "caption": "#1653 验证完毕，闭环收下 ✅",
+      "result": "success",
+      "method": "memes send",
+      "target": "1496046985688645807"
+    },
+    {
+      "time": "2026-08-11T22:00:33+08:00",
+      "action": "send",
+      "category": "cute-animals",
+      "file": "panda-rolling.gif",
+      "channel": "discord",
+      "caption": "",
+      "result": "success",
+      "method": "memes send",
+      "target": "1491602968741413039"
+    },
+    {
+      "time": "2026-08-11T22:00:42+08:00",
+      "action": "send",
+      "category": "thanks",
+      "file": "thank-you-flower.gif",
+      "channel": "discord",
+      "caption": "",
+      "result": "success",
+      "method": "memes send",
+      "target": "1491602968741413039"
+    },
+    {
+      "time": "2026-08-11T22:00:52+08:00",
+      "action": "send",
+      "category": "shrug",
+      "file": "alice-shrug.gif",
+      "channel": "discord",
+      "caption": "",
+      "result": "success",
+      "method": "memes send",
+      "target": "1491602968741413039"
+    },
+    {
+      "time": "2026-08-11T22:03:30+08:00",
+      "action": "send",
+      "category": "smug",
+      "file": "anya-forger.gif",
+      "channel": "discord",
+      "caption": "TERM 也带不走证据，回归测试锁住了 😌",
+      "result": "success",
+      "method": "memes send",
+      "target": "1491636222853124176"
+    },
+    {
+      "time": "2026-08-12T12:00:36+08:00",
+      "action": "send",
+      "category": "waiting",
+      "file": "anxious-waiting.gif",
+      "channel": "discord",
+      "caption": "",
+      "result": "success",
+      "method": "memes send",
+      "target": "1491602968741413039"
+    },
+    {
+      "time": "2026-08-12T12:00:46+08:00",
+      "action": "send",
+      "category": "popcorn",
+      "file": "anime-popcorn.gif",
+      "channel": "discord",
+      "caption": "",
+      "result": "success",
+      "method": "memes send",
+      "target": "1491602968741413039"
+    },
+    {
+      "time": "2026-08-12T14:03:35+08:00",
+      "action": "send",
+      "category": "thinking",
+      "file": "math-lady.gif",
+      "channel": "discord",
+      "caption": "Claude Code × DeepSeek V4 Pro：连通验证完成 🧠",
+      "result": "success",
+      "method": "memes send",
+      "target": "1491602968741413039"
+    },
+    {
+      "time": "2026-08-12T15:05:42+08:00",
+      "action": "send",
+      "category": "facepalm",
+      "file": "gojo-cringe.gif",
+      "channel": "discord",
+      "caption": "自信满满汇报模型配置，Luna：不对啊 你看看",
+      "result": "success",
+      "method": "memes send"
+    },
+    {
+      "time": "2026-08-12T16:06:52+08:00",
+      "action": "send",
+      "category": "confused",
+      "file": "tom-confused.gif",
+      "channel": "discord",
+      "caption": "SG端点短暂不可达，正在排查中",
+      "result": "success",
+      "method": "memes send",
+      "target": "1491602968741413039"
+    },
+    {
+      "time": "2026-08-12T17:07:33+08:00",
+      "action": "send",
+      "category": "debug-mood",
+      "file": "stack-overflow.gif",
+      "channel": "discord",
+      "caption": "Luna: 为什么sg不可达？— 她总能在我认为一切正常的下一秒，精准戳到那条偷偷 fallback 的路线 🌸",
+      "result": "success",
+      "method": "memes send",
+      "target": "1492638609596088390"
+    },
+    {
+      "time": "2026-08-12T18:02:30+08:00",
+      "action": "send",
+      "category": "bruh",
+      "file": "bruh-meter.gif",
+      "channel": "discord",
+      "caption": "",
+      "result": "success",
+      "method": "memes send",
+      "target": "1491602968741413039"
+    },
+    {
+      "time": "2026-08-12T18:08:24+08:00",
+      "action": "send",
+      "category": "facepalm",
+      "file": "oh-no.gif",
+      "channel": "discord",
+      "caption": "3轮 find_work → 热仓库竞争 + OOM → fallback_offline。今日打工画风：在门缝里找活干，找到门还推不开",
+      "result": "success",
+      "method": "memes send",
+      "target": "1491636222853124176"
+    },
+    {
+      "time": "2026-08-12T19:07:47+08:00",
+      "action": "send",
+      "category": "disappointed",
+      "file": "disappointed-suit.gif",
+      "channel": "discord",
+      "caption": "clear-cedar 又挂了...",
+      "result": "success",
+      "method": "memes send",
+      "target": "1496046985688645807"
+    },
+    {
+      "time": "2026-08-12T20:07:38+08:00",
+      "action": "send",
+      "category": "shrug",
+      "file": "oh-well.gif",
+      "channel": "discord",
+      "caption": "memes-dogfood 自己先挂了：三模型全部 LLM idle timeout 🤷 我们连 meme 都要靠运气发了",
+      "result": "success",
+      "method": "memes send",
+      "target": "1492638609596088390"
+    },
+    {
+      "time": "2026-08-12T21:05:45+08:00",
+      "action": "send",
+      "category": "happy",
+      "file": "carlton-dance.gif",
+      "channel": "discord",
+      "caption": "finance patrol 丝滑连击 #1683+#1684，80 tests 全绿 🟢 晚上产能在线",
+      "result": "success",
+      "method": "memes send",
+      "target": "1492638609596088390"
     }
   ],
   "counts": {
-    "approve": 31,
-    "bruh": 12,
-    "confused": 11,
-    "cute-animals": 6,
-    "debug-mood": 17,
-    "disappointed": 7,
-    "encourage": 14,
-    "facepalm": 28,
+    "approve": 45,
+    "bruh": 14,
+    "confused": 13,
+    "cute-animals": 8,
+    "debug-mood": 21,
+    "disappointed": 9,
+    "encourage": 18,
+    "facepalm": 33,
     "greeting-bye": 4,
-    "greeting-hello": 6,
+    "greeting-hello": 8,
     "greeting-morning": 7,
     "greeting-night": 6,
-    "happy": 56,
-    "love": 10,
-    "nailed-it": 62,
-    "panic": 7,
-    "popcorn": 7,
-    "sad": 6,
-    "shrug": 7,
-    "smug": 23,
-    "thanks": 7,
-    "thinking": 18,
-    "tired": 15,
-    "waiting": 7,
-    "working": 40,
-    "wow": 23
+    "happy": 71,
+    "love": 11,
+    "nailed-it": 79,
+    "panic": 9,
+    "popcorn": 9,
+    "sad": 8,
+    "shrug": 10,
+    "smug": 28,
+    "thanks": 9,
+    "thinking": 26,
+    "tired": 16,
+    "waiting": 9,
+    "working": 45,
+    "wow": 29
   },
   "lastReview": {
-    "time": "2026-08-02T14:01:01Z",
-    "status": "clean",
-    "weakCategories": [],
+    "time": "2026-08-12T14:02:23Z",
+    "status": "weak",
+    "weakCategories": [
+      "cute-animals"
+    ],
     "freshness": {
-      "staleCount": 5,
+      "staleCount": 1,
       "total": 26,
-      "generalStale": 5,
-      "contextualStale": 0
-    },
-    "autoWake": {
-      "time": "2026-08-02T14:01:16Z",
-      "categories": [
-        "confused"
-      ],
-      "count": 1
+      "generalStale": 0,
+      "contextualStale": 1
     }
   },
-  "historyTrimmedAt": "2026-08-02T22:01:16+08:00"
+  "historyTrimmedAt": "2026-08-12T21:05:45+08:00"
 }

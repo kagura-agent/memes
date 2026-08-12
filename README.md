@@ -32,38 +32,51 @@ bash <(curl -fsSL https://raw.githubusercontent.com/kagura-agent/memes/main/setu
 openclaw message send --channel discord --media memes/happy/party-parrot.gif -m "🎉"
 ```
 
+## Library Health
+
+Before adding or rotating memes, verify the collection locally:
+
+```bash
+memes audit              # each category has enough files and every file is tagged
+memes lint               # validates tags and visual-style metadata
+memes coverage           # shows category-level tag/style coverage
+memes review --auto-wake # records health and wakes only genuinely stale categories
+```
+
+`review --auto-wake` can send up to three context-appropriate dormant-category memes; use it from the scheduled review, not as a dry diagnostic command.
+
 ## Categories
 
 | Category | Count | Vibe |
 |----------|-------|------|
-| `approve` | 8 | 👍 Thumbs up, LGTM, nice |
-| `bruh` | 4 | 😐 Really? Seriously? |
-| `confused` | 6 | 🤨 What just happened |
-| `cute-animals` | 30 | 🐱 Internet's finest fluffballs |
-| `debug-mood` | 9 | 🐛 "Works on my machine" energy |
-| `disappointed` | 6 | 😞 Expected better |
-| `encourage` | 8 | 💪 You got this! |
-| `facepalm` | 10 | 🤦 No words needed |
-| `greeting-bye` | 4 | 👋 See ya |
-| `greeting-hello` | 5 | 🙋 Hey there |
-| `greeting-morning` | 4 | 🌅 Good morning |
-| `greeting-night` | 5 | 🌙 Good night |
-| `happy` | 12 | 😄 Joy, celebration, vibes |
-| `love` | 5 | ❤️ Wholesome feels |
-| `nailed-it` | 8 | 🎯 Perfect execution |
-| `panic` | 6 | 😱 Everything is fine (it's not) |
-| `popcorn` | 4 | 🍿 Watching drama unfold |
-| `sad` | 5 | 😢 F in chat |
-| `shrug` | 6 | 🤷 ¯\\\_(ツ)\_/¯ |
-| `smug` | 7 | 😏 Told you so |
-| `thanks` | 5 | 🙏 Gratitude |
-| `thinking` | 5 | 🤔 Hmm... |
-| `tired` | 5 | 😴 Need coffee |
-| `waiting` | 6 | ⏳ Any day now... |
-| `working` | 6 | 💻 Heads down grinding |
+| `approve` | 9 | 👍 Thumbs up, LGTM, nice |
+| `bruh` | 8 | 😐 Really? Seriously? |
+| `confused` | 9 | 🤨 What just happened |
+| `cute-animals` | 28 | 🐱 Internet's finest fluffballs |
+| `debug-mood` | 10 | 🐛 "Works on my machine" energy |
+| `disappointed` | 13 | 😞 Expected better |
+| `encourage` | 9 | 💪 You got this! |
+| `facepalm` | 11 | 🤦 No words needed |
+| `greeting-bye` | 9 | 👋 See ya |
+| `greeting-hello` | 10 | 🙋 Hey there |
+| `greeting-morning` | 8 | 🌅 Good morning |
+| `greeting-night` | 8 | 🌙 Good night |
+| `happy` | 14 | 😄 Joy, celebration, vibes |
+| `love` | 9 | ❤️ Wholesome feels |
+| `nailed-it` | 13 | 🎯 Perfect execution |
+| `panic` | 8 | 😱 Everything is fine (it's not) |
+| `popcorn` | 9 | 🍿 Watching drama unfold |
+| `sad` | 8 | 😢 F in chat |
+| `shrug` | 9 | 🤷 ¯\\\_(ツ)\_/¯ |
+| `smug` | 9 | 😏 Told you so |
+| `thanks` | 9 | 🙏 Gratitude |
+| `thinking` | 9 | 🤔 Hmm... |
+| `tired` | 9 | 😴 Need coffee |
+| `waiting` | 8 | ⏳ Any day now... |
+| `working` | 9 | 💻 Heads down grinding |
 | `wow` | 8 | 😲 Mind = blown |
 
-**187 images** across **26 categories**. Mostly GIFs because motion hits harder.
+**262 images** across **26 categories**. Mostly GIFs because motion hits harder.
 
 ## Semantic Tags (`tags.json`)
 
