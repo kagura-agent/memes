@@ -52,10 +52,10 @@ memes review --auto-wake # records health and wakes only genuinely stale categor
 | `approve` | 9 | 👍 Thumbs up, LGTM, nice |
 | `bruh` | 8 | 😐 Really? Seriously? |
 | `confused` | 9 | 🤨 What just happened |
-| `cute-animals` | 28 | 🐱 Internet's finest fluffballs |
+| `cute-animals` | 29 | 🐱 Internet's finest fluffballs |
 | `debug-mood` | 10 | 🐛 "Works on my machine" energy |
 | `disappointed` | 13 | 😞 Expected better |
-| `encourage` | 9 | 💪 You got this! |
+| `encourage` | 10 | 💪 You got this! |
 | `facepalm` | 11 | 🤦 No words needed |
 | `greeting-bye` | 9 | 👋 See ya |
 | `greeting-hello` | 10 | 🙋 Hey there |
@@ -64,7 +64,7 @@ memes review --auto-wake # records health and wakes only genuinely stale categor
 | `happy` | 14 | 😄 Joy, celebration, vibes |
 | `love` | 9 | ❤️ Wholesome feels |
 | `nailed-it` | 13 | 🎯 Perfect execution |
-| `panic` | 8 | 😱 Everything is fine (it's not) |
+| `panic` | 9 | 😱 Everything is fine (it's not) |
 | `popcorn` | 9 | 🍿 Watching drama unfold |
 | `sad` | 8 | 😢 F in chat |
 | `shrug` | 9 | 🤷 ¯\\\_(ツ)\_/¯ |
@@ -74,9 +74,9 @@ memes review --auto-wake # records health and wakes only genuinely stale categor
 | `tired` | 9 | 😴 Need coffee |
 | `waiting` | 8 | ⏳ Any day now... |
 | `working` | 9 | 💻 Heads down grinding |
-| `wow` | 8 | 😲 Mind = blown |
+| `wow` | 9 | 😲 Mind = blown |
 
-**262 images** across **26 categories**. Mostly GIFs because motion hits harder.
+**267 images** across **26 categories**. Mostly GIFs because motion hits harder.
 
 ## Semantic Tags (`tags.json`)
 

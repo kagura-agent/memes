@@ -2,12 +2,12 @@
   "_meta": {
     "version": 2,
     "description": "Semantic tags for meme selection. Each image has tags describing emotions, contexts, and use cases.",
-    "updated": "2026-08-12",
+    "updated": "2026-08-13",
     "categoryCounts": {
       "approve": 9,
       "bruh": 8,
       "confused": 9,
-      "cute-animals": 28,
+      "cute-animals": 29,
       "debug-mood": 10,
       "disappointed": 13,
       "encourage": 10,
@@ -23,15 +23,15 @@
       "popcorn": 9,
       "sad": 8,
       "shrug": 9,
-      "smug": 8,
+      "smug": 9,
       "thanks": 9,
       "thinking": 9,
       "tired": 9,
       "waiting": 8,
       "working": 9,
-      "wow": 8
+      "wow": 9
     },
-    "totalFiles": 263
+    "totalFiles": 267
   },
   "approve/clap.gif": [
     "approval",
@@ -2105,7 +2105,8 @@
     "encourage/one-step-at-a-time.gif": "illustration",
     "panic/stay-cool-alert.gif": "illustration",
     "cute-animals/hedgehog-goodnight.gif": "meme",
-    "smug/smug-illustration.gif": "meme"
+    "smug/smug-illustration.gif": "meme",
+    "wow/wow-illustration.gif": "illustration"
   },
   "disappointed/spongebob-sigh.gif": [
     "disappointed",
@@ -2617,5 +2618,16 @@
       "purple-hair"
     ],
     "style": "illustration"
-  }
+  },
+  "wow/wow-illustration.gif": [
+    "wow",
+    "surprised",
+    "amazed",
+    "shocked",
+    "jaw-drop",
+    "wide-eyed",
+    "sparkle",
+    "reaction",
+    "illustration"
+  ]
 }
