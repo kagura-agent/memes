@@ -21,7 +21,7 @@
       "nailed-it": 13,
       "panic": 9,
       "popcorn": 9,
-      "sad": 8,
+      "sad": 9,
       "shrug": 9,
       "smug": 9,
       "thanks": 9,
@@ -31,7 +31,7 @@
       "working": 9,
       "wow": 9
     },
-    "totalFiles": 267
+    "totalFiles": 268
   },
   "approve/clap.gif": [
     "approval",
@@ -2106,7 +2106,8 @@
     "panic/stay-cool-alert.gif": "illustration",
     "cute-animals/hedgehog-goodnight.gif": "meme",
     "smug/smug-illustration.gif": "meme",
-    "wow/wow-illustration.gif": "illustration"
+    "wow/wow-illustration.gif": "illustration",
+    "sad/sad-illustration.gif": "illustration"
   },
   "disappointed/spongebob-sigh.gif": [
     "disappointed",
@@ -2629,5 +2630,16 @@
     "sparkle",
     "reaction",
     "illustration"
+  ],
+  "sad/sad-illustration.gif": [
+    "sad",
+    "dejected",
+    "teary-eyed",
+    "crying",
+    "emotional",
+    "upset",
+    "illustration",
+    "reaction",
+    "sfw"
   ]
 }

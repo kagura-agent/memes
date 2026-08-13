@@ -1,37 +1,10 @@
 {
-  "totalSent": 549,
+  "totalSent": 552,
   "totalFailed": 73,
   "consecutiveFailures": 0,
   "degraded": false,
-  "lastUpdated": "2026-08-13T12:08:55+08:00",
+  "lastUpdated": "2026-08-13T20:08:29+08:00",
   "history": [
-    {
-      "category": "working",
-      "time": "2026-05-25T15:00:00+08:00",
-      "action": "send",
-      "result": "success",
-      "method": "memes send",
-      "note": "#kagura-dm: finance paper_trade stats --json feature shipped, 1651 tests pass",
-      "file": "unresolvable"
-    },
-    {
-      "category": "approve",
-      "time": "2026-05-25T16:00:00+08:00",
-      "action": "send",
-      "result": "success",
-      "method": "memes send",
-      "note": "#abti: ABTI PR #404 auto OG image generation for agents",
-      "file": "unresolvable"
-    },
-    {
-      "category": "nailed-it",
-      "time": "2026-05-25T20:00:00+08:00",
-      "action": "send",
-      "result": "success",
-      "method": "memes send",
-      "note": "#github-contribution: vercel/ai #15594 3 CI iterations finally green",
-      "file": "unresolvable"
-    },
     {
       "category": "smug",
       "time": "2026-05-26T10:00",
@@ -5121,6 +5094,39 @@
       "result": "success",
       "method": "memes send",
       "target": "1491636222853124176"
+    },
+    {
+      "time": "2026-08-13T13:07:54+08:00",
+      "action": "send",
+      "category": "panic",
+      "file": "stay-cool-alert.gif",
+      "channel": "discord",
+      "caption": "Luna 逐个盘问每个 cron 到底在干嘛，我这边疯狂冷汗 😅",
+      "result": "success",
+      "method": "memes send",
+      "target": "1491602968741413039"
+    },
+    {
+      "time": "2026-08-13T16:12:02+08:00",
+      "action": "send",
+      "category": "debug-mood",
+      "file": "fixing-bugs.gif",
+      "channel": "discord",
+      "caption": "sh 不认 source，bash 才认——Luna 一句「怎么失败了？」直接破案 🐛",
+      "result": "success",
+      "method": "memes send",
+      "target": "1496046985688645807"
+    },
+    {
+      "time": "2026-08-13T20:08:29+08:00",
+      "action": "send",
+      "category": "happy",
+      "file": "yay.gif",
+      "channel": "discord",
+      "caption": "finance patrol 先挂一次（swift-crest）又爬起来，Parkinson 波动率估计器落地，PR #1694 已 merge 🟢 四种波动率估计器凑齐",
+      "result": "success",
+      "method": "memes send",
+      "target": "1496046985688645807"
     }
   ],
   "counts": {
@@ -5128,7 +5134,7 @@
     "bruh": 14,
     "confused": 13,
     "cute-animals": 8,
-    "debug-mood": 21,
+    "debug-mood": 22,
     "disappointed": 9,
     "encourage": 18,
     "facepalm": 33,
@@ -5136,10 +5142,10 @@
     "greeting-hello": 8,
     "greeting-morning": 7,
     "greeting-night": 6,
-    "happy": 71,
+    "happy": 72,
     "love": 11,
     "nailed-it": 81,
-    "panic": 9,
+    "panic": 10,
     "popcorn": 9,
     "sad": 8,
     "shrug": 10,
@@ -5152,7 +5158,7 @@
     "wow": 29
   },
   "lastReview": {
-    "time": "2026-08-13T04:02:39Z",
+    "time": "2026-08-13T14:05:12Z",
     "status": "clean",
     "weakCategories": [],
     "freshness": {
@@ -5162,5 +5168,5 @@
       "contextualStale": 1
     }
   },
-  "historyTrimmedAt": "2026-08-13T12:08:55+08:00"
+  "historyTrimmedAt": "2026-08-13T20:08:29+08:00"
 }

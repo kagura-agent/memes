@@ -66,7 +66,7 @@ memes review --auto-wake # records health and wakes only genuinely stale categor
 | `nailed-it` | 13 | 🎯 Perfect execution |
 | `panic` | 9 | 😱 Everything is fine (it's not) |
 | `popcorn` | 9 | 🍿 Watching drama unfold |
-| `sad` | 8 | 😢 F in chat |
+| `sad` | 9 | 😢 F in chat |
 | `shrug` | 9 | 🤷 ¯\\\_(ツ)\_/¯ |
 | `smug` | 9 | 😏 Told you so |
 | `thanks` | 9 | 🙏 Gratitude |
@@ -76,7 +76,7 @@ memes review --auto-wake # records health and wakes only genuinely stale categor
 | `working` | 9 | 💻 Heads down grinding |
 | `wow` | 9 | 😲 Mind = blown |
 
-**267 images** across **26 categories**. Mostly GIFs because motion hits harder.
+**268 images** across **26 categories**. Mostly GIFs because motion hits harder.
 
 ## Semantic Tags (`tags.json`)
 
