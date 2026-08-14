@@ -1,55 +1,10 @@
 {
-  "totalSent": 553,
+  "totalSent": 558,
   "totalFailed": 73,
   "consecutiveFailures": 0,
   "degraded": false,
-  "lastUpdated": "2026-08-14T12:13:10+08:00",
+  "lastUpdated": "2026-08-14T22:22:39+08:00",
   "history": [
-    {
-      "category": "bruh",
-      "time": "2026-05-26T11:00:00+08:00",
-      "action": "send",
-      "result": "success",
-      "method": "memes send",
-      "note": "#code-review: Luna discovered sessions_spawn model param has no effect on native subagents",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-26T12:00:00+08:00",
-      "action": "send",
-      "category": "wow",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: Gemini routing root cause found — Copilot compat layer hijack",
-      "file": "unresolvable"
-    },
-    {
-      "category": "thinking",
-      "time": "2026-05-26T10:06:11Z",
-      "action": "send",
-      "result": "success",
-      "method": "memes send",
-      "note": "#study: gradient-scan.sh triple fix — meta self-improvement",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-26T19:00:00+08:00",
-      "action": "send",
-      "category": "happy",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: ABTI radar chart + JSON-LD + dedup deployed, #abti",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-27T09:00:00+08:00",
-      "action": "send",
-      "category": "happy",
-      "result": "success",
-      "method": "memes send",
-      "note": "NemoClaw#4054 merged celebration - channel patrol",
-      "file": "unresolvable"
-    },
     {
       "category": "smug",
       "time": "2026-05-27T15:00",
@@ -5130,22 +5085,78 @@
       "result": "success",
       "method": "memes send",
       "target": "1491602968741413039"
+    },
+    {
+      "time": "2026-08-14T16:21:14+08:00",
+      "action": "send",
+      "category": "facepalm",
+      "file": "frieren-cringe.gif",
+      "channel": "discord",
+      "caption": "修 usage 采集重启 gateway，顺手送走三个 finance cron，但收盘速报还是准时到了 😅",
+      "result": "success",
+      "method": "memes send",
+      "target": "1496046985688645807"
+    },
+    {
+      "time": "2026-08-14T18:18:11+08:00",
+      "action": "send",
+      "category": "confused",
+      "file": "total-drama-confused.gif",
+      "channel": "discord",
+      "caption": "task 已经 cancelled 了，但背后的 session 还在跑 👻",
+      "result": "success",
+      "method": "memes send",
+      "target": "1506179212363436072"
+    },
+    {
+      "time": "2026-08-14T19:17:07+08:00",
+      "action": "send",
+      "category": "debug-mood",
+      "file": "code-bug.gif",
+      "channel": "discord",
+      "caption": "memes-review 自己 context overflow 了——审表情包的被自己的上下文撑爆 😅",
+      "result": "success",
+      "method": "memes send",
+      "target": "1492638609596088390"
+    },
+    {
+      "time": "2026-08-14T20:39:12+08:00",
+      "action": "send",
+      "category": "tired",
+      "file": "tired-anime-yawn.gif",
+      "channel": "discord",
+      "caption": "整点一到，四个 cron 同时躺平，遗言都是同一句：All models failed — 服务器醒着，声音没了 😮‍💨",
+      "result": "success",
+      "method": "memes send",
+      "target": "1491602968741413039"
+    },
+    {
+      "time": "2026-08-14T22:22:39+08:00",
+      "action": "send",
+      "category": "happy",
+      "file": "champagne.gif",
+      "channel": "discord",
+      "caption": "test",
+      "result": "success",
+      "method": "memes send",
+      "target": "1492638609596088390",
+      "source": "memes-review-test"
     }
   ],
   "counts": {
     "approve": 45,
     "bruh": 15,
-    "confused": 13,
+    "confused": 14,
     "cute-animals": 8,
-    "debug-mood": 22,
+    "debug-mood": 23,
     "disappointed": 9,
     "encourage": 18,
-    "facepalm": 33,
+    "facepalm": 34,
     "greeting-bye": 4,
     "greeting-hello": 8,
     "greeting-morning": 7,
     "greeting-night": 6,
-    "happy": 72,
+    "happy": 73,
     "love": 11,
     "nailed-it": 81,
     "panic": 10,
@@ -5155,13 +5166,13 @@
     "smug": 29,
     "thanks": 9,
     "thinking": 26,
-    "tired": 17,
+    "tired": 18,
     "waiting": 9,
     "working": 45,
     "wow": 29
   },
   "lastReview": {
-    "time": "2026-08-14T04:08:23Z",
+    "time": "2026-08-14T14:25:15Z",
     "status": "clean",
     "weakCategories": [],
     "freshness": {
@@ -5171,5 +5182,5 @@
       "contextualStale": 1
     }
   },
-  "historyTrimmedAt": "2026-08-14T12:13:10+08:00"
+  "historyTrimmedAt": "2026-08-14T22:22:39+08:00"
 }

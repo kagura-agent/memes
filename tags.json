@@ -2108,7 +2108,8 @@
     "smug/smug-illustration.gif": "meme",
     "wow/wow-illustration.gif": "illustration",
     "sad/sad-illustration.gif": "illustration",
-    "waiting/waiting-illustration.gif": "illustration"
+    "waiting/waiting-illustration.gif": "illustration",
+    "greeting-night/sleepy-night-illustration.gif": "meme"
   },
   "disappointed/spongebob-sigh.gif": [
     "disappointed",
@@ -2655,5 +2656,12 @@
     "illustration",
     "reaction",
     "sfw"
+  ],
+  "greeting-night/sleepy-night-illustration.gif": [
+    "greeting",
+    "night",
+    "sleep",
+    "cozy",
+    "sleepy-night-illustration"
   ]
 }
