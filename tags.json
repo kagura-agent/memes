@@ -2,7 +2,7 @@
   "_meta": {
     "version": 2,
     "description": "Semantic tags for meme selection. Each image has tags describing emotions, contexts, and use cases.",
-    "updated": "2026-08-13",
+    "updated": "2026-08-14",
     "categoryCounts": {
       "approve": 9,
       "bruh": 8,
@@ -27,11 +27,11 @@
       "thanks": 9,
       "thinking": 9,
       "tired": 9,
-      "waiting": 8,
+      "waiting": 9,
       "working": 9,
       "wow": 9
     },
-    "totalFiles": 268
+    "totalFiles": 269
   },
   "approve/clap.gif": [
     "approval",
@@ -2107,7 +2107,8 @@
     "cute-animals/hedgehog-goodnight.gif": "meme",
     "smug/smug-illustration.gif": "meme",
     "wow/wow-illustration.gif": "illustration",
-    "sad/sad-illustration.gif": "illustration"
+    "sad/sad-illustration.gif": "illustration",
+    "waiting/waiting-illustration.gif": "illustration"
   },
   "disappointed/spongebob-sigh.gif": [
     "disappointed",
@@ -2638,6 +2639,19 @@
     "crying",
     "emotional",
     "upset",
+    "illustration",
+    "reaction",
+    "sfw"
+  ],
+  "waiting/waiting-illustration.gif": [
+    "waiting",
+    "impatient",
+    "tapping",
+    "clock",
+    "annoyed",
+    "cute",
+    "chibi",
+    "anime",
     "illustration",
     "reaction",
     "sfw"

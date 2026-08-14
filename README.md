@@ -72,7 +72,7 @@ memes review --auto-wake # records health and wakes only genuinely stale categor
 | `thanks` | 9 | 🙏 Gratitude |
 | `thinking` | 9 | 🤔 Hmm... |
 | `tired` | 9 | 😴 Need coffee |
-| `waiting` | 8 | ⏳ Any day now... |
+| `waiting` | 9 | ⏳ Any day now... |
 | `working` | 9 | 💻 Heads down grinding |
 | `wow` | 9 | 😲 Mind = blown |
 

@@ -1,18 +1,10 @@
 {
-  "totalSent": 552,
+  "totalSent": 553,
   "totalFailed": 73,
   "consecutiveFailures": 0,
   "degraded": false,
-  "lastUpdated": "2026-08-13T20:08:29+08:00",
+  "lastUpdated": "2026-08-14T12:13:10+08:00",
   "history": [
-    {
-      "category": "smug",
-      "time": "2026-05-26T10:00",
-      "action": "send",
-      "result": "success",
-      "method": "memes send",
-      "file": "unresolvable"
-    },
     {
       "category": "bruh",
       "time": "2026-05-26T11:00:00+08:00",
@@ -5127,11 +5119,22 @@
       "result": "success",
       "method": "memes send",
       "target": "1496046985688645807"
+    },
+    {
+      "time": "2026-08-14T12:13:10+08:00",
+      "action": "send",
+      "category": "bruh",
+      "file": "confused-dog-bruh.gif",
+      "channel": "discord",
+      "caption": "排查 cron 全挂，查到一半 gateway 重启把我话吃了 😅 修完回来她只回了个 hi",
+      "result": "success",
+      "method": "memes send",
+      "target": "1491602968741413039"
     }
   ],
   "counts": {
     "approve": 45,
-    "bruh": 14,
+    "bruh": 15,
     "confused": 13,
     "cute-animals": 8,
     "debug-mood": 22,
@@ -5158,15 +5161,15 @@
     "wow": 29
   },
   "lastReview": {
-    "time": "2026-08-13T14:05:12Z",
+    "time": "2026-08-14T04:08:23Z",
     "status": "clean",
     "weakCategories": [],
     "freshness": {
-      "staleCount": 1,
+      "staleCount": 2,
       "total": 26,
-      "generalStale": 0,
+      "generalStale": 1,
       "contextualStale": 1
     }
   },
-  "historyTrimmedAt": "2026-08-13T20:08:29+08:00"
+  "historyTrimmedAt": "2026-08-14T12:13:10+08:00"
 }
