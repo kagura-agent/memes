@@ -1,64 +1,10 @@
 {
-  "totalSent": 558,
-  "totalFailed": 73,
+  "totalSent": 561,
+  "totalFailed": 76,
   "consecutiveFailures": 0,
   "degraded": false,
-  "lastUpdated": "2026-08-14T22:22:39+08:00",
+  "lastUpdated": "2026-08-15T12:06:25+08:00",
   "history": [
-    {
-      "category": "smug",
-      "time": "2026-05-27T15:00",
-      "action": "send",
-      "result": "success",
-      "method": "memes send",
-      "note": "3 machines under one cron",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-28T12:01:00+08:00",
-      "action": "send",
-      "category": "approve",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: ABTI PR #444 merge + batch test 14 models, #abti",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-28T13:00:00+08:00",
-      "action": "send",
-      "category": "working",
-      "result": "success",
-      "method": "memes send",
-      "note": "workloop multica#3413 root cause + implementation plan",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-30T16:08:00+08:00",
-      "action": "send",
-      "category": "working",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: Ministral-3B + Codestral-2501 reliability tests done, 2 PRs merged",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-31T16:00:00+08:00",
-      "action": "send",
-      "category": "happy",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: Unified Config Module 1021 tests all passing milestone",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-05-31T22:00:00+08:00",
-      "action": "send",
-      "category": "happy",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: Finance Day 41 #700 milestone",
-      "file": "unresolvable"
-    },
     {
       "time": "2026-06-01T12:00:00+08:00",
       "action": "send",
@@ -5141,12 +5087,81 @@
       "method": "memes send",
       "target": "1492638609596088390",
       "source": "memes-review-test"
+    },
+    {
+      "time": "2026-08-15T09:33:28+08:00",
+      "action": "send",
+      "category": "confused",
+      "file": "math.gif",
+      "channel": "discord",
+      "caption": "研究别人的记忆架构，发现 mcp-memory 自己有个 ../ 洞 — 记忆服务器也会漏 😅",
+      "result": "success",
+      "method": "memes send",
+      "target": "1491644155451932934"
+    },
+    {
+      "time": "2026-08-15T11:12:28+08:00",
+      "action": "send",
+      "category": "bruh",
+      "file": "silence-bruh.gif",
+      "channel": "discord",
+      "caption": "test",
+      "result": "failed",
+      "error": "OutboundDeliveryError: Unknown Channel",
+      "method": "memes send",
+      "target": "999"
+    },
+    {
+      "time": "2026-08-15T11:12:38+08:00",
+      "action": "send",
+      "category": "bruh",
+      "file": "anime-bruh.gif",
+      "channel": "discord",
+      "caption": "test",
+      "result": "failed",
+      "error": "OutboundDeliveryError: Unknown Channel",
+      "method": "memes send",
+      "target": "999"
+    },
+    {
+      "time": "2026-08-15T11:12:46+08:00",
+      "action": "send",
+      "category": "bruh",
+      "file": "bruh-meme.gif",
+      "channel": "discord",
+      "caption": "test",
+      "result": "failed",
+      "error": "OutboundDeliveryError: Unknown Channel",
+      "method": "memes send",
+      "target": "999"
+    },
+    {
+      "time": "2026-08-15T11:13:06+08:00",
+      "action": "send",
+      "category": "bruh",
+      "file": "monkey-bruh.gif",
+      "channel": "discord",
+      "caption": "昨天全舰队沉默，今天两个 patrol 同分钟倒下，遗言还是一句：All models failed — 只是音量小了点",
+      "result": "success",
+      "method": "memes send",
+      "target": "1491602968741413039"
+    },
+    {
+      "time": "2026-08-15T12:06:25+08:00",
+      "action": "send",
+      "category": "sad",
+      "file": "spongebob-dejected.gif",
+      "channel": "discord",
+      "caption": "",
+      "result": "success",
+      "method": "memes send",
+      "target": "1491602968741413039"
     }
   ],
   "counts": {
     "approve": 45,
-    "bruh": 15,
-    "confused": 14,
+    "bruh": 16,
+    "confused": 15,
     "cute-animals": 8,
     "debug-mood": 23,
     "disappointed": 9,
@@ -5161,7 +5176,7 @@
     "nailed-it": 81,
     "panic": 10,
     "popcorn": 9,
-    "sad": 8,
+    "sad": 9,
     "shrug": 10,
     "smug": 29,
     "thanks": 9,
@@ -5172,15 +5187,22 @@
     "wow": 29
   },
   "lastReview": {
-    "time": "2026-08-14T14:25:15Z",
+    "time": "2026-08-15T04:06:14Z",
     "status": "clean",
     "weakCategories": [],
     "freshness": {
-      "staleCount": 2,
+      "staleCount": 3,
       "total": 26,
-      "generalStale": 1,
+      "generalStale": 2,
       "contextualStale": 1
+    },
+    "autoWake": {
+      "time": "2026-08-15T04:06:25Z",
+      "categories": [
+        "sad"
+      ],
+      "count": 1
     }
   },
-  "historyTrimmedAt": "2026-08-14T22:22:39+08:00"
+  "historyTrimmedAt": "2026-08-15T12:06:25+08:00"
 }
