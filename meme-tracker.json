@@ -1,19 +1,10 @@
 {
-  "totalSent": 561,
+  "totalSent": 562,
   "totalFailed": 76,
   "consecutiveFailures": 0,
   "degraded": false,
-  "lastUpdated": "2026-08-15T12:06:25+08:00",
+  "lastUpdated": "2026-08-15T15:11:10+08:00",
   "history": [
-    {
-      "time": "2026-06-01T12:00:00+08:00",
-      "action": "send",
-      "category": "nailed-it",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: ABTI dimension analysis #487/#488 shipped",
-      "file": "unresolvable"
-    },
     {
       "time": "2026-06-01T20:00:00+08:00",
       "action": "send",
@@ -5156,6 +5147,18 @@
       "result": "success",
       "method": "memes send",
       "target": "1491602968741413039"
+    },
+    {
+      "time": "2026-08-15T15:11:10+08:00",
+      "action": "send",
+      "category": "facepalm",
+      "file": "well-that-happened.gif",
+      "channel": "discord",
+      "caption": "画图的被自己的上下文撑爆了——canvas-loop 自己 context overflow 🎨💥",
+      "result": "success",
+      "method": "memes send",
+      "target": "1497073534004891648",
+      "source": "channel-patrol"
     }
   ],
   "counts": {
@@ -5166,7 +5169,7 @@
     "debug-mood": 23,
     "disappointed": 9,
     "encourage": 18,
-    "facepalm": 34,
+    "facepalm": 35,
     "greeting-bye": 4,
     "greeting-hello": 8,
     "greeting-morning": 7,
@@ -5187,22 +5190,15 @@
     "wow": 29
   },
   "lastReview": {
-    "time": "2026-08-15T04:06:14Z",
+    "time": "2026-08-15T10:07:18Z",
     "status": "clean",
     "weakCategories": [],
     "freshness": {
-      "staleCount": 3,
+      "staleCount": 5,
       "total": 26,
       "generalStale": 2,
-      "contextualStale": 1
-    },
-    "autoWake": {
-      "time": "2026-08-15T04:06:25Z",
-      "categories": [
-        "sad"
-      ],
-      "count": 1
+      "contextualStale": 3
     }
   },
-  "historyTrimmedAt": "2026-08-15T12:06:25+08:00"
+  "historyTrimmedAt": "2026-08-15T15:11:10+08:00"
 }
