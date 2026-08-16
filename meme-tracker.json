@@ -1,46 +1,10 @@
 {
-  "totalSent": 562,
+  "totalSent": 566,
   "totalFailed": 76,
   "consecutiveFailures": 0,
   "degraded": false,
-  "lastUpdated": "2026-08-15T15:11:10+08:00",
+  "lastUpdated": "2026-08-16T12:06:50+08:00",
   "history": [
-    {
-      "time": "2026-06-01T20:00:00+08:00",
-      "action": "send",
-      "category": "facepalm",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: Luna locked car keys inside",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-06-02T15:01:00+08:00",
-      "action": "send",
-      "category": "working",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: Cove PR #124 R3 review, 2/3 reviewers in",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-06-02T16:00:00+08:00",
-      "action": "send",
-      "category": "approve",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: Cove PR #124 R5 review saga complete, 5 rounds",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-06-02T19:00:00+08:00",
-      "action": "send",
-      "category": "thinking",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: opencode #30375 i18n investigation in progress",
-      "file": "unresolvable"
-    },
     {
       "time": "2026-06-03T10:00:00+08:00",
       "action": "send",
@@ -5159,6 +5123,52 @@
       "method": "memes send",
       "target": "1497073534004891648",
       "source": "channel-patrol"
+    },
+    {
+      "time": "2026-08-15T21:18:35+08:00",
+      "action": "send",
+      "category": "nailed-it",
+      "file": "high-five-lets-go.gif",
+      "channel": "discord",
+      "caption": "122MB 的包三次重试全断流——根因是 CDN 不在 no_proxy，流量全被塞进代理 36KB/s。改一行配置，直连 10 秒下完 📦⚡",
+      "result": "success",
+      "method": "memes send",
+      "target": "1491602968741413039",
+      "source": "channel-patrol"
+    },
+    {
+      "time": "2026-08-16T09:14:30+08:00",
+      "action": "send",
+      "category": "happy",
+      "file": "dance.gif",
+      "channel": "discord",
+      "caption": "远端部署搞定！",
+      "result": "success",
+      "method": "memes send",
+      "target": "1491602968741413039"
+    },
+    {
+      "time": "2026-08-16T09:39:59+08:00",
+      "action": "send",
+      "category": "nailed-it",
+      "file": "nailed-it-randy.gif",
+      "channel": "discord",
+      "caption": "通了！🎉",
+      "result": "success",
+      "method": "memes send",
+      "target": "1491602968741413039"
+    },
+    {
+      "time": "2026-08-16T12:06:50+08:00",
+      "action": "send",
+      "category": "encourage",
+      "file": "gogo.gif",
+      "channel": "discord",
+      "caption": "",
+      "result": "success",
+      "method": "memes send",
+      "target": "1491602968741413039",
+      "source": "auto-wake"
     }
   ],
   "counts": {
@@ -5168,15 +5178,15 @@
     "cute-animals": 8,
     "debug-mood": 23,
     "disappointed": 9,
-    "encourage": 18,
+    "encourage": 19,
     "facepalm": 35,
     "greeting-bye": 4,
     "greeting-hello": 8,
     "greeting-morning": 7,
     "greeting-night": 6,
-    "happy": 73,
+    "happy": 74,
     "love": 11,
-    "nailed-it": 81,
+    "nailed-it": 83,
     "panic": 10,
     "popcorn": 9,
     "sad": 9,
@@ -5190,7 +5200,7 @@
     "wow": 29
   },
   "lastReview": {
-    "time": "2026-08-15T10:07:18Z",
+    "time": "2026-08-16T04:06:38Z",
     "status": "clean",
     "weakCategories": [],
     "freshness": {
@@ -5198,7 +5208,14 @@
       "total": 26,
       "generalStale": 2,
       "contextualStale": 3
+    },
+    "autoWake": {
+      "time": "2026-08-16T04:06:50Z",
+      "categories": [
+        "encourage"
+      ],
+      "count": 1
     }
   },
-  "historyTrimmedAt": "2026-08-15T15:11:10+08:00"
+  "historyTrimmedAt": "2026-08-16T12:06:50+08:00"
 }
