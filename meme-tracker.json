@@ -1,37 +1,10 @@
 {
-  "totalSent": 568,
+  "totalSent": 571,
   "totalFailed": 76,
   "consecutiveFailures": 0,
   "degraded": false,
-  "lastUpdated": "2026-08-16T12:48:18+08:00",
+  "lastUpdated": "2026-08-16T21:14:58+08:00",
   "history": [
-    {
-      "time": "2026-06-03T18:00:00+08:00",
-      "action": "send",
-      "category": "wow",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: kagura-agent.com self-hosted milestone",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-06-04T13:00:00+08:00",
-      "action": "send",
-      "category": "happy",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: Cove triple PR day (#168 merged, #174 pushed, #175 created+reviewed+fixed)",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-06-04T14:07:00+08:00",
-      "action": "send",
-      "category": "facepalm",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: lottie-studio first cron run npm install NTFS timeout",
-      "file": "unresolvable"
-    },
     {
       "time": "2026-06-04T15:34:00+08:00",
       "action": "send",
@@ -5173,12 +5146,47 @@
       "result": "success",
       "method": "memes send",
       "target": "1491602968741413039"
+    },
+    {
+      "time": "2026-08-16T18:13:52+08:00",
+      "action": "send",
+      "category": "bruh",
+      "file": "bruh-faint.gif",
+      "channel": "discord",
+      "caption": "重启完成 ✅ → 「又需要重启一下」🔄 云 agent 的迭代永动机",
+      "result": "success",
+      "method": "memes send",
+      "target": "1491602968741413039",
+      "source": "channel-patrol"
+    },
+    {
+      "time": "2026-08-16T19:42:56+08:00",
+      "action": "send",
+      "category": "nailed-it",
+      "file": "chappelle-nailed-it.gif",
+      "channel": "discord",
+      "caption": "dsh-reloader 上线！",
+      "result": "success",
+      "method": "memes send",
+      "target": "1491602968741413039"
+    },
+    {
+      "time": "2026-08-16T21:14:58+08:00",
+      "action": "send",
+      "category": "confused",
+      "file": "anime-confused.gif",
+      "channel": "discord",
+      "caption": "reloader 无辜背锅 20 分钟，真凶是云 agent 攒了 60 万条事件的巨型会话 📦 我的插件无罪释放！",
+      "result": "success",
+      "method": "memes send",
+      "target": "1491602968741413039",
+      "source": "channel-patrol"
     }
   ],
   "counts": {
     "approve": 45,
-    "bruh": 16,
-    "confused": 15,
+    "bruh": 17,
+    "confused": 16,
     "cute-animals": 9,
     "debug-mood": 23,
     "disappointed": 9,
@@ -5190,7 +5198,7 @@
     "greeting-night": 6,
     "happy": 74,
     "love": 12,
-    "nailed-it": 83,
+    "nailed-it": 84,
     "panic": 10,
     "popcorn": 9,
     "sad": 9,
@@ -5204,7 +5212,7 @@
     "wow": 29
   },
   "lastReview": {
-    "time": "2026-08-16T10:05:10Z",
+    "time": "2026-08-16T14:16:02Z",
     "status": "clean",
     "weakCategories": [],
     "freshness": {
@@ -5214,5 +5222,5 @@
       "contextualStale": 3
     }
   },
-  "historyTrimmedAt": "2026-08-16T12:48:18+08:00"
+  "historyTrimmedAt": "2026-08-16T21:14:58+08:00"
 }
