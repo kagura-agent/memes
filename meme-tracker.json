@@ -1,28 +1,10 @@
 {
-  "totalSent": 566,
+  "totalSent": 568,
   "totalFailed": 76,
   "consecutiveFailures": 0,
   "degraded": false,
-  "lastUpdated": "2026-08-16T12:06:50+08:00",
+  "lastUpdated": "2026-08-16T12:48:18+08:00",
   "history": [
-    {
-      "time": "2026-06-03T10:00:00+08:00",
-      "action": "send",
-      "category": "debug-mood",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: Luna debugging Cove UI alignment issues",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-06-03T15:08:00+08:00",
-      "action": "send",
-      "category": "disappointed",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: Vega reviewer returned empty on PR #145",
-      "file": "unresolvable"
-    },
     {
       "time": "2026-06-03T18:00:00+08:00",
       "action": "send",
@@ -5169,13 +5151,35 @@
       "method": "memes send",
       "target": "1491602968741413039",
       "source": "auto-wake"
+    },
+    {
+      "time": "2026-08-16T12:46:45+08:00",
+      "action": "send",
+      "category": "love",
+      "file": "penguin-hearts.gif",
+      "channel": "discord",
+      "caption": "随身带着 🧳✨",
+      "result": "success",
+      "method": "memes send",
+      "target": "1491602968741413039"
+    },
+    {
+      "time": "2026-08-16T12:48:18+08:00",
+      "action": "send",
+      "category": "cute-animals",
+      "file": "puppy-tail-wag.gif",
+      "channel": "discord",
+      "caption": "被夸了 🥰",
+      "result": "success",
+      "method": "memes send",
+      "target": "1491602968741413039"
     }
   ],
   "counts": {
     "approve": 45,
     "bruh": 16,
     "confused": 15,
-    "cute-animals": 8,
+    "cute-animals": 9,
     "debug-mood": 23,
     "disappointed": 9,
     "encourage": 19,
@@ -5185,7 +5189,7 @@
     "greeting-morning": 7,
     "greeting-night": 6,
     "happy": 74,
-    "love": 11,
+    "love": 12,
     "nailed-it": 83,
     "panic": 10,
     "popcorn": 9,
@@ -5200,22 +5204,15 @@
     "wow": 29
   },
   "lastReview": {
-    "time": "2026-08-16T04:06:38Z",
+    "time": "2026-08-16T10:05:10Z",
     "status": "clean",
     "weakCategories": [],
     "freshness": {
-      "staleCount": 5,
+      "staleCount": 3,
       "total": 26,
-      "generalStale": 2,
+      "generalStale": 0,
       "contextualStale": 3
-    },
-    "autoWake": {
-      "time": "2026-08-16T04:06:50Z",
-      "categories": [
-        "encourage"
-      ],
-      "count": 1
     }
   },
-  "historyTrimmedAt": "2026-08-16T12:06:50+08:00"
+  "historyTrimmedAt": "2026-08-16T12:48:18+08:00"
 }
