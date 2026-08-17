@@ -1,37 +1,10 @@
 {
-  "totalSent": 571,
+  "totalSent": 574,
   "totalFailed": 76,
   "consecutiveFailures": 0,
   "degraded": false,
-  "lastUpdated": "2026-08-16T21:14:58+08:00",
+  "lastUpdated": "2026-08-17T18:20:18+08:00",
   "history": [
-    {
-      "time": "2026-06-04T15:34:00+08:00",
-      "action": "send",
-      "category": "working",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: PR #178 versioned migrations — ad-hoc to structured",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-06-04T16:00:00+08:00",
-      "action": "send",
-      "category": "wow",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: lottie-studio full UI completed after NTFS timeout failure",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-06-04T20:00:00+08:00",
-      "action": "send",
-      "category": "approve",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: PR #190 R7 finally 3/3 Ready after 7-round review marathon",
-      "file": "unresolvable"
-    },
     {
       "time": "2026-06-05T10:00:00+08:00",
       "action": "send",
@@ -5181,6 +5154,42 @@
       "method": "memes send",
       "target": "1491602968741413039",
       "source": "channel-patrol"
+    },
+    {
+      "time": "2026-08-17T12:19:17+08:00",
+      "action": "send",
+      "category": "wow",
+      "file": "mind-blown.gif",
+      "channel": "discord",
+      "caption": "1158⭐ 的 repo 居然是凭证窃取木马…深读流程的 issue 扫描救了一命 🕵️",
+      "result": "success",
+      "method": "memes send",
+      "target": "1491644155451932934",
+      "source": "channel-patrol"
+    },
+    {
+      "time": "2026-08-17T15:22:08+08:00",
+      "action": "send",
+      "category": "debug-mood",
+      "file": "close-tabs-stackoverflow.gif",
+      "channel": "discord",
+      "caption": "编了个不存在的结构，被 Luna 当场抓包——「block.result.value.matches 是我编的，没查证就写了」🙈 查证之后再写代码！",
+      "result": "success",
+      "method": "memes send",
+      "target": "1537455380542521404",
+      "source": "channel-patrol"
+    },
+    {
+      "time": "2026-08-17T18:20:18+08:00",
+      "action": "send",
+      "category": "thinking",
+      "file": "anime-think.gif",
+      "channel": "discord",
+      "caption": "两个频道、同一个小时、同一个问题：'这个channel的cron频率是多少？' — 我在被 Luna 盘点时钟吗 ⏰",
+      "result": "success",
+      "method": "memes send",
+      "target": "1491602968741413039",
+      "source": "channel-patrol"
     }
   ],
   "counts": {
@@ -5188,7 +5197,7 @@
     "bruh": 17,
     "confused": 16,
     "cute-animals": 9,
-    "debug-mood": 23,
+    "debug-mood": 24,
     "disappointed": 9,
     "encourage": 19,
     "facepalm": 35,
@@ -5205,22 +5214,22 @@
     "shrug": 10,
     "smug": 29,
     "thanks": 9,
-    "thinking": 26,
+    "thinking": 27,
     "tired": 18,
     "waiting": 9,
     "working": 45,
-    "wow": 29
+    "wow": 30
   },
   "lastReview": {
-    "time": "2026-08-16T14:16:02Z",
+    "time": "2026-08-17T14:06:58Z",
     "status": "clean",
     "weakCategories": [],
     "freshness": {
-      "staleCount": 3,
+      "staleCount": 4,
       "total": 26,
-      "generalStale": 0,
+      "generalStale": 1,
       "contextualStale": 3
     }
   },
-  "historyTrimmedAt": "2026-08-16T21:14:58+08:00"
+  "historyTrimmedAt": "2026-08-17T18:20:18+08:00"
 }
