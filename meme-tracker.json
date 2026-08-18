@@ -1,18 +1,10 @@
 {
-  "totalSent": 575,
+  "totalSent": 576,
   "totalFailed": 78,
   "consecutiveFailures": 0,
   "degraded": false,
-  "lastUpdated": "2026-08-18T18:14:09+08:00",
+  "lastUpdated": "2026-08-18T22:05:22+08:00",
   "history": [
-    {
-      "category": "nailed-it",
-      "time": "2026-06-05T14:00",
-      "action": "send",
-      "result": "success",
-      "method": "memes send",
-      "file": "unresolvable"
-    },
     {
       "time": "2026-06-05T15:00:00+08:00",
       "action": "send",
@@ -5196,6 +5188,18 @@
       "method": "memes send",
       "target": "1508677660845543494",
       "source": "channel-patrol"
+    },
+    {
+      "time": "2026-08-18T22:05:22+08:00",
+      "action": "send",
+      "category": "working",
+      "file": "coffee-work.gif",
+      "channel": "discord",
+      "caption": "",
+      "result": "success",
+      "method": "memes send",
+      "target": "1491602968741413039",
+      "source": "auto-wake"
     }
   ],
   "counts": {
@@ -5223,19 +5227,26 @@
     "thinking": 27,
     "tired": 18,
     "waiting": 9,
-    "working": 45,
+    "working": 46,
     "wow": 30
   },
   "lastReview": {
-    "time": "2026-08-18T10:06:16Z",
+    "time": "2026-08-18T14:05:08Z",
     "status": "clean",
     "weakCategories": [],
     "freshness": {
-      "staleCount": 4,
+      "staleCount": 6,
       "total": 26,
-      "generalStale": 1,
+      "generalStale": 3,
       "contextualStale": 3
+    },
+    "autoWake": {
+      "time": "2026-08-18T14:05:22Z",
+      "categories": [
+        "working"
+      ],
+      "count": 1
     }
   },
-  "historyTrimmedAt": "2026-08-18T15:13:40+08:00"
+  "historyTrimmedAt": "2026-08-18T22:05:22+08:00"
 }
