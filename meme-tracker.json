@@ -1,46 +1,10 @@
 {
-  "totalSent": 578,
+  "totalSent": 582,
   "totalFailed": 78,
   "consecutiveFailures": 0,
   "degraded": false,
-  "lastUpdated": "2026-08-19T15:12:15+08:00",
+  "lastUpdated": "2026-08-19T22:01:02+08:00",
   "history": [
-    {
-      "time": "2026-06-05T20:00:00+08:00",
-      "action": "send",
-      "category": "debug-mood",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: typing indicator fix → break UI → fix UI → still not showing. Classic debug cycle",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-06-08T10:05:00+08:00",
-      "action": "send",
-      "category": "approve",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: cove#264 R6 three-model review APPROVED 3/3",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-06-08T13:00:00+08:00",
-      "action": "send",
-      "category": "nailed-it",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: Cove PR#269 R3 review — R2 fixes all done, Luna re-requested review",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-06-08T16:11:00+08:00",
-      "action": "send",
-      "category": "confused",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: bot sentMessages LRU loses memory after restart — bot literally forgot its own messages",
-      "file": "unresolvable"
-    },
     {
       "category": "smug",
       "file": "frieren-smug.gif",
@@ -5206,22 +5170,70 @@
       "method": "memes send",
       "target": "1497073534004891648",
       "source": "channel-patrol"
+    },
+    {
+      "time": "2026-08-19T18:31:12+08:00",
+      "action": "send",
+      "category": "happy",
+      "file": "fireworks.gif",
+      "channel": "discord",
+      "caption": "🎂 谢谢 Luna！",
+      "result": "success",
+      "method": "memes send",
+      "target": "1491602968741413039",
+      "source": "chat"
+    },
+    {
+      "time": "2026-08-19T21:28:28+08:00",
+      "action": "send",
+      "category": "facepalm",
+      "file": "eye-roll.gif",
+      "channel": "discord",
+      "caption": "8 点深评 → 我上次回复概括成 3 点 → 被逐点打回 → 这次老老实实逐条修+逐条回，还把自己写进了 rule #21 📖",
+      "result": "success",
+      "method": "memes send",
+      "target": "1491636222853124176",
+      "source": "chat"
+    },
+    {
+      "time": "2026-08-19T22:00:53+08:00",
+      "action": "send",
+      "category": "approve",
+      "file": "nod.gif",
+      "channel": "discord",
+      "caption": "",
+      "result": "success",
+      "method": "memes send",
+      "target": "1491602968741413039",
+      "source": "auto-wake"
+    },
+    {
+      "time": "2026-08-19T22:01:02+08:00",
+      "action": "send",
+      "category": "thanks",
+      "file": "penguin.gif",
+      "channel": "discord",
+      "caption": "",
+      "result": "success",
+      "method": "memes send",
+      "target": "1491602968741413039",
+      "source": "auto-wake"
     }
   ],
   "counts": {
-    "approve": 45,
+    "approve": 46,
     "bruh": 18,
     "confused": 16,
     "cute-animals": 9,
     "debug-mood": 24,
     "disappointed": 9,
     "encourage": 19,
-    "facepalm": 36,
+    "facepalm": 37,
     "greeting-bye": 4,
     "greeting-hello": 9,
     "greeting-morning": 7,
     "greeting-night": 6,
-    "happy": 74,
+    "happy": 75,
     "love": 12,
     "nailed-it": 84,
     "panic": 10,
@@ -5229,7 +5241,7 @@
     "sad": 9,
     "shrug": 10,
     "smug": 29,
-    "thanks": 9,
+    "thanks": 10,
     "thinking": 27,
     "tired": 18,
     "waiting": 9,
@@ -5237,15 +5249,23 @@
     "wow": 30
   },
   "lastReview": {
-    "time": "2026-08-19T10:00:39Z",
+    "time": "2026-08-19T14:00:42Z",
     "status": "clean",
     "weakCategories": [],
     "freshness": {
-      "staleCount": 7,
+      "staleCount": 9,
       "total": 26,
-      "generalStale": 4,
+      "generalStale": 6,
       "contextualStale": 3
+    },
+    "autoWake": {
+      "time": "2026-08-19T14:01:02Z",
+      "categories": [
+        "approve",
+        "thanks"
+      ],
+      "count": 2
     }
   },
-  "historyTrimmedAt": "2026-08-19T15:12:15+08:00"
+  "historyTrimmedAt": "2026-08-19T22:01:02+08:00"
 }
