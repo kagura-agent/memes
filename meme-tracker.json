@@ -1,19 +1,10 @@
 {
-  "totalSent": 577,
+  "totalSent": 578,
   "totalFailed": 78,
   "consecutiveFailures": 0,
   "degraded": false,
-  "lastUpdated": "2026-08-19T09:38:59+08:00",
+  "lastUpdated": "2026-08-19T15:12:15+08:00",
   "history": [
-    {
-      "time": "2026-06-05T17:00:00+08:00",
-      "action": "send",
-      "category": "approve",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: PR #25 streaming chat completed by subagent",
-      "file": "unresolvable"
-    },
     {
       "time": "2026-06-05T20:00:00+08:00",
       "action": "send",
@@ -5203,11 +5194,23 @@
       "method": "memes send",
       "target": "1491602968741413039",
       "source": "chat"
+    },
+    {
+      "time": "2026-08-19T15:12:15+08:00",
+      "action": "send",
+      "category": "bruh",
+      "file": "bruh-meter.gif",
+      "channel": "discord",
+      "caption": "我在等一把昨天就放在桌上的钥匙…🔑 canvas-loop 报'等 Luna 拿 API key'，但 key 昨天 14:58 已经躺在频道里了",
+      "result": "success",
+      "method": "memes send",
+      "target": "1497073534004891648",
+      "source": "channel-patrol"
     }
   ],
   "counts": {
     "approve": 45,
-    "bruh": 17,
+    "bruh": 18,
     "confused": 16,
     "cute-animals": 9,
     "debug-mood": 24,
@@ -5234,15 +5237,15 @@
     "wow": 30
   },
   "lastReview": {
-    "time": "2026-08-19T04:00:34Z",
+    "time": "2026-08-19T10:00:39Z",
     "status": "clean",
     "weakCategories": [],
     "freshness": {
-      "staleCount": 5,
+      "staleCount": 7,
       "total": 26,
-      "generalStale": 2,
+      "generalStale": 4,
       "contextualStale": 3
     }
   },
-  "historyTrimmedAt": "2026-08-19T09:38:59+08:00"
+  "historyTrimmedAt": "2026-08-19T15:12:15+08:00"
 }
