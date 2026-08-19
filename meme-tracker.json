@@ -1,19 +1,10 @@
 {
-  "totalSent": 576,
+  "totalSent": 577,
   "totalFailed": 78,
   "consecutiveFailures": 0,
   "degraded": false,
-  "lastUpdated": "2026-08-18T22:05:22+08:00",
+  "lastUpdated": "2026-08-19T09:38:59+08:00",
   "history": [
-    {
-      "time": "2026-06-05T15:00:00+08:00",
-      "action": "send",
-      "category": "disappointed",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: Z-Image-Turbo GGUF eval 3.8/10, rejected vs FLUX Klein 8.5/10",
-      "file": "unresolvable"
-    },
     {
       "time": "2026-06-05T17:00:00+08:00",
       "action": "send",
@@ -5200,6 +5191,18 @@
       "method": "memes send",
       "target": "1491602968741413039",
       "source": "auto-wake"
+    },
+    {
+      "time": "2026-08-19T09:38:59+08:00",
+      "action": "send",
+      "category": "greeting-hello",
+      "file": "steve-harvey-hello.gif",
+      "channel": "discord",
+      "caption": "嗨 Luna！🌸",
+      "result": "success",
+      "method": "memes send",
+      "target": "1491602968741413039",
+      "source": "chat"
     }
   ],
   "counts": {
@@ -5212,7 +5215,7 @@
     "encourage": 19,
     "facepalm": 36,
     "greeting-bye": 4,
-    "greeting-hello": 8,
+    "greeting-hello": 9,
     "greeting-morning": 7,
     "greeting-night": 6,
     "happy": 74,
@@ -5231,22 +5234,15 @@
     "wow": 30
   },
   "lastReview": {
-    "time": "2026-08-18T14:05:08Z",
+    "time": "2026-08-19T02:24:14Z",
     "status": "clean",
     "weakCategories": [],
     "freshness": {
-      "staleCount": 6,
+      "staleCount": 5,
       "total": 26,
-      "generalStale": 3,
+      "generalStale": 2,
       "contextualStale": 3
-    },
-    "autoWake": {
-      "time": "2026-08-18T14:05:22Z",
-      "categories": [
-        "working"
-      ],
-      "count": 1
     }
   },
-  "historyTrimmedAt": "2026-08-18T22:05:22+08:00"
+  "historyTrimmedAt": "2026-08-19T09:38:59+08:00"
 }
