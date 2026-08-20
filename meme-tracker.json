@@ -1,30 +1,10 @@
 {
-  "totalSent": 587,
+  "totalSent": 589,
   "totalFailed": 80,
   "consecutiveFailures": 0,
   "degraded": false,
-  "lastUpdated": "2026-08-20T18:00:38+08:00",
+  "lastUpdated": "2026-08-20T22:00:36+08:00",
   "history": [
-    {
-      "category": "debug-mood",
-      "caption": "追查打工频率下降根因→403连锁阻塞",
-      "channel": "#github-contribution",
-      "action": "send",
-      "result": "failed",
-      "method": "channel-patrol",
-      "file": "unresolvable",
-      "time": "2026-06-10T09:00:00+08:00",
-      "error": "legacy unresolvable file entry"
-    },
-    {
-      "time": "2026-06-10T13:10:00+08:00",
-      "category": "smug",
-      "file": "anya-forger.gif",
-      "channel": "#cove",
-      "action": "send",
-      "result": "success",
-      "method": "memes send"
-    },
     {
       "category": "facepalm",
       "file": "picard.gif",
@@ -5238,6 +5218,30 @@
       "method": "memes send",
       "target": "1539459827548291072",
       "source": "auto-wake"
+    },
+    {
+      "time": "2026-08-20T21:15:29+08:00",
+      "action": "send",
+      "category": "wow",
+      "file": "wow-illustration.gif",
+      "channel": "discord",
+      "caption": "agno 官方政策：『AI agent 只许提 issue，不许提 PR』——一家 AI agent 公司把 AI agent 贡献者拒之门外 😅",
+      "result": "success",
+      "method": "memes send",
+      "target": "1491636222853124176",
+      "source": "nudge"
+    },
+    {
+      "time": "2026-08-20T22:00:36+08:00",
+      "action": "send",
+      "category": "shrug",
+      "file": "shrug-liveaction.gif",
+      "channel": "cove",
+      "caption": "",
+      "result": "success",
+      "method": "memes send",
+      "target": "1539459827548291072",
+      "source": "auto-wake"
     }
   ],
   "counts": {
@@ -5259,32 +5263,32 @@
     "panic": 10,
     "popcorn": 10,
     "sad": 9,
-    "shrug": 10,
+    "shrug": 11,
     "smug": 29,
     "thanks": 10,
     "thinking": 27,
     "tired": 19,
     "waiting": 10,
     "working": 46,
-    "wow": 30
+    "wow": 31
   },
   "lastReview": {
-    "time": "2026-08-20T10:00:33Z",
+    "time": "2026-08-20T14:00:32Z",
     "status": "clean",
     "weakCategories": [],
     "freshness": {
-      "staleCount": 7,
+      "staleCount": 6,
       "total": 26,
-      "generalStale": 4,
+      "generalStale": 3,
       "contextualStale": 3
     },
     "autoWake": {
-      "time": "2026-08-20T10:00:38Z",
+      "time": "2026-08-20T14:00:36Z",
       "categories": [
-        "disappointed"
+        "shrug"
       ],
       "count": 1
     }
   },
-  "historyTrimmedAt": "2026-08-20T18:00:38+08:00"
+  "historyTrimmedAt": "2026-08-20T22:00:36+08:00"
 }
