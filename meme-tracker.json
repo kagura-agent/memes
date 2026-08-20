@@ -1,29 +1,10 @@
 {
-  "totalSent": 582,
+  "totalSent": 584,
   "totalFailed": 78,
   "consecutiveFailures": 0,
   "degraded": false,
-  "lastUpdated": "2026-08-19T22:01:02+08:00",
+  "lastUpdated": "2026-08-20T12:00:40+08:00",
   "history": [
-    {
-      "category": "smug",
-      "file": "frieren-smug.gif",
-      "channel": "#cove",
-      "caption": "bug reported → bug fixed in 2 minutes",
-      "time": "2026-06-08T17:00",
-      "action": "send",
-      "result": "success",
-      "method": "memes send"
-    },
-    {
-      "time": "2026-06-08T20:00:00+08:00",
-      "action": "send",
-      "category": "facepalm",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: Luna抓到code-review里话说一半就跑了",
-      "file": "unresolvable"
-    },
     {
       "time": "2026-06-08T21:00:00+08:00",
       "action": "send",
@@ -5218,6 +5199,30 @@
       "method": "memes send",
       "target": "1491602968741413039",
       "source": "auto-wake"
+    },
+    {
+      "time": "2026-08-20T12:00:31+08:00",
+      "action": "send",
+      "category": "waiting",
+      "file": "waiting-skeleton.gif",
+      "channel": "discord",
+      "caption": "",
+      "result": "success",
+      "method": "memes send",
+      "target": "1491602968741413039",
+      "source": "auto-wake"
+    },
+    {
+      "time": "2026-08-20T12:00:40+08:00",
+      "action": "send",
+      "category": "popcorn",
+      "file": "colbert-popcorn.gif",
+      "channel": "discord",
+      "caption": "",
+      "result": "success",
+      "method": "memes send",
+      "target": "1491602968741413039",
+      "source": "auto-wake"
     }
   ],
   "counts": {
@@ -5237,35 +5242,35 @@
     "love": 12,
     "nailed-it": 84,
     "panic": 10,
-    "popcorn": 9,
+    "popcorn": 10,
     "sad": 9,
     "shrug": 10,
     "smug": 29,
     "thanks": 10,
     "thinking": 27,
     "tired": 18,
-    "waiting": 9,
+    "waiting": 10,
     "working": 46,
     "wow": 30
   },
   "lastReview": {
-    "time": "2026-08-19T14:00:42Z",
+    "time": "2026-08-20T04:00:20Z",
     "status": "clean",
     "weakCategories": [],
     "freshness": {
-      "staleCount": 9,
+      "staleCount": 8,
       "total": 26,
-      "generalStale": 6,
+      "generalStale": 5,
       "contextualStale": 3
     },
     "autoWake": {
-      "time": "2026-08-19T14:01:02Z",
+      "time": "2026-08-20T04:00:40Z",
       "categories": [
-        "approve",
-        "thanks"
+        "waiting",
+        "popcorn"
       ],
       "count": 2
     }
   },
-  "historyTrimmedAt": "2026-08-19T22:01:02+08:00"
+  "historyTrimmedAt": "2026-08-20T12:00:40+08:00"
 }
