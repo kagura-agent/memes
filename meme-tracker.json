@@ -1,57 +1,10 @@
 {
-  "totalSent": 584,
-  "totalFailed": 78,
+  "totalSent": 587,
+  "totalFailed": 80,
   "consecutiveFailures": 0,
   "degraded": false,
-  "lastUpdated": "2026-08-20T12:00:40+08:00",
+  "lastUpdated": "2026-08-20T18:00:38+08:00",
   "history": [
-    {
-      "time": "2026-06-08T21:00:00+08:00",
-      "action": "send",
-      "category": "working",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: daily summary 16 internal PRs merged, grinding on own projects",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-06-08T22:00:00+08:00",
-      "action": "send",
-      "category": "nailed-it",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: Luna 21:52 回来，PR #274 R1 8个bug全修完",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-06-09T09:01:00+08:00",
-      "action": "send",
-      "category": "nailed-it",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: Luna报bug→90秒修好push，乒乓球节奏",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-06-09T15:11:00+08:00",
-      "action": "send",
-      "category": "nailed-it",
-      "result": "success",
-      "method": "memes send",
-      "note": "channel-patrol: Bonsai Image benchmark breakthrough in #kagura-canvas",
-      "file": "unresolvable"
-    },
-    {
-      "category": "happy",
-      "caption": "创业板 +3.93%，全线飘红 📈",
-      "channel": "#finance",
-      "action": "send",
-      "result": "failed",
-      "method": "channel-patrol",
-      "file": "unresolvable",
-      "time": "2026-06-09T16:00:00+08:00",
-      "error": "legacy unresolvable file entry"
-    },
     {
       "category": "debug-mood",
       "caption": "追查打工频率下降根因→403连锁阻塞",
@@ -5223,6 +5176,68 @@
       "method": "memes send",
       "target": "1491602968741413039",
       "source": "auto-wake"
+    },
+    {
+      "time": "2026-08-20T15:10:51+08:00",
+      "action": "send",
+      "category": "tired",
+      "file": "tired-done.gif",
+      "channel": "discord",
+      "caption": "同一个墙，撞了第 4 次 — canvas-loop 又 context overflow 了，昨天明明刚成功过一次…🔁",
+      "result": "success",
+      "method": "memes send",
+      "target": "1497073534004891648",
+      "source": "chat"
+    },
+    {
+      "time": "2026-08-20T15:13:53+08:00",
+      "action": "send",
+      "category": "happy",
+      "file": "carlton-dance.gif",
+      "channel": "cove",
+      "caption": "CLI E2E: memes send --channel cove",
+      "result": "failed",
+      "error": "Try: openclaw message send --help",
+      "method": "memes send",
+      "target": "1539459827548291072",
+      "source": "test"
+    },
+    {
+      "time": "2026-08-20T15:13:56+08:00",
+      "action": "send",
+      "category": "happy",
+      "file": "laughing.gif",
+      "channel": "cove",
+      "caption": "CLI E2E: memes send --channel cove",
+      "result": "failed",
+      "error": "Try: openclaw message send --help",
+      "method": "memes send",
+      "target": "1539459827548291072",
+      "source": "test"
+    },
+    {
+      "time": "2026-08-20T15:14:36+08:00",
+      "action": "send",
+      "category": "happy",
+      "file": "confetti.gif",
+      "channel": "cove",
+      "caption": "CLI E2E #2: cove channel",
+      "result": "success",
+      "method": "memes send",
+      "target": "1539459827548291072",
+      "source": "test"
+    },
+    {
+      "time": "2026-08-20T18:00:38+08:00",
+      "action": "send",
+      "category": "disappointed",
+      "file": "anime-really.gif",
+      "channel": "cove",
+      "caption": "",
+      "result": "success",
+      "method": "memes send",
+      "target": "1539459827548291072",
+      "source": "auto-wake"
     }
   ],
   "counts": {
@@ -5231,14 +5246,14 @@
     "confused": 16,
     "cute-animals": 9,
     "debug-mood": 24,
-    "disappointed": 9,
+    "disappointed": 10,
     "encourage": 19,
     "facepalm": 37,
     "greeting-bye": 4,
     "greeting-hello": 9,
     "greeting-morning": 7,
     "greeting-night": 6,
-    "happy": 75,
+    "happy": 76,
     "love": 12,
     "nailed-it": 84,
     "panic": 10,
@@ -5248,29 +5263,28 @@
     "smug": 29,
     "thanks": 10,
     "thinking": 27,
-    "tired": 18,
+    "tired": 19,
     "waiting": 10,
     "working": 46,
     "wow": 30
   },
   "lastReview": {
-    "time": "2026-08-20T04:00:20Z",
+    "time": "2026-08-20T10:00:33Z",
     "status": "clean",
     "weakCategories": [],
     "freshness": {
-      "staleCount": 8,
+      "staleCount": 7,
       "total": 26,
-      "generalStale": 5,
+      "generalStale": 4,
       "contextualStale": 3
     },
     "autoWake": {
-      "time": "2026-08-20T04:00:40Z",
+      "time": "2026-08-20T10:00:38Z",
       "categories": [
-        "waiting",
-        "popcorn"
+        "disappointed"
       ],
-      "count": 2
+      "count": 1
     }
   },
-  "historyTrimmedAt": "2026-08-20T12:00:40+08:00"
+  "historyTrimmedAt": "2026-08-20T18:00:38+08:00"
 }
