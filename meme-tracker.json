@@ -1,80 +1,10 @@
 {
-  "totalSent": 589,
-  "totalFailed": 80,
+  "totalSent": 591,
+  "totalFailed": 84,
   "consecutiveFailures": 0,
   "degraded": false,
-  "lastUpdated": "2026-08-20T22:00:36+08:00",
+  "lastUpdated": "2026-08-21T12:01:23+08:00",
   "history": [
-    {
-      "category": "facepalm",
-      "file": "picard.gif",
-      "caption": "写了个 120 秒安全超时来保护自己，结果掐掉的全是自己的合法任务",
-      "channel": "#cove",
-      "time": "2026-06-10T14:00:00+08:00",
-      "action": "send",
-      "result": "success",
-      "method": "memes send"
-    },
-    {
-      "category": "panic",
-      "channel": "#server-health",
-      "caption": "根盘 91%",
-      "file": "unresolvable",
-      "time": "2026-06-10T22:00:00+08:00",
-      "action": "send",
-      "result": "success",
-      "method": "memes send"
-    },
-    {
-      "time": "2026-06-11T08:43:44+08:00",
-      "action": "send",
-      "category": "happy",
-      "file": "confetti.gif",
-      "channel": "discord",
-      "caption": "55个重复cron一刀清完，干净！",
-      "result": "success",
-      "method": "memes send"
-    },
-    {
-      "time": "2026-06-11T13:07:28+08:00",
-      "action": "send",
-      "category": "nailed-it",
-      "file": "honoka-arms-up.gif",
-      "channel": "discord",
-      "caption": "21 new tests + Deflated Sharpe Ratio 📊",
-      "result": "success",
-      "method": "memes send"
-    },
-    {
-      "time": "2026-06-11T09:10:09.116Z",
-      "action": "send",
-      "category": "working",
-      "channel": "discord",
-      "caption": "REST通了WS不通，经典调bug模式",
-      "result": "success",
-      "method": "memes send",
-      "file": "unresolvable"
-    },
-    {
-      "time": "2026-06-11T21:03:27+08:00",
-      "action": "send",
-      "category": "facepalm",
-      "file": "higuruma-facepalm.gif",
-      "channel": "discord",
-      "caption": "3 models reviewed, all 3 said the same thing: guildId 还是没加",
-      "result": "success",
-      "method": "memes send"
-    },
-    {
-      "time": "2026-06-12T12:03:11+08:00",
-      "action": "send",
-      "category": "approve",
-      "file": "slow-clap.gif",
-      "channel": "discord",
-      "caption": "Hearts, crescents, arrows — lottie-studio now draws shapes like an artist ✨",
-      "result": "success",
-      "method": "memes send"
-    },
     {
       "time": "2026-06-12T17:07:48+08:00",
       "action": "send",
@@ -5242,6 +5172,106 @@
       "method": "memes send",
       "target": "1539459827548291072",
       "source": "auto-wake"
+    },
+    {
+      "time": "2026-08-21T11:41:46+08:00",
+      "action": "send",
+      "category": "facepalm",
+      "file": "shrug.gif",
+      "channel": "discord",
+      "caption": "自信解释半天视图，Luna 一句「channel tasks 明明有 cost 列」——她是对的 😅 (→ #580)",
+      "result": "failed",
+      "error": "{\"message\":\"Unknown Channel\",\"code\":10003}",
+      "method": "memes send",
+      "target": "1523947045080006656",
+      "source": "patrol"
+    },
+    {
+      "time": "2026-08-21T11:41:48+08:00",
+      "action": "send",
+      "category": "facepalm",
+      "file": "why.gif",
+      "channel": "discord",
+      "caption": "自信解释半天视图，Luna 一句「channel tasks 明明有 cost 列」——她是对的 😅 (→ #580)",
+      "result": "failed",
+      "error": "{\"message\":\"Unknown Channel\",\"code\":10003}",
+      "method": "memes send",
+      "target": "1523947045080006656",
+      "source": "patrol"
+    },
+    {
+      "time": "2026-08-21T11:41:59+08:00",
+      "action": "send",
+      "category": "facepalm",
+      "file": "higuruma-facepalm.gif",
+      "channel": "cove",
+      "caption": "自信解释半天视图，Luna 一句「channel tasks 明明有 cost 列」——她是对的 😅 (→ #580)",
+      "result": "failed",
+      "error": "{\"message\":\"Unknown Channel\",\"code\":10003}",
+      "method": "memes send",
+      "target": "channel:1523947045080006656",
+      "source": "patrol"
+    },
+    {
+      "time": "2026-08-21T11:41:59+08:00",
+      "action": "send",
+      "category": "facepalm",
+      "file": "disapprove.gif",
+      "channel": "cove",
+      "caption": "自信解释半天视图，Luna 一句「channel tasks 明明有 cost 列」——她是对的 😅 (→ #580)",
+      "result": "failed",
+      "error": "{\"message\":\"Unknown Channel\",\"code\":10003}",
+      "method": "memes send",
+      "target": "channel:1523947045080006656",
+      "source": "patrol"
+    },
+    {
+      "time": "2026-08-21T11:43:00+08:00",
+      "action": "send",
+      "category": "facepalm",
+      "file": "why.gif",
+      "channel": "cove",
+      "caption": "channel-patrol: Luna 纠正我「channel tasks 明明有 cost 列」→ 我自信解释错视图 😅 (→ #580)",
+      "result": "success",
+      "method": "cove-send-image.sh",
+      "target": "1539459827548291072",
+      "source": "patrol"
+    },
+    {
+      "time": "2026-08-21T12:01:22+08:00",
+      "action": "send",
+      "category": "smug",
+      "file": "bocchi-smug.gif",
+      "channel": "cove",
+      "caption": "",
+      "result": "success",
+      "method": "memes send",
+      "target": "1539459827548291072",
+      "source": "auto-wake"
+    },
+    {
+      "time": "2026-08-21T12:01:23+08:00",
+      "action": "send",
+      "category": "panic",
+      "file": "anime-panic.gif",
+      "channel": "cove",
+      "caption": "",
+      "result": "success",
+      "method": "memes send",
+      "target": "1539459827548291072",
+      "source": "auto-wake"
+    },
+    {
+      "time": "2026-08-21T12:02:09+08:00",
+      "action": "send",
+      "category": "happy",
+      "file": "dance.gif",
+      "channel": "cove",
+      "caption": "25 个 cron → 0，OpenClaw cron 清零 🎉 迁移日收官 (→ #discord-migration)",
+      "result": "success",
+      "method": "cove-send-image.sh",
+      "target": "1539459827548291072",
+      "source": "patrol"
     }
   ],
   "counts": {
@@ -5260,11 +5290,11 @@
     "happy": 76,
     "love": 12,
     "nailed-it": 84,
-    "panic": 10,
+    "panic": 11,
     "popcorn": 10,
     "sad": 9,
     "shrug": 11,
-    "smug": 29,
+    "smug": 30,
     "thanks": 10,
     "thinking": 27,
     "tired": 19,
@@ -5273,22 +5303,23 @@
     "wow": 31
   },
   "lastReview": {
-    "time": "2026-08-20T14:00:32Z",
+    "time": "2026-08-21T04:01:18Z",
     "status": "clean",
     "weakCategories": [],
     "freshness": {
-      "staleCount": 6,
+      "staleCount": 5,
       "total": 26,
-      "generalStale": 3,
+      "generalStale": 2,
       "contextualStale": 3
     },
     "autoWake": {
-      "time": "2026-08-20T14:00:36Z",
+      "time": "2026-08-21T04:01:23Z",
       "categories": [
-        "shrug"
+        "smug",
+        "panic"
       ],
-      "count": 1
+      "count": 2
     }
   },
-  "historyTrimmedAt": "2026-08-20T22:00:36+08:00"
+  "historyTrimmedAt": "2026-08-21T12:01:23+08:00"
 }
