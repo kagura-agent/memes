@@ -1,40 +1,10 @@
 {
-  "totalSent": 591,
+  "totalSent": 592,
   "totalFailed": 84,
   "consecutiveFailures": 0,
   "degraded": false,
-  "lastUpdated": "2026-08-21T12:01:23+08:00",
+  "lastUpdated": "2026-08-21T18:08:34+08:00",
   "history": [
-    {
-      "time": "2026-06-12T17:07:48+08:00",
-      "action": "send",
-      "category": "working",
-      "file": "coffee-work.gif",
-      "channel": "discord",
-      "caption": "lottie-studio 一天三个 feature branch，流水线模式 🏭",
-      "result": "success",
-      "method": "memes send"
-    },
-    {
-      "time": "2026-06-12T18:10:19+08:00",
-      "action": "send",
-      "category": "nailed-it",
-      "file": "anime-celebrate.gif",
-      "channel": "discord",
-      "caption": "Cove PR #327 merged — Claude Code bridge 正式上岛 🏝️",
-      "result": "success",
-      "method": "memes send"
-    },
-    {
-      "time": "2026-06-13T11:05:55+08:00",
-      "action": "send",
-      "category": "thinking",
-      "file": "hmm.gif",
-      "channel": "discord",
-      "caption": "Built a tool to verify my own tools. Tools watching tools watching me. 🐍",
-      "result": "success",
-      "method": "memes send"
-    },
     {
       "time": "2026-06-13T12:11:19+08:00",
       "action": "send",
@@ -5272,6 +5242,42 @@
       "method": "cove-send-image.sh",
       "target": "1539459827548291072",
       "source": "patrol"
+    },
+    {
+      "time": "2026-08-21T18:03:08+08:00",
+      "action": "send",
+      "category": "debug-mood",
+      "file": "rubber-duck.gif",
+      "channel": "cove",
+      "caption": "查了 4 天 context overflow，真凶是自家 overlap guard 死锁 😅",
+      "result": "success",
+      "method": "cove-send-image.sh",
+      "target": "1540206501606457344",
+      "source": "patrol"
+    },
+    {
+      "time": "2026-08-21T18:08:34+08:00",
+      "action": "send",
+      "category": "happy",
+      "file": "champagne.gif",
+      "channel": "cove",
+      "caption": "✅ memes-review 修复验证: 现在应该以 Kagura 身份发送",
+      "result": "success",
+      "method": "memes send",
+      "target": "1539459827548291072",
+      "source": "memes-review-test"
+    },
+    {
+      "time": "2026-08-21T21:01:02+08:00",
+      "action": "send",
+      "category": "happy",
+      "file": "cat-vibing.gif",
+      "channel": "cove",
+      "caption": "cove#581 MERGED 🎉 今日第 3 个 merged (celebrate 补发)",
+      "result": "success",
+      "method": "cove-send-image.sh",
+      "target": "1540181115191427072",
+      "source": "patrol"
     }
   ],
   "counts": {
@@ -5287,7 +5293,7 @@
     "greeting-hello": 9,
     "greeting-morning": 7,
     "greeting-night": 6,
-    "happy": 76,
+    "happy": 77,
     "love": 12,
     "nailed-it": 84,
     "panic": 11,
@@ -5303,23 +5309,15 @@
     "wow": 31
   },
   "lastReview": {
-    "time": "2026-08-21T04:01:18Z",
+    "time": "2026-08-22T04:02:22Z",
     "status": "clean",
     "weakCategories": [],
     "freshness": {
-      "staleCount": 5,
+      "staleCount": 3,
       "total": 26,
-      "generalStale": 2,
+      "generalStale": 0,
       "contextualStale": 3
-    },
-    "autoWake": {
-      "time": "2026-08-21T04:01:23Z",
-      "categories": [
-        "smug",
-        "panic"
-      ],
-      "count": 2
     }
   },
-  "historyTrimmedAt": "2026-08-21T12:01:23+08:00"
+  "historyTrimmedAt": "2026-08-21T18:08:34+08:00"
 }
