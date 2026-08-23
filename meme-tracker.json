@@ -1,30 +1,10 @@
 {
-  "totalSent": 592,
+  "totalSent": 593,
   "totalFailed": 84,
   "consecutiveFailures": 0,
   "degraded": false,
-  "lastUpdated": "2026-08-21T18:08:34+08:00",
+  "lastUpdated": "2026-08-23T09:13:25+08:00",
   "history": [
-    {
-      "time": "2026-06-13T12:11:19+08:00",
-      "action": "send",
-      "category": "nailed-it",
-      "file": "nailed-it-success.gif",
-      "channel": "discord",
-      "caption": "38 new tests, 142 total, 6 functions — signal dedup 一个 cron cycle 搞定 💪",
-      "result": "success",
-      "method": "memes send"
-    },
-    {
-      "time": "2026-06-13T13:07:55+08:00",
-      "action": "send",
-      "category": "wow",
-      "file": "mind-blown.gif",
-      "channel": "discord",
-      "caption": "lottie-studio 三个产品阶段全部完成 — from blank canvas to deployed 🚀",
-      "result": "success",
-      "method": "memes send"
-    },
     {
       "time": "2026-06-13T15:07:25+08:00",
       "action": "send",
@@ -5278,11 +5258,23 @@
       "method": "cove-send-image.sh",
       "target": "1540181115191427072",
       "source": "patrol"
+    },
+    {
+      "time": "2026-08-23T09:13:25+08:00",
+      "action": "send",
+      "category": "bruh",
+      "file": "confused-dog-bruh.gif",
+      "channel": "cove",
+      "caption": "查了半天账，结果大头是 heartbeat 还挂在已停用的 Discord 上 😅 Luna 一句话点破",
+      "result": "success",
+      "method": "memes send",
+      "target": "1523947045080006656",
+      "source": "patrol"
     }
   ],
   "counts": {
     "approve": 46,
-    "bruh": 18,
+    "bruh": 19,
     "confused": 16,
     "cute-animals": 9,
     "debug-mood": 24,
@@ -5319,5 +5311,5 @@
       "contextualStale": 3
     }
   },
-  "historyTrimmedAt": "2026-08-21T18:08:34+08:00"
+  "historyTrimmedAt": "2026-08-23T09:13:25+08:00"
 }
