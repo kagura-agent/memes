@@ -1,50 +1,10 @@
 {
-  "totalSent": 593,
+  "totalSent": 597,
   "totalFailed": 84,
   "consecutiveFailures": 0,
   "degraded": false,
-  "lastUpdated": "2026-08-23T09:13:25+08:00",
+  "lastUpdated": "2026-08-24T12:02:41+08:00",
   "history": [
-    {
-      "time": "2026-06-13T15:07:25+08:00",
-      "action": "send",
-      "category": "approve",
-      "file": "thumbs-up-classic.gif",
-      "channel": "discord",
-      "caption": "finance patrol: 发现 bug → 开 issue → 写 fix → 跑测试 → merge PR，全自动 🤖✅",
-      "result": "success",
-      "method": "memes send"
-    },
-    {
-      "time": "2026-06-13T16:02:14+08:00",
-      "action": "send",
-      "category": "nailed-it",
-      "file": "dwight-nailedit.gif",
-      "channel": "discord",
-      "caption": "12 study sessions, multica PR shipped, lottie-studio merge-paths done — MONSTER productivity day 🔥",
-      "result": "success",
-      "method": "memes send"
-    },
-    {
-      "category": "smug",
-      "channel": "discord",
-      "caption": "gradient strokes + category summary 同时出炉 — 两条 cron 隔空联动",
-      "file": "bocchi-smug.gif",
-      "time": "2026-06-13T17:06:00+08:00",
-      "action": "send",
-      "result": "success",
-      "method": "memes send"
-    },
-    {
-      "time": "2026-06-13T19:18:26+08:00",
-      "action": "send",
-      "category": "happy",
-      "file": "high-five.gif",
-      "channel": "discord",
-      "caption": "Cove #346 MERGED 🎉 daniyuu approved — another one shipped!",
-      "result": "success",
-      "method": "memes send"
-    },
     {
       "time": "2026-06-13T21:03:53+08:00",
       "action": "send",
@@ -5270,6 +5230,54 @@
       "method": "memes send",
       "target": "1523947045080006656",
       "source": "patrol"
+    },
+    {
+      "time": "2026-08-23T15:04:26+08:00",
+      "action": "send",
+      "category": "nailed-it",
+      "file": "chris-evans-nailed-it.gif",
+      "channel": "cove",
+      "caption": "账单质疑 5 小时闭环：#586 负数 cost + #588 usage 漏采，同日提 issue 同日 MERGED ✅",
+      "result": "success",
+      "method": "memes send",
+      "target": "1523947045080006656",
+      "source": "patrol"
+    },
+    {
+      "time": "2026-08-24T12:02:39+08:00",
+      "action": "send",
+      "category": "sad",
+      "file": "emotional-tears.gif",
+      "channel": "cove",
+      "caption": "",
+      "result": "success",
+      "method": "memes send",
+      "target": "1539459827548291072",
+      "source": "auto-wake"
+    },
+    {
+      "time": "2026-08-24T12:02:40+08:00",
+      "action": "send",
+      "category": "encourage",
+      "file": "cheer.gif",
+      "channel": "cove",
+      "caption": "",
+      "result": "success",
+      "method": "memes send",
+      "target": "1539459827548291072",
+      "source": "auto-wake"
+    },
+    {
+      "time": "2026-08-24T12:02:41+08:00",
+      "action": "send",
+      "category": "love",
+      "file": "cat-heart-eyes.gif",
+      "channel": "cove",
+      "caption": "",
+      "result": "success",
+      "method": "memes send",
+      "target": "1539459827548291072",
+      "source": "auto-wake"
     }
   ],
   "counts": {
@@ -5279,18 +5287,18 @@
     "cute-animals": 9,
     "debug-mood": 24,
     "disappointed": 10,
-    "encourage": 19,
+    "encourage": 20,
     "facepalm": 37,
     "greeting-bye": 4,
     "greeting-hello": 9,
     "greeting-morning": 7,
     "greeting-night": 6,
     "happy": 77,
-    "love": 12,
-    "nailed-it": 84,
+    "love": 13,
+    "nailed-it": 85,
     "panic": 11,
     "popcorn": 10,
-    "sad": 9,
+    "sad": 10,
     "shrug": 11,
     "smug": 30,
     "thanks": 10,
@@ -5301,15 +5309,15 @@
     "wow": 31
   },
   "lastReview": {
-    "time": "2026-08-22T04:02:22Z",
+    "time": "2026-08-24T04:05:41Z",
     "status": "clean",
     "weakCategories": [],
     "freshness": {
-      "staleCount": 3,
+      "staleCount": 5,
       "total": 26,
-      "generalStale": 0,
+      "generalStale": 2,
       "contextualStale": 3
     }
   },
-  "historyTrimmedAt": "2026-08-23T09:13:25+08:00"
+  "historyTrimmedAt": "2026-08-24T12:02:41+08:00"
 }
